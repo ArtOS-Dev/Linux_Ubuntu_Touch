@@ -11,4 +11,5 @@
 #
 # By default this script does nothing.
 
-exit 0
+# Fix Wifi For Whyred
+LD_LIBRARY_PATH=/system/lib64:/vendor/lib64 /vendor/bin/cnss-daemon
