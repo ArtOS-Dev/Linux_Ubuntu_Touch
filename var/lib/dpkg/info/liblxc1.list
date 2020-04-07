@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/lxc
+/usr/lib/arm-linux-gnueabihf/lxc/README
+/usr/lib/arm-linux-gnueabihf/liblxc.so.1.2.0
+/usr/share
+/usr/share/doc
+/usr/share/doc/liblxc1
+/usr/share/doc/liblxc1/copyright
+/usr/share/doc/liblxc1/changelog.Debian.gz
+/usr/share/lintian/overrides/liblxc1
+/usr/lib/arm-linux-gnueabihf/liblxc.so.1

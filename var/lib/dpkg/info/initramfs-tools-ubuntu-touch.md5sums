@@ -1,0 +1,15 @@
+ae99f92fd63534e3ed89002cfe9a9b9a  usr/sbin/append-cmdline-arg
+d8da33e3c3008fab0b31582e16dc53b4  usr/sbin/flash-touch-initrd
+7c9030f8553cb3a2dfdb08f60d44c4c8  usr/sbin/flash-touch-kernel
+df94f60b726ff7b22b84b076bef7fe61  usr/sbin/remove-cmdline-arg
+1549e7139f642b60c81fe50738d3ce71  usr/share/doc/initramfs-tools-ubuntu-touch/changelog.gz
+61ed2d860e0d88d1d68e4a3c2248be4e  usr/share/doc/initramfs-tools-ubuntu-touch/copyright
+f3202fb42c51eb50f81d55cbca6156e1  usr/share/initramfs-tools-ubuntu-touch/bootimg.cfg-grouper
+ac3370a26c891f90466f8d51dd33ffde  usr/share/initramfs-tools-ubuntu-touch/bootimg.cfg-maguro
+71c96ff4952b6a6e1998bb63c6b3a7c9  usr/share/initramfs-tools-ubuntu-touch/bootimg.cfg-mako
+2eed333a18a6d9160dc148c1ad8f307c  usr/share/initramfs-tools-ubuntu-touch/bootimg.cfg-manta
+c706f71ec65494664a040f3fa2de1a1f  usr/share/initramfs-tools-ubuntu-touch/fstab
+1af62de42d336f79a435439939212a0c  usr/share/initramfs-tools/conf.d/touch
+7b093f68a8d3d7f3f68d4bfd9709a31d  usr/share/initramfs-tools/hooks/touch
+05f36eaf0f09691f5e6d8185a425d052  usr/share/initramfs-tools/scripts/panic/adbd
+bc1c2bfe15e0b6950594ff74e1703004  usr/share/initramfs-tools/scripts/touch

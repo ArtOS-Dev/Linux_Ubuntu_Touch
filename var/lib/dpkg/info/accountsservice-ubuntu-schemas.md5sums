@@ -1,0 +1,10 @@
+6b3148a50315e2610f34498fa13e1516  usr/share/dbus-1/interfaces/com.ubuntu.AccountsService.Input.xml
+3381c90032c5ff88741d93d766fc5a9f  usr/share/dbus-1/interfaces/com.ubuntu.AccountsService.SecurityPrivacy.xml
+f1dd78914906af3aed7a2ffa283b13dc  usr/share/dbus-1/interfaces/com.ubuntu.AccountsService.Sound.xml
+0f185ad227ea283d020758435704b6c1  usr/share/dbus-1/interfaces/com.ubuntu.touch.AccountsService.Phone.xml
+43cc0dccb9a59df2691e0bc44568ad28  usr/share/dbus-1/interfaces/com.ubuntu.touch.AccountsService.SecurityPrivacy.xml
+c7ebb409133502f798f28614839139ed  usr/share/dbus-1/interfaces/com.ubuntu.touch.AccountsService.Sound.xml
+3135b9fb40749681e30633d57a4901b1  usr/share/doc/accountsservice-ubuntu-schemas/changelog.gz
+4fe5fb767c36788cecca4d89fc75bfc4  usr/share/doc/accountsservice-ubuntu-schemas/copyright
+0d110f6202a7f89c2d3789827d583628  usr/share/polkit-1/actions/com.ubuntu.AccountsService.policy
+92eba29d26ce20cb20a6451b636c7dfa  var/lib/polkit-1/localauthority/10-vendor.d/50-com.ubuntu.AccountsService.pkla

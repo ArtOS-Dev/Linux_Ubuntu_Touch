@@ -1,0 +1,9 @@
+96288f1bfaccba84f7e936c17fb3ec76  usr/share/doc/myspell-lv/README_hyph_lv_LV.txt.gz
+ab8b8a49b0b5200fa058b90ab17f089d  usr/share/doc/myspell-lv/README_lv_LV.txt.gz
+3ba4e79f50236ffe0458e300ab5c02f2  usr/share/doc/myspell-lv/changelog.Debian.gz
+d1db0d567e668de4a145a97a66abed94  usr/share/doc/myspell-lv/copyright
+b9670fd5123c30c3d616e416869a1b80  usr/share/doc/myspell-lv/version.txt
+f02847837f3b657a8a92695dfb9bebeb  usr/share/hunspell/lv_LV.aff
+c6f09eac466725606d78fa8be37b43f7  usr/share/hunspell/lv_LV.dic
+090db4619571ccbdd796c4076c893b4d  usr/share/hyphen/hyph_lv_LV.dic
+d404a396937f9728663cd5906ef1e050  var/lib/dictionaries-common/hunspell/myspell-lv

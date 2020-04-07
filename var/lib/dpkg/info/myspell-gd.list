@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/share
+/usr/share/myspell
+/usr/share/myspell/dicts
+/usr/share/myspell/infos
+/usr/share/myspell/infos/ooo
+/usr/share/myspell/infos/ooo/myspell-gd
+/usr/share/doc
+/usr/share/doc/myspell-gd
+/usr/share/doc/myspell-gd/copyright
+/usr/share/doc/myspell-gd/changelog.Debian.gz
+/usr/share/hunspell
+/usr/share/hunspell/gd_GB.aff
+/usr/share/hunspell/gd_GB.dic
+/usr/share/myspell/dicts/gd-GB.aff
+/usr/share/myspell/dicts/gd-GB.dic

@@ -1,0 +1,9 @@
+edb3ab679142d8f6e7871afe29c282f7  usr/bin/debsig-verify
+4ccab3a8378a32a7400ade871a3f31fc  usr/share/doc/debsig-verify/changelog.gz
+46842a12bb5f84004764cdea9ff44c0c  usr/share/doc/debsig-verify/copyright
+d58f24cabf1eec12d4d333823722cacf  usr/share/doc/debsig-verify/examples/generic.pol
+2a673d0f1f11bd3e1b415abf432d1878  usr/share/doc/debsig-verify/examples/nameid.pol
+cd5ddb2bd45cb6448c5ed990c3e80a2a  usr/share/doc/debsig-verify/policy-syntax.txt
+b0c363c95a38fe668008e34ecc24905f  usr/share/doc/debsig-verify/policy.dtd
+1496e16d140bedd51c16d979c7c7e616  usr/share/lintian/overrides/debsig-verify
+9da376712b13ca2bdf269dc1098587c9  usr/share/man/man1/debsig-verify.1.gz

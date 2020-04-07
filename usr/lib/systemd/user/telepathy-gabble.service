@@ -1,0 +1,8 @@
+[Unit]
+Description=Telepathy XMPP service
+Documentation=man:telepathy-gabble(8)
+
+[Service]
+Type=dbus
+BusName=org.freedesktop.Telepathy.ConnectionManager.gabble
+ExecStart=/usr/lib/telepathy/telepathy-gabble

@@ -1,0 +1,63 @@
+#! /bin/sh
+
+set -e
+
+ACTION=""
+SERVICE=""
+
+cleanup()
+{
+    [ $? != "0" ] && STATUS="failed:" || STATUS="succeeded" exit 0
+    echo "$(basename $0) $STATUS $ERROR"
+}
+
+trap cleanup EXIT INT QUIT ILL KILL SEGV TERM
+
+while [ $# -gt 0 ]; do
+       case "$1" in
+               enable)
+                       ACTION=true
+                       [ -n "$2" ] && SERVICE=$2 shift || ERROR="enable: need service name" exit 1
+                       ;;
+               disable)
+                       ACTION=false
+                       [ -n "$2" ] && SERVICE=$2 shift || ERROR="enable: need service name" exit 1
+                       ;;
+               status)
+                       ACTION=status
+                       [ -n "$2" ] && SERVICE=$2 shift || ERROR="status: need service name" exit 1
+                       ;;
+                *help)
+                       echo "usage: $(basename $0) [enable|disable|status] [adb|mtp|ptp|rndis]"
+                       exit 0
+                       ;;
+               *)
+                       ERROR="$1 is unknown" exit 1
+                       ;;
+       esac
+       shift
+done
+
+[ -n "$ACTION" ] || ERROR="need an argument (enable/disable/status)" exit 1
+[ -n "$SERVICE" ] || ERROR="need a service name (mtp/adb/ptp/rndis)" exit 1
+
+case $ACTION in
+    status)
+        retval="$(dbus-send --system --print-reply \
+		--dest="com.canonical.PropertyService" \
+            	/com/canonical/PropertyService \
+		com.canonical.PropertyService.GetProperty \
+		string:$SERVICE|tail -1)"
+	[ -n "$( echo $retval| grep true)" ] && echo "$SERVICE enabled"
+	[ -n "$( echo $retval| grep false)" ] && echo "$SERVICE disabled"
+        ;;
+    true|false)
+        retval=$(dbus-send --system --print-reply \
+		--dest="com.canonical.PropertyService" \
+            	/com/canonical/PropertyService com.canonical.PropertyService.SetProperty \
+		string:$SERVICE boolean:$ACTION|tail -1|grep true)
+	exec $0 status $SERVICE
+        ;;
+esac
+
+exit 0

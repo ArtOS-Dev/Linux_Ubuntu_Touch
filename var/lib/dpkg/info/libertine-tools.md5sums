@@ -1,0 +1,8 @@
+c08ca92638abb7d62aa327993767d7a2  usr/bin/libertine-container-manager
+150e253d64c4321e88e93cd0d5a5b246  usr/bin/libertine-shell
+0affd5ec721242dcc12a13b2123aa245  usr/share/bash-completion/completions/libertine-container-manager
+1ee2883e0753bb88361d5d8426b5dd39  usr/share/bash-completion/completions/libertine-shell
+48f4c34c8676520e781d5303d3d08aca  usr/share/doc/libertine-tools/changelog.gz
+363c1ce6b129e0e537d2c4b1fd5bdb4e  usr/share/doc/libertine-tools/copyright
+0121e58c52e0cd80415ac4e0c4e606c5  usr/share/man/man1/libertine-container-manager.1.gz
+53a1d159b96342e385ab44a4cc667a5f  usr/share/man/man1/libertine-shell.1.gz

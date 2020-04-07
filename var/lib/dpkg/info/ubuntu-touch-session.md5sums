@@ -1,0 +1,15 @@
+8e26a50e4b040a9c7ad167355be5a17b  lib/systemd/system/display-manager.service.d/ubuntu-touch-session.conf
+ebe416db2fa24542adcb4bae9c5ad726  usr/bin/create-online-accounts
+b8f41b2d9906a7c1ac8a1c55453b2c51  usr/sbin/ubuntu-touch-lightdm-session
+352201861e7cf9ca23a33f6077b37eae  usr/share/doc/ubuntu-touch-session/changelog.gz
+a9d6579a8ca16b0f8d4a5c1b23fa48cc  usr/share/doc/ubuntu-touch-session/copyright
+692a6656773c0575b543fe51513c0e89  usr/share/pam-configs/touch-extrausers
+cc06bc3b1bb0fc4f15baff832eb6d006  usr/share/upstart/sessions/bluez-mpris-proxy.conf
+05a05324460ad5ecdbc0dee77dadf767  usr/share/upstart/sessions/cameraservice-trust-stored.conf
+75a7d5cf58be0fbd20faf023aab11ac3  usr/share/upstart/sessions/indicator-sound.override
+34e5f29231c63bac93c693915957dd47  usr/share/upstart/sessions/obexd.conf
+8039032d8f684a2793258102fae4aed4  usr/share/upstart/sessions/ofono-setup.conf
+2b9d19aeb1938c5617be361b4fe0bfed  usr/share/upstart/sessions/pulseaudio-trust-stored.conf
+f1035cc04833b4306e0ace8a77632104  usr/share/upstart/sessions/pulseaudio.conf
+da56ab3bd1f9cf428d4d544f0ce67643  usr/share/upstart/sessions/xdg-dirs.conf
+25ec9f5a883f253c83e796a34f334025  var/lib/polkit-1/localauthority/10-vendor.d/com.ubuntu.touch.NetworkManager.pkla

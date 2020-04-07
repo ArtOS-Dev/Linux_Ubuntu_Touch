@@ -1,0 +1,5 @@
+6daf78636197de7073b56145ebc95eb3  usr/sbin/system-image-dbus
+0f1722b538262679758bb082266c34d1  usr/share/dbus-1/system-services/com.canonical.SystemImage.service
+9e393c8365785340264db78755c13a91  usr/share/doc/system-image-dbus/changelog.Debian.gz
+da575fafb0ca0d52fcd9d78bb46fa0e3  usr/share/doc/system-image-dbus/changelog.gz
+11672902929573b23420723a4733bb2b  usr/share/doc/system-image-dbus/copyright

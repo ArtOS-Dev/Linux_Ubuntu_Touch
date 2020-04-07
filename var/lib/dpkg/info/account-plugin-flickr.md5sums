@@ -1,0 +1,6 @@
+966db6e253f709482d0ce3e80efdee72  usr/share/accounts/providers/flickr.provider
+48262ee62ebd37192066577b3d36e7e2  usr/share/accounts/qml-plugins/flickr/Main.qml
+d549fcca0d87c1f23edfde9373daf772  usr/share/accounts/services/flickr-microblog.service
+3405db9978701382fca0215fa3704a09  usr/share/accounts/services/flickr-sharing.service
+c794d732a42070dfb672cc5ac7902b73  usr/share/doc/account-plugin-flickr/changelog.gz
+159e83d94912881f23010e94ce02fb6a  usr/share/doc/account-plugin-flickr/copyright

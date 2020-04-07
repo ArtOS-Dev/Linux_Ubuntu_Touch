@@ -1,0 +1,26 @@
+{
+    "architecture": "armhf",
+    "description": "A sophisticated clock app for Ubuntu Touch",
+    "framework": "ubuntu-sdk-16.04",
+    "hooks": {
+        "clock": {
+            "apparmor": "ubuntu-clock-app.json",
+            "desktop": "share/applications/ubuntu-clock-app.desktop",
+            "urls": "share/url-dispatcher/urls/com.ubuntu.clock_clock.url-dispatcher"
+        }
+    },
+    "icon": "clock@30.png",
+    "installed-size": "2754",
+    "maintainer": "UBports <dev@ubports.com>",
+    "name": "com.ubuntu.clock",
+    "title": "Clock",
+    "version": "3.12.3",
+    "x-test": {
+        "autopilot": {
+            "autopilot_module": "ubuntu_clock_app",
+            "depends": [
+                "python3-lxml"
+            ]
+        }
+    }
+}

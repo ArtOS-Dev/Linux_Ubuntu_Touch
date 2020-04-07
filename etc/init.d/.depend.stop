@@ -1,0 +1,10 @@
+TARGETS = cgmanager alsa-utils cgproxy cgroupfs-mount isc-dhcp-server resolvconf ufw bluetooth lightdm openvpn plymouth urandom sendsigs rsyslog umountnfs.sh hwclock.sh networking umountfs umountroot halt reboot
+sendsigs: plymouth openvpn bluetooth alsa-utils lightdm cgroupfs-mount isc-dhcp-server
+rsyslog: sendsigs openvpn bluetooth cgroupfs-mount isc-dhcp-server
+umountnfs.sh: rsyslog plymouth openvpn sendsigs bluetooth alsa-utils lightdm cgroupfs-mount isc-dhcp-server
+hwclock.sh: rsyslog
+networking: openvpn umountnfs.sh lightdm isc-dhcp-server
+umountfs: plymouth urandom openvpn bluetooth alsa-utils umountnfs.sh lightdm hwclock.sh cgroupfs-mount isc-dhcp-server networking resolvconf
+umountroot: umountfs
+halt: umountroot
+reboot: umountroot

@@ -1,0 +1,4 @@
+Pattern: ${home}/.cache/url-dispatcher/click-urls/${id}.url-dispatcher
+Exec: /usr/lib/arm-linux-gnueabihf/url-dispatcher/update-directory $HOME/.cache/url-dispatcher/click-urls/
+User-Level: yes
+Hook-Name: urls

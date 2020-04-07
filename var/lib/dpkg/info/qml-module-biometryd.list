@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/qt5
+/usr/lib/arm-linux-gnueabihf/qt5/qml
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Biometryd
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Biometryd/plugins.qmltypes
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Biometryd/qmldir
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Biometryd/libbiometryd-qml.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/qml-module-biometryd
+/usr/share/doc/qml-module-biometryd/changelog.gz
+/usr/share/doc/qml-module-biometryd/copyright

@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/account-plugin-owncloud
+/usr/share/doc/account-plugin-owncloud/changelog.gz
+/usr/share/doc/account-plugin-owncloud/copyright
+/usr/share/accounts
+/usr/share/accounts/qml-plugins
+/usr/share/accounts/qml-plugins/owncloud
+/usr/share/accounts/qml-plugins/owncloud/NewAccount.qml
+/usr/share/accounts/qml-plugins/owncloud/Main.qml
+/usr/share/accounts/providers
+/usr/share/accounts/providers/owncloud.provider

@@ -1,0 +1,93 @@
+#!/bin/bash
+
+################################################################################
+# Copyright 2012-2013 Canonical Ltd.
+#
+# This program is free software: you can redistribute it and/or modify it 
+# under the terms of the GNU General Public License version 3, as published 
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful, but 
+# WITHOUT ANY WARRANTY; without even the implied warranties of 
+# MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR 
+# PURPOSE.  See the GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License along 
+# with this program.  If not, see <http://www.gnu.org/licenses/>.
+################################################################################
+
+FB_USERNAME=$1
+FB_PASSWORD=$2
+TWITTER_USERNAME=$3
+TWITTER_PASSWORD=$4
+ 
+CREATION_PARAMS_FB=('--print-id' \
+        -s 'auth/method=oauth2' \
+        -s 'auth/mechanism=user_agent' \
+        -s 'u:auth/oauth2/user_agent/WindowId=2341' \
+        -s 'auth/oauth2/user_agent/Host=www.facebook.com' \
+        -s 'auth/oauth2/user_agent/AuthPath=/dialog/oauth' \
+        -s 'auth/oauth2/user_agent/ClientId=302061903208115' \
+        -s 'auth/oauth2/user_agent/RedirectUri=https://www.facebook.com/connect/login_success.html' \
+        -s 'auth/oauth2/user_agent/ResponseType/item0=token' \
+        -s "as:auth/oauth2/user_agent/Scope=["\
+"'publish_stream',"\
+"'read_stream',"\
+"'status_update',"\
+"'user_photos',"\
+"'friends_photos',"\
+"'xmpp_login']" \
+        -s 'auth/oauth2/user_agent/Display=popup' \
+)
+
+CREATION_PARAMS_TWITTER=('--print-id' \
+        -s 'auth/method=oauth2' \
+        -s 'auth/mechanism=HMAC-SHA1' \
+        -s 'u:auth/oauth2/HMAC-SHA1/WindowId=2341' \
+        -s 'auth/oauth2/HMAC-SHA1/RequestEndpoint=https://api.twitter.com/oauth/request_token' \
+        -s 'auth/oauth2/HMAC-SHA1/TokenEndpoint=https://api.twitter.com/oauth/access_token' \
+        -s 'auth/oauth2/HMAC-SHA1/AuthorizationEndpoint=https://api.twitter.com/oauth/authorize' \
+        -s 'auth/oauth2/HMAC-SHA1/ConsumerKey=NGOB5S7sICsj6epjh0PhAw' \
+        -s 'auth/oauth2/HMAC-SHA1/ConsumerSecret=rbUEJCBEokMnGZd8bubd0QL2cSmoCjJeyiSJpnx3OM0' \
+        -s 'auth/oauth2/HMAC-SHA1/Callback=https://wiki.ubuntu.com/' \
+)
+
+account-console list | grep "provider"
+
+if [ ${?} -ne "0" ]; then
+    ID_FACEBOOK="$(account-console create facebook ${CREATION_PARAMS_FB[@]})"
+    account-console edit "$ID_FACEBOOK" --username $FB_USERNAME --password $FB_PASSWORD 
+     
+    ID_TWITTER="$(account-console create twitter ${CREATION_PARAMS_TWITTER[@]})"
+    account-console edit "$ID_TWITTER" --username $TWITTER_USERNAME --password $TWITTER_PASSWORD
+else
+    fb_array=( $(account-console list | grep facebook) )
+    ID_FACEBOOK=${fb_array[2]%?}
+    tw_array=( $(account-console list | grep twitter) )
+    ID_TWITTER=${tw_array[2]%?}
+    echo "Accounts already present"
+fi
+ 
+no_network=true
+
+while [ $no_network == true ]; do
+    ip addr show wlan0 | grep "inet " &> /dev/null
+    if [ $? -eq 0 ]; then
+        no_network=false
+    else
+        sleep 5
+    fi
+done
+
+pkill signon-ui
+signon-ui & 
+sleep 4
+
+account-console login "${ID_FACEBOOK}" --service facebook-microblog
+account-console login "${ID_TWITTER}" --service twitter-microblog
+
+account-console edit "${ID_FACEBOOK}" --enable --service facebook-microblog
+account-console edit "${ID_TWITTER}" --enable --service twitter-microblog
+
+pkill friends-service
+friends-service -do &

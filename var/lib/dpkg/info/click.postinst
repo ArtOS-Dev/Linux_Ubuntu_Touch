@@ -1,0 +1,49 @@
+#! /bin/sh
+set -e
+
+if [ "$1" = configure ]; then
+	if ! getent passwd clickpkg >/dev/null; then
+		adduser --quiet --system --home /nonexistent --no-create-home \
+			--disabled-password --shell /bin/false --group \
+			clickpkg
+	fi
+
+	mkdir -p -m 755 /opt/click.ubuntu.com
+	chown clickpkg:clickpkg /opt/click.ubuntu.com
+
+	# dh-systemd has no support yet for user systemd units
+	# so we need to do this manually here
+        if which systemctl >/dev/null 2>&1; then
+	    systemctl --global enable click-user-hooks.service || true
+        fi
+fi
+
+# Automatically added by dh_click
+if [ "$1" = "configure" ] && which click >/dev/null 2>&1; then
+	click hook install click-desktop
+fi
+# End automatically added section
+# Automatically added by dh_systemd_enable
+# This will only remove masks created by d-s-h on package removal.
+deb-systemd-helper unmask click-system-hooks.service >/dev/null || true
+
+# was-enabled defaults to true, so new installations run enable.
+if deb-systemd-helper --quiet was-enabled click-system-hooks.service; then
+	# Enables the unit on first installation, creates new
+	# symlinks on upgrades if the unit file has changed.
+	deb-systemd-helper enable click-system-hooks.service >/dev/null || true
+else
+	# Update the statefile to add new symlinks (if any), which need to be
+	# cleaned up on purge. Also remove old symlinks.
+	deb-systemd-helper update-state click-system-hooks.service >/dev/null || true
+fi
+# End automatically added section
+# Automatically added by dh_systemd_start
+if [ -d /run/systemd/system ]; then
+	systemctl --system daemon-reload >/dev/null || true
+	deb-systemd-invoke start click-system-hooks.service >/dev/null || true
+fi
+# End automatically added section
+
+
+exit 0

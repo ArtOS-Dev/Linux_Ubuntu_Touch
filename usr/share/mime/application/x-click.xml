@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-click">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Click package</comment>
+  <sub-class-of type="application/x-deb"/>
+  <generic-icon name="package-x-generic"/>
+  <glob pattern="*.click"/>
+</mime-type>

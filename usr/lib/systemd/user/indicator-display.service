@@ -1,0 +1,8 @@
+[Unit]
+Description=Indicator Display Backend
+PartOf=graphical-session.target
+After=indicators-pre.target
+
+[Service]
+ExecStart=/usr/lib/arm-linux-gnueabihf/indicator-display/indicator-display-service
+Restart=on-failure

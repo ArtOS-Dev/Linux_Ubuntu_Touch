@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/qt5
+/usr/lib/arm-linux-gnueabihf/qt5/qml
+/usr/lib/arm-linux-gnueabihf/qt5/qml/GSettings.1.0
+/usr/lib/arm-linux-gnueabihf/qt5/qml/GSettings.1.0/plugins.qmltypes
+/usr/lib/arm-linux-gnueabihf/qt5/qml/GSettings.1.0/qmldir
+/usr/lib/arm-linux-gnueabihf/qt5/qml/GSettings.1.0/libGSettingsQmlPlugin.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/qtdeclarative5-gsettings1.0
+/usr/share/doc/qtdeclarative5-gsettings1.0/changelog.gz
+/usr/share/doc/qtdeclarative5-gsettings1.0/copyright

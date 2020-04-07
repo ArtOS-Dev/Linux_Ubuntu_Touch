@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/smemstat
+/usr/share/doc/smemstat/copyright
+/usr/share/doc/smemstat/changelog.Debian.gz
+/usr/share/man/man8/smemstat.8.gz
+/usr/bin
+/usr/bin/smemstat

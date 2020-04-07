@@ -1,0 +1,25 @@
+{
+    "architecture": "all",
+    "description": "A weather forecast application for Ubuntu with support for multiple online weather data sources",
+    "framework": "ubuntu-sdk-16.04",
+    "hooks": {
+        "weather": {
+            "apparmor": "ubuntu-weather-app.apparmor",
+            "desktop": "share/applications/ubuntu-weather-app.desktop",
+            "urls": "ubuntu-weather-app.url-dispatcher"
+        }
+    },
+    "icon": "app/weather-app.svg",
+    "installed-size": "1893",
+    "maintainer": "UBports <dev@ubports.com>",
+    "name": "com.ubuntu.weather",
+    "title": "Weather",
+    "version": "5.2.2",
+    "x-source": {
+        "vcs-bzr": "lp:ubuntu-weather-app/reboot",
+        "vcs-bzr-revno": ""
+    },
+    "x-test": {
+        "autopilot": "ubuntu_weather_app"
+    }
+}

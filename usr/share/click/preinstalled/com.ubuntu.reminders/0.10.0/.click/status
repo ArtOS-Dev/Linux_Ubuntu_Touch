@@ -1,0 +1,9 @@
+Package: com.ubuntu.reminders
+Status: install ok installed
+Installed-Size: 10364
+Maintainer: UBports <dev@ubports.com>
+Architecture: armhf
+Version: 0.10.0
+Description: Notes
+Click-Version: 0.4
+

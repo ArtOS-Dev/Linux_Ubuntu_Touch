@@ -1,0 +1,18 @@
+#!/bin/sh
+
+set -e
+
+# Make the setuid helper setuid
+
+if [ "$1" = configure ]; then
+	chmod u+s /usr/lib/arm-linux-gnueabihf/ubuntu-app-launch/oom-adjust-setuid-helper
+fi
+
+# Automatically added by dh_click
+if [ "$1" = "configure" ] && which click >/dev/null 2>&1; then
+	click hook install ubuntu-app-launch-desktop
+fi
+# End automatically added section
+
+
+exit 0

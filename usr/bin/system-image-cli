@@ -1,0 +1,10 @@
+#! /usr/bin/python3
+# EASY-INSTALL-ENTRY-SCRIPT: 'system-image==3.1','console_scripts','system-image-cli'
+__requires__ = 'system-image==3.1'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('system-image==3.1', 'console_scripts', 'system-image-cli')()
+    )

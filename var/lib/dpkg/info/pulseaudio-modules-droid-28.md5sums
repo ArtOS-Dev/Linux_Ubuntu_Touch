@@ -1,0 +1,7 @@
+12c8d8be287c1ed4ec55a99cc97a493e  usr/lib/pulse-8.0/modules/libdroid-sink-28.so
+4ca76d3a060fe9bd571c348bfd031d1c  usr/lib/pulse-8.0/modules/libdroid-source-28.so
+fe010d2717c57af9e776edebedc525d4  usr/lib/pulse-8.0/modules/libdroid-util-28.so
+c6eb87b54115d1c1290965a72e22dc22  usr/lib/pulse-8.0/modules/module-droid-card-28.so
+8da2735b04e6d5bb8d5dff6839a454cc  usr/lib/pulse-8.0/modules/module-droid-sink-28.so
+5cfa46ba3456c9068f61a9224ded3eae  usr/lib/pulse-8.0/modules/module-droid-source-28.so
+7ed48e96018bc0a39ced3831316fb144  usr/share/doc/pulseaudio-modules-droid-28/changelog.gz

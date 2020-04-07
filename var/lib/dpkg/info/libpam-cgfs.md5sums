@@ -1,0 +1,4 @@
+b1b62bfad2d013825e26b054b028e355  lib/arm-linux-gnueabihf/security/pam_cgfs.so
+9189af640c7ecbf64130652c583bbecb  usr/share/doc/libpam-cgfs/changelog.Debian.gz
+b59bf2317ac9e1c4c6af88398ce21420  usr/share/doc/libpam-cgfs/copyright
+1c18c44de6f4bceca69c3528df88b4dd  usr/share/pam-configs/cgfs

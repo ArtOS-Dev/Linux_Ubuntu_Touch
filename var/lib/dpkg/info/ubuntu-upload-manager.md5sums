@@ -1,0 +1,5 @@
+407288238a8343d912355bf685fb6fc0  usr/bin/ubuntu-upload-manager
+fb44826e2559c0731b22432865fd4fde  usr/share/dbus-1/services/ubuntu-upload-manager.service
+da0d8701ee69e838b14af89ca15f7f10  usr/share/dbus-1/system-services/com.canonical.applications.Uploader.service
+dda3423d71c4aff31900ff06f29e30f2  usr/share/doc/ubuntu-upload-manager/changelog.gz
+7305ee9425475cfb9293d0015639703b  usr/share/doc/ubuntu-upload-manager/copyright

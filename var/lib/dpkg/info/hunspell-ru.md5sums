@@ -1,0 +1,6 @@
+de632c7f67c6412d5819bf945be1054f  usr/share/doc/hunspell-ru/README.Debian
+df82ab487cc256e733465a639f4d8c68  usr/share/doc/hunspell-ru/changelog.Debian.gz
+156833415909c5325e5751dcf35951bf  usr/share/doc/hunspell-ru/copyright
+53923eab5795ea4ff047e3881e7791bb  usr/share/hunspell/ru_RU.aff
+70924f8e1c963b4860dc75d9c1e158fd  usr/share/hunspell/ru_RU.dic
+cf952c620f9883af635bda014885f32d  var/lib/dictionaries-common/hunspell/hunspell-ru

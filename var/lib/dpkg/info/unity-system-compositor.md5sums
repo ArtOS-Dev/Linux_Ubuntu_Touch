@@ -1,0 +1,12 @@
+3fb14ba75294fae402cd266833d6458b  usr/bin/unity-system-compositor-spinner
+814ce5196fa19891fead8ea2aa3d3aee  usr/sbin/unity-system-compositor
+7406aff85dd5681db31e00c6275dfc47  usr/sbin/unity-system-compositor.sleep
+c51146525bb047b208cf7b40ddedc703  usr/share/apport/package-hooks/source_unity-system-compositor.py
+76e91b7dbb9fbfab3a8e44dc5ddf57ff  usr/share/dbus-1/interfaces/com.canonical.Unity.Display.xml
+bbd533a7d42ff9bb2714e921723f83f8  usr/share/dbus-1/interfaces/com.canonical.Unity.Input.xml
+6806453887eb007d95e3351cfc5c212f  usr/share/dbus-1/interfaces/com.canonical.Unity.PowerButton.xml
+c0a3b3b2d07660c9f3d9bf3260f8ec3e  usr/share/dbus-1/interfaces/com.canonical.Unity.UserActivity.xml
+3b387145beff5e8eea8a9f6c7867ee3e  usr/share/doc/unity-system-compositor/changelog.gz
+d160fab368d8c7445a63294c269e71ab  usr/share/doc/unity-system-compositor/copyright
+294acc7d16d7d5af4c4e84b74740921f  usr/share/man/man1/unity-system-compositor-spinner.1.gz
+9a7bb127385516a44eebd636f7186671  usr/share/man/man1/unity-system-compositor.1.gz

@@ -1,0 +1,5 @@
+d0280e774dd2a53e1bd4793f60960228  usr/lib/arm-linux-gnueabihf/libgflags.so.2.1.2
+00cbfdeaffa6c3f745fe51329ee41a63  usr/lib/arm-linux-gnueabihf/libgflags_nothreads.so.2.1.2
+c011bd2350ed3d49c7eb05fbef094190  usr/share/doc/libgflags2v5/changelog.Debian.gz
+452f14665776c74e6a1636b6f4ae24e6  usr/share/doc/libgflags2v5/copyright
+4abb00b07abe9f2dcab50e367c8f01d1  usr/share/lintian/overrides/libgflags2v5

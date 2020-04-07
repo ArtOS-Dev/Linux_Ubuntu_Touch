@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Indicator Display
+Exec=/usr/lib/arm-linux-gnueabihf/indicator-display/indicator-display-service
+OnlyShowIn=Unity;
+NoDisplay=true
+StartupNotify=false
+Terminal=false
+Hidden=true
+X-Ubuntu-Gettext-Domain=indicator-display

@@ -1,0 +1,6 @@
+649936b2ffa511767b6fa83f40857c73  usr/share/doc/hunspell-ko/CREDITS
+2822fbc52a3ce5ae74e3eda30d7b5c86  usr/share/doc/hunspell-ko/changelog.Debian.gz
+4dd4ead6a416b212c2f9c0369d1f3685  usr/share/doc/hunspell-ko/copyright
+b7100d5d48a786d5ef48e310d218b3cf  usr/share/hunspell/ko.aff
+ffdf31708eea317c594492393a5f052e  usr/share/hunspell/ko.dic
+7145643cd7158e7c0744976cdc738c87  var/lib/dictionaries-common/hunspell/hunspell-ko

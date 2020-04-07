@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/mirscreencast_to_stream
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/aethercast
+/usr/lib/arm-linux-gnueabihf/aethercast/tools
+/usr/lib/arm-linux-gnueabihf/aethercast/tools/libaethercast-lttng.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/aethercast-tools
+/usr/share/doc/aethercast-tools/changelog.gz
+/usr/share/doc/aethercast-tools/copyright

@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/telepathy
+/usr/lib/telepathy/telepathy-ofono
+/usr/share
+/usr/share/dbus-1
+/usr/share/dbus-1/services
+/usr/share/dbus-1/services/org.freedesktop.Telepathy.ConnectionManager.ofono.service
+/usr/share/doc
+/usr/share/doc/telepathy-ofono
+/usr/share/doc/telepathy-ofono/changelog.gz
+/usr/share/doc/telepathy-ofono/copyright
+/usr/share/telepathy
+/usr/share/telepathy/managers
+/usr/share/telepathy/managers/ofono.manager

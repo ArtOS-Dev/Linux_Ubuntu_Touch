@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-gnupg
+/usr/share/doc/python3-gnupg/copyright
+/usr/share/doc/python3-gnupg/changelog.Debian.gz
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/python_gnupg-0.3.8.egg-info
+/usr/lib/python3/dist-packages/gnupg.py

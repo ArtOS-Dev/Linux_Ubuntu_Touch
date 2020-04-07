@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3336" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="512" viewBox="0 0 512 512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3338">
+  <radialGradient id="radialGradient4404" gradientUnits="userSpaceOnUse" cy="-256.66" cx="-257.7" gradientTransform="matrix(0 -1.3797 -1.3797 0 -97.283 -97.192)" r="96">
+   <stop id="stop4402" style="stop-opacity:0" offset="0"/>
+   <stop id="stop4408" style="stop-opacity:0" offset=".93072"/>
+   <stop id="stop4410" style="stop-opacity:.26166" offset=".96713"/>
+   <stop id="stop4400" offset="1"/>
+  </radialGradient>
+  <filter id="filter4291" style="color-interpolation-filters:sRGB" height="1.192" width="1.192" y="-0.096" x="-0.096">
+   <feGaussianBlur id="feGaussianBlur4293" stdDeviation="14.079999"/>
+  </filter>
+  <linearGradient id="linearGradient4301" y2="-256" gradientUnits="userSpaceOnUse" x2="-82" y1="-256" x1="-434">
+   <stop id="stop4365" style="stop-opacity:0" offset="0"/>
+   <stop id="stop4367" offset=".50477"/>
+   <stop id="stop4369" style="stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <filter id="filter4323" style="color-interpolation-filters:sRGB" height="1.024" width="1.024" y="-.012" x="-.012">
+   <feGaussianBlur id="feGaussianBlur4325" stdDeviation="1.7599998"/>
+  </filter>
+ </defs>
+ <metadata id="metadata3341">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer3">
+  <path id="rect4158" style="color:#000000;enable-background:accumulate;fill:#dcdcdc" d="m0 0v183.9 144.2 183.9h512v-183.9-144.2-183.9h-512z"/>
+  <path id="path4269" style="opacity:.3;color:#000000;enable-background:accumulate;fill:#fff" d="m0 256v72.1 183.9h512v-183.9-72.1h-512z"/>
+  <circle id="path5121" r="12" style="color:#000000;enable-background:accumulate;fill:#df382c" cx="428" cy="84"/>
+ </g>
+ <g id="layer4">
+  <circle id="circle4305" style="opacity:.1;fill-opacity:.99608;color:#000000;filter:url(#filter4323);enable-background:accumulate" transform="matrix(0 -.92105 -.92105 0 20.211 20.211)" cy="-256" cx="-258" r="176"/>
+  <circle id="circle4345" style="opacity:.4;color:#000000;filter:url(#filter4291);enable-background:accumulate;fill:url(#linearGradient4301)" transform="matrix(0 -.92105 -.92105 0 20.211 20.211)" cy="-256" cx="-258" r="176"/>
+  <circle id="path4389-5" style="fill-opacity:.99608;color:#000000;enable-background:accumulate;fill:#f8f8f8" cx="-256" transform="matrix(0,-1,-1,0,0,0)" cy="-256" r="162.1"/>
+  <circle id="circle4371" style="color:#000000;enable-background:accumulate;fill:#97ddf7" transform="matrix(0,-1,-1,0,0,0)" cy="-256.18" cx="-256" r="132.45"/>
+  <path id="circle4396" style="opacity:0.07;color:#000000;enable-background:accumulate;fill:url(#radialGradient4404)" d="m256.18 123.55a132.45 132.45 0 0 0 -132.44 132.45 132.45 132.45 0 0 0 132.44 132.45 132.45 132.45 0 0 0 132.45 -132.45 132.45 132.45 0 0 0 -132.45 -132.45zm0 47.387a85.061 85.061 0 0 1 85.061 85.061 85.061 85.061 0 0 1 -85.061 85.061 85.061 85.061 0 0 1 -85.061 -85.061 85.061 85.061 0 0 1 85.061 -85.061z"/>
+  <circle id="circle4413" style="color:#000000;enable-background:accumulate;fill:#11ace6" transform="matrix(0,-1,-1,0,0,0)" cy="-256.18" cx="-256" r="102.05"/>
+  <circle id="circle4409" style="color:#000000;enable-background:accumulate;fill:#0e78b7" transform="matrix(0,-1,-1,0,0,0)" cy="-256.18" cx="-256" r="66.131"/>
+  <circle id="circle4411" style="color:#000000;enable-background:accumulate;fill:#073265" cx="-256" transform="matrix(0,-1,-1,0,0,0)" cy="-256.18" r="36.842"/>
+  <g id="g4415" style="enable-background:new" transform="matrix(.92105 0 0 .92105 12.843 28.501)">
+   <circle id="path4508" cx="307.39" cy="204.55" r="51.449" style="opacity:0.233;color:#000000;enable-background:accumulate;fill:#fff"/>
+  </g>
+  <path id="circle4300" style="fill-opacity:.99608;color:#000000;enable-background:accumulate;fill:#fff" d="m256 93.895a162.1 162.1 0 0 0 -162.1 162.1 162.1 162.1 0 0 0 0.033 0.76 162.1 162.1 0 0 1 162.07 -161.02 162.1 162.1 0 0 1 162.07 161.34 162.1 162.1 0 0 0 0.03 -1.08 162.1 162.1 0 0 0 -162.1 -162.1z"/>
+ </g>
+</svg>

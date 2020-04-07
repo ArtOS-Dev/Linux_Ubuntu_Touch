@@ -1,0 +1,9 @@
+Package: com.ubuntu.ubports
+Status: install ok installed
+Installed-Size: 460
+Maintainer: UBports <dev@ubports.com>
+Architecture: all
+Version: 1.9.1
+Description: UBports
+Click-Version: 0.4
+

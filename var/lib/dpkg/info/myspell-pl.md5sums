@@ -1,0 +1,5 @@
+fb353dc80dd6d8162d274d424a270a0c  usr/share/doc/myspell-pl/changelog.Debian.gz
+204ab3672f1171d742e13532771f2287  usr/share/doc/myspell-pl/copyright
+e35c1459b1b4911681537c425a020625  usr/share/hunspell/pl.aff
+13c1627a8e1fd81340450591366c43e9  usr/share/hunspell/pl.dic
+31ce9670301fe55af91ffbdcb4c6b943  var/lib/dictionaries-common/hunspell/myspell-pl

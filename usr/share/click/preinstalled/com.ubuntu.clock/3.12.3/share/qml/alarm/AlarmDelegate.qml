@@ -1,0 +1,160 @@
+/*
+ * Copyright (C) 2014-2016 Canonical Ltd
+ *
+ * This file is part of Ubuntu Clock App
+ *
+ * Ubuntu Clock App is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License version 3 as
+ * published by the Free Software Foundation.
+ *
+ * Ubuntu Clock App is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+import QtQuick 2.4
+import Ubuntu.Components 1.3
+
+ListItem {
+    id: root
+
+    enabled: model.status === Alarm.Ready;
+
+    property var localTime
+    property bool showAlarmFrequency
+    property string alarmOccurrence: type === Alarm.Repeating ? alarmUtils.format_day_string(daysOfWeek, type)
+                                                              : model && model.enabled ? alarmUtils.get_time_to_alarm(model.date, localTime)
+                                                                              : ""
+
+    onShowAlarmFrequencyChanged: {
+        if (type === Alarm.Repeating && model.enabled) {
+            animateTextChange()
+        }
+    }
+
+    function animateTextChange() {
+        textChangeAnimation.start()
+    }
+    
+    function updateModel() {
+        mainLayout.title.text = Qt.formatTime(model.date);
+        mainLayout.subtitle.text = model.message
+        alarmStatus.checked = model.enabled;
+        if (!alarmStatus.checked && type === Alarm.Repeating) {
+            alarmOccurrence = alarmUtils.format_day_string(daysOfWeek, type)
+        }
+    }
+    
+    
+    height: visible ? mainLayout.height + divider.height : 0
+
+    SequentialAnimation {
+        id: textChangeAnimation
+
+        PropertyAnimation {
+            target: mainLayout.summary
+            property: "opacity"
+            to: 0
+            duration: UbuntuAnimation.BriskDuration
+        }
+
+        ScriptAction {
+            script: alarmOccurrence = showAlarmFrequency ? alarmUtils.format_day_string(daysOfWeek, type)
+                                                         : alarmUtils.get_time_to_alarm(model.date, localTime)
+        }
+
+        PropertyAnimation {
+            target: mainLayout.summary
+            property: "opacity"
+            to: 1.0
+            duration: UbuntuAnimation.BriskDuration
+        }
+    }
+
+    ListItemLayout {
+        padding.trailing: units.gu(0)
+        id: mainLayout
+
+        title.text: Qt.formatTime(model.date) // Alarm time
+        title.font.weight: Font.Normal
+        title.objectName: "alarmTime"
+
+        subtitle.text: message // Alarm name
+        subtitle.textSize: Label.Medium
+        subtitle.objectName: "alarmName"
+
+        summary.text:  alarmOccurrence
+        summary.textSize: Label.Medium
+        summary.objectName: "alarmOccurrence"
+
+        MouseArea {
+            /**
+              Provide a larger click area then the actual alaram status switch
+             */
+            width: units.gu(9)
+            height: units.gu(9)
+
+            preventStealing: true
+
+            onClicked: {
+                alarmStatus.checked = !alarmStatus.checked;
+            }
+            Switch {
+                id: alarmStatus
+                objectName: "listAlarmStatus"
+                anchors.rightMargin: units.gu(1)
+                anchors.right: parent.right
+                anchors.verticalCenter: parent.verticalCenter
+                onCheckedChanged: {
+                    if (checked !== model.enabled) {
+
+                        // HACK : This a temporary fix for the issues of https://gitlab.com/ubports/apps/clock-app/issues/129 (so people will stop waking up at 4:00AM, that too damn early...)
+                        var today = new Date();
+                        var date = new Date(model.date.getTime() + (model.date.getTime() % 60 ? -1000 : 1000));
+                        date.setDate(today.getDate());
+                        /*
+                         Calculate the alarm time if it is a one-time alarm.
+                         Repeating alarms do this automatically.
+                        */
+                        if(type === Alarm.OneTime) {
+                            // TODO : this  was commented out to support an HACK that *temporarly* fix the issue of : https://gitlab.com/ubports/apps/clock-app/issues/129
+                            //var date = new Date()
+                            //date.setHours(model.date.getHours(), model.date.getMinutes(), 0)
+
+                            model.daysOfWeek = Alarm.AutoDetect
+                            if (date < new Date()) {
+                                var tomorrow = new Date();
+                                tomorrow.setDate(today.getDate() + 1);
+                                model.daysOfWeek = alarmUtils.get_alarm_day(tomorrow.getDay());
+                            }
+                            // TODO : this  was commented out to support an HACK that *temporarly* fix the issue of : https://gitlab.com/ubports/apps/clock-app/issues/129
+                            // model.date = date
+
+                        }
+                        // HACK part  of the issue 129 hack date should not normally be updated when enabling the alarm
+                        model.date = date
+
+                        model.enabled = checked
+                        model.save()
+                    }
+                }
+            }
+        }
+    }
+
+    Timer {
+        id:modelUpdateTimer
+        interval: 33
+        repeat: false
+        running:(model.enabled != alarmStatus.checked
+                 || mainLayout.subtitle.text != model.message
+                 || mainLayout.title.text != Qt.formatTime(model.date ) ) && model.status === Alarm.Ready
+        onTriggered: {
+            root.updateModel()
+        }
+    }
+}

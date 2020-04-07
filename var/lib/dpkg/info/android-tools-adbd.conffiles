@@ -1,0 +1,5 @@
+/etc/init/android-tools-adbd-reboot-watcher-bootloader.conf
+/etc/init/android-tools-adbd-reboot-watcher-poweroff.conf
+/etc/init/android-tools-adbd-reboot-watcher-reboot.conf
+/etc/init/android-tools-adbd-reboot-watcher-recovery.conf
+/etc/init/android-tools-adbd.conf

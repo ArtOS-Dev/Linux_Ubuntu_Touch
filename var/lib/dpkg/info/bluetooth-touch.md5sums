@@ -1,0 +1,9 @@
+a2d5d9214cee4374f182998ec7ffe30f  lib/systemd/system/bluetooth-touch.service
+684159730bc282dfd9c88b62709b20cc  usr/bin/brcm_patchram_plus
+d4c643ad3a488bb6e68b7c5b0d247d0e  usr/share/bluetooth-touch/flo
+b8b845eecf7b3a109dd4131e57a16259  usr/share/bluetooth-touch/grouper
+c4ae25867bbd8ff61288024cf047320a  usr/share/bluetooth-touch/maguro
+0efe782801afa7430c3dd4bc754c4d3a  usr/share/bluetooth-touch/mako
+043519e2fcd933c3ae0afd6b40ee7d21  usr/share/doc/bluetooth-touch/changelog.Debian.gz
+49a62c9afe55b27ccd2998e38164cd66  usr/share/doc/bluetooth-touch/copyright
+1632fd2d293852d12702c51c9d633bd4  var/lib/lxc/android/pre-start.d/40-brcm_patchram_plus-disable

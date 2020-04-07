@@ -1,0 +1,108 @@
+2020-04-06 05:31:55 startup archives install
+2020-04-06 05:31:55 install com.ubuntu.weather:all <none> 5.2.2
+2020-04-06 05:31:55 status half-installed com.ubuntu.weather:all 5.2.2
+2020-04-06 05:31:55 status unpacked com.ubuntu.weather:all 5.2.2
+2020-04-06 05:31:55 status unpacked com.ubuntu.weather:all 5.2.2
+2020-04-06 05:31:55 configure com.ubuntu.weather:all 5.2.2 5.2.2
+2020-04-06 05:31:55 status unpacked com.ubuntu.weather:all 5.2.2
+2020-04-06 05:31:55 status half-configured com.ubuntu.weather:all 5.2.2
+2020-04-06 05:31:55 status installed com.ubuntu.weather:all 5.2.2
+2020-04-06 05:31:56 startup archives install
+2020-04-06 05:31:56 install com.ubuntu.music:all <none> 2.9.3
+2020-04-06 05:31:56 status half-installed com.ubuntu.music:all 2.9.3
+2020-04-06 05:31:56 status unpacked com.ubuntu.music:all 2.9.3
+2020-04-06 05:31:56 status unpacked com.ubuntu.music:all 2.9.3
+2020-04-06 05:31:56 configure com.ubuntu.music:all 2.9.3 2.9.3
+2020-04-06 05:31:56 status unpacked com.ubuntu.music:all 2.9.3
+2020-04-06 05:31:56 status half-configured com.ubuntu.music:all 2.9.3
+2020-04-06 05:31:56 status installed com.ubuntu.music:all 2.9.3
+2020-04-06 05:31:58 startup archives install
+2020-04-06 05:31:58 install com.ubuntu.ubports:all <none> 1.9.1
+2020-04-06 05:31:58 status half-installed com.ubuntu.ubports:all 1.9.1
+2020-04-06 05:31:58 status unpacked com.ubuntu.ubports:all 1.9.1
+2020-04-06 05:31:58 status unpacked com.ubuntu.ubports:all 1.9.1
+2020-04-06 05:31:58 configure com.ubuntu.ubports:all 1.9.1 1.9.1
+2020-04-06 05:31:58 status unpacked com.ubuntu.ubports:all 1.9.1
+2020-04-06 05:31:58 status half-configured com.ubuntu.ubports:all 1.9.1
+2020-04-06 05:31:58 status installed com.ubuntu.ubports:all 1.9.1
+2020-04-06 05:31:59 startup archives install
+2020-04-06 05:31:59 install com.ubuntu.calculator:all <none> 3.2.6
+2020-04-06 05:31:59 status half-installed com.ubuntu.calculator:all 3.2.6
+2020-04-06 05:31:59 status unpacked com.ubuntu.calculator:all 3.2.6
+2020-04-06 05:31:59 status unpacked com.ubuntu.calculator:all 3.2.6
+2020-04-06 05:31:59 configure com.ubuntu.calculator:all 3.2.6 3.2.6
+2020-04-06 05:31:59 status unpacked com.ubuntu.calculator:all 3.2.6
+2020-04-06 05:31:59 status half-configured com.ubuntu.calculator:all 3.2.6
+2020-04-06 05:31:59 status installed com.ubuntu.calculator:all 3.2.6
+2020-04-06 05:32:01 startup archives install
+2020-04-06 05:32:01 install com.ubuntu.calendar:armhf <none> 0.8.2
+2020-04-06 05:32:01 status half-installed com.ubuntu.calendar:armhf 0.8.2
+2020-04-06 05:32:01 status unpacked com.ubuntu.calendar:armhf 0.8.2
+2020-04-06 05:32:01 status unpacked com.ubuntu.calendar:armhf 0.8.2
+2020-04-06 05:32:01 configure com.ubuntu.calendar:armhf 0.8.2 0.8.2
+2020-04-06 05:32:01 status unpacked com.ubuntu.calendar:armhf 0.8.2
+2020-04-06 05:32:01 status half-configured com.ubuntu.calendar:armhf 0.8.2
+2020-04-06 05:32:01 status installed com.ubuntu.calendar:armhf 0.8.2
+2020-04-06 05:32:02 startup archives install
+2020-04-06 05:32:02 install com.ubuntu.clock:armhf <none> 3.12.3
+2020-04-06 05:32:02 status half-installed com.ubuntu.clock:armhf 3.12.3
+2020-04-06 05:32:02 status unpacked com.ubuntu.clock:armhf 3.12.3
+2020-04-06 05:32:02 status unpacked com.ubuntu.clock:armhf 3.12.3
+2020-04-06 05:32:02 configure com.ubuntu.clock:armhf 3.12.3 3.12.3
+2020-04-06 05:32:02 status unpacked com.ubuntu.clock:armhf 3.12.3
+2020-04-06 05:32:02 status half-configured com.ubuntu.clock:armhf 3.12.3
+2020-04-06 05:32:02 status installed com.ubuntu.clock:armhf 3.12.3
+2020-04-06 05:32:04 startup archives install
+2020-04-06 05:32:04 install com.ubuntu.gallery:armhf <none> 2.10.4
+2020-04-06 05:32:04 status half-installed com.ubuntu.gallery:armhf 2.10.4
+2020-04-06 05:32:04 status unpacked com.ubuntu.gallery:armhf 2.10.4
+2020-04-06 05:32:04 status unpacked com.ubuntu.gallery:armhf 2.10.4
+2020-04-06 05:32:04 configure com.ubuntu.gallery:armhf 2.10.4 2.10.4
+2020-04-06 05:32:04 status unpacked com.ubuntu.gallery:armhf 2.10.4
+2020-04-06 05:32:04 status half-configured com.ubuntu.gallery:armhf 2.10.4
+2020-04-06 05:32:04 status installed com.ubuntu.gallery:armhf 2.10.4
+2020-04-06 05:32:06 startup archives install
+2020-04-06 05:32:06 install com.ubuntu.reminders:armhf <none> 0.10.0
+2020-04-06 05:32:06 status half-installed com.ubuntu.reminders:armhf 0.10.0
+2020-04-06 05:32:06 status unpacked com.ubuntu.reminders:armhf 0.10.0
+2020-04-06 05:32:06 status unpacked com.ubuntu.reminders:armhf 0.10.0
+2020-04-06 05:32:06 configure com.ubuntu.reminders:armhf 0.10.0 0.10.0
+2020-04-06 05:32:06 status unpacked com.ubuntu.reminders:armhf 0.10.0
+2020-04-06 05:32:06 status half-configured com.ubuntu.reminders:armhf 0.10.0
+2020-04-06 05:32:06 status installed com.ubuntu.reminders:armhf 0.10.0
+2020-04-06 05:32:08 startup archives install
+2020-04-06 05:32:08 install openstore.openstore-team:armhf <none> 2.87
+2020-04-06 05:32:08 status half-installed openstore.openstore-team:armhf 2.87
+2020-04-06 05:32:08 status unpacked openstore.openstore-team:armhf 2.87
+2020-04-06 05:32:08 status unpacked openstore.openstore-team:armhf 2.87
+2020-04-06 05:32:08 configure openstore.openstore-team:armhf 2.87 2.87
+2020-04-06 05:32:08 status unpacked openstore.openstore-team:armhf 2.87
+2020-04-06 05:32:08 status half-configured openstore.openstore-team:armhf 2.87
+2020-04-06 05:32:08 status installed openstore.openstore-team:armhf 2.87
+2020-04-06 05:32:09 startup archives install
+2020-04-06 05:32:09 install com.ubuntu.camera:armhf <none> 3.1.2
+2020-04-06 05:32:09 status half-installed com.ubuntu.camera:armhf 3.1.2
+2020-04-06 05:32:09 status unpacked com.ubuntu.camera:armhf 3.1.2
+2020-04-06 05:32:09 status unpacked com.ubuntu.camera:armhf 3.1.2
+2020-04-06 05:32:09 configure com.ubuntu.camera:armhf 3.1.2 3.1.2
+2020-04-06 05:32:09 status unpacked com.ubuntu.camera:armhf 3.1.2
+2020-04-06 05:32:09 status half-configured com.ubuntu.camera:armhf 3.1.2
+2020-04-06 05:32:09 status installed com.ubuntu.camera:armhf 3.1.2
+2020-04-06 05:32:11 startup archives install
+2020-04-06 05:32:11 install com.ubuntu.filemanager:armhf <none> 0.7.4
+2020-04-06 05:32:11 status half-installed com.ubuntu.filemanager:armhf 0.7.4
+2020-04-06 05:32:11 status unpacked com.ubuntu.filemanager:armhf 0.7.4
+2020-04-06 05:32:11 status unpacked com.ubuntu.filemanager:armhf 0.7.4
+2020-04-06 05:32:11 configure com.ubuntu.filemanager:armhf 0.7.4 0.7.4
+2020-04-06 05:32:11 status unpacked com.ubuntu.filemanager:armhf 0.7.4
+2020-04-06 05:32:11 status half-configured com.ubuntu.filemanager:armhf 0.7.4
+2020-04-06 05:32:11 status installed com.ubuntu.filemanager:armhf 0.7.4
+2020-04-06 05:32:12 startup archives install
+2020-04-06 05:32:12 install com.ubuntu.terminal:armhf <none> 0.9.4
+2020-04-06 05:32:12 status half-installed com.ubuntu.terminal:armhf 0.9.4
+2020-04-06 05:32:12 status unpacked com.ubuntu.terminal:armhf 0.9.4
+2020-04-06 05:32:12 status unpacked com.ubuntu.terminal:armhf 0.9.4
+2020-04-06 05:32:12 configure com.ubuntu.terminal:armhf 0.9.4 0.9.4
+2020-04-06 05:32:12 status unpacked com.ubuntu.terminal:armhf 0.9.4
+2020-04-06 05:32:12 status half-configured com.ubuntu.terminal:armhf 0.9.4
+2020-04-06 05:32:12 status installed com.ubuntu.terminal:armhf 0.9.4

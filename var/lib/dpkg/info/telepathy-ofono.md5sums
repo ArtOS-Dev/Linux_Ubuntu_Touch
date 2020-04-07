@@ -1,0 +1,5 @@
+c59b09e3449cba7fa8561f62151b371f  usr/lib/telepathy/telepathy-ofono
+10306baa53383de1273782293edb55fc  usr/share/dbus-1/services/org.freedesktop.Telepathy.ConnectionManager.ofono.service
+14df59263cac113300f686ae0f670b1d  usr/share/doc/telepathy-ofono/changelog.gz
+f5a8b877e01b8924ffe8c535a516cdde  usr/share/doc/telepathy-ofono/copyright
+f357b7054930c3eb654efa043a1cfb13  usr/share/telepathy/managers/ofono.manager

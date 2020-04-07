@@ -1,0 +1,18 @@
+{
+    "architecture": "armhf",
+    "description": "Alternative app store for hacks, developer tools and app previews.",
+    "framework": "ubuntu-sdk-16.04",
+    "hooks": {
+        "openstore": {
+            "apparmor": "openstore/openstore.apparmor",
+            "content-hub": "openstore/openstore-contenthub.json",
+            "desktop": "openstore/openstore.desktop",
+            "urls": "openstore/openstore.url-dispatcher"
+        }
+    },
+    "installed-size": "818",
+    "maintainer": "OpenStore Team <openstore-team@lists.launchpad.net>",
+    "name": "openstore.openstore-team",
+    "title": "OpenStore",
+    "version": "2.87"
+}

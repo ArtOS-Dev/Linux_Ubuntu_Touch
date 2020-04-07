@@ -1,0 +1,4 @@
+/etc/dbus-1/system.d/ofono.conf
+/etc/init/ofono.conf
+/etc/ofono/phonesim.conf
+/etc/ofono/ril_subscription.conf

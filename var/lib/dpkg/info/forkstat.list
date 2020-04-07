@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/forkstat
+/usr/share/doc/forkstat/copyright
+/usr/share/doc/forkstat/changelog.Debian.gz
+/usr/share/man/man8/forkstat.8.gz
+/usr/bin
+/usr/bin/forkstat

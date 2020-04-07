@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libpam-cgfs
+/usr/share/doc/libpam-cgfs/copyright
+/usr/share/doc/libpam-cgfs/changelog.Debian.gz
+/usr/share/pam-configs
+/usr/share/pam-configs/cgfs
+/lib
+/lib/arm-linux-gnueabihf
+/lib/arm-linux-gnueabihf/security
+/lib/arm-linux-gnueabihf/security/pam_cgfs.so

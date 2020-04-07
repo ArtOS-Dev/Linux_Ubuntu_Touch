@@ -1,0 +1,9 @@
+Package: com.ubuntu.clock
+Status: install ok installed
+Installed-Size: 2754
+Maintainer: UBports <dev@ubports.com>
+Architecture: armhf
+Version: 3.12.3
+Description: Clock
+Click-Version: 0.4
+

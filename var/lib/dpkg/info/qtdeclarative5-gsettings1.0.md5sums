@@ -1,0 +1,5 @@
+d715e60e49fa955a67dce786f8c4c64b  usr/lib/arm-linux-gnueabihf/qt5/qml/GSettings.1.0/libGSettingsQmlPlugin.so
+bac4100f1744e6a4679bc3d2a8d973c0  usr/lib/arm-linux-gnueabihf/qt5/qml/GSettings.1.0/plugins.qmltypes
+a94a6ba85a752d6145e29a0727716820  usr/lib/arm-linux-gnueabihf/qt5/qml/GSettings.1.0/qmldir
+f87a273c1133fc3596813f128a05aa7a  usr/share/doc/qtdeclarative5-gsettings1.0/changelog.gz
+bc8c534db8df39aee9abb04b185fcadb  usr/share/doc/qtdeclarative5-gsettings1.0/copyright

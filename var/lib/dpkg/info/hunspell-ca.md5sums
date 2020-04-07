@@ -1,0 +1,9 @@
+3afea1caf0c1ec58c754ef18efa41fd4  usr/share/doc/hunspell-ca/README.source
+7c1b42b004e58b8012aefe67a0ecebfd  usr/share/doc/hunspell-ca/changelog.Debian.gz
+278db1c3e735db085559e5ab9c8fb959  usr/share/doc/hunspell-ca/copyright
+c02001030b4ae83e5079ef900430171b  usr/share/doc/hunspell-ca/release-notes_en.txt
+53a5e74ac0b204e4fa9d9d6ff0bb27cc  usr/share/hunspell/ca.aff
+a0b3e7dbff7c9704a4f56c7791940fd6  usr/share/hunspell/ca.dic
+9f51236b15910f73de4f5b3fb908f74a  usr/share/hunspell/ca_ES-valencia.aff
+858b9b336c41f38a3984be31b472646a  usr/share/hunspell/ca_ES-valencia.dic
+77e06b8b10e969951ca36c2cf1e5d6fe  var/lib/dictionaries-common/hunspell/hunspell-ca

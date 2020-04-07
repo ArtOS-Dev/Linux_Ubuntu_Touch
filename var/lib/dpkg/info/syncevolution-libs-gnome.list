@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/syncevolution
+/usr/lib/arm-linux-gnueabihf/syncevolution/backends
+/usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncebook.so
+/usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncecal.so
+/usr/lib/arm-linux-gnueabihf/syncevolution/backends/platformgnome.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/syncevolution-libs-gnome
+/usr/share/doc/syncevolution-libs-gnome/NEWS.Debian.gz
+/usr/share/doc/syncevolution-libs-gnome/changelog.Debian.gz
+/usr/share/doc/syncevolution-libs-gnome/copyright

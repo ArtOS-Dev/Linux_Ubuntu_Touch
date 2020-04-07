@@ -1,0 +1,15 @@
+/.
+/etc
+/etc/presage.xml
+/usr
+/usr/share
+/usr/share/presage
+/usr/share/presage/database_it.db
+/usr/share/presage/database_en.db
+/usr/share/presage/abbreviations_en.txt
+/usr/share/presage/abbreviations_it.txt
+/usr/share/presage/presage.png
+/usr/share/doc
+/usr/share/doc/libpresage-data
+/usr/share/doc/libpresage-data/copyright
+/usr/share/doc/libpresage-data/changelog.Debian.gz

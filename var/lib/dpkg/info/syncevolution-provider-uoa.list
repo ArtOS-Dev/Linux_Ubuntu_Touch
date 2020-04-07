@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/syncevolution
+/usr/lib/arm-linux-gnueabihf/syncevolution/backends
+/usr/lib/arm-linux-gnueabihf/syncevolution/backends/provideruoa.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/syncevolution-provider-uoa
+/usr/share/doc/syncevolution-provider-uoa/NEWS.Debian.gz
+/usr/share/doc/syncevolution-provider-uoa/changelog.Debian.gz
+/usr/share/doc/syncevolution-provider-uoa/copyright

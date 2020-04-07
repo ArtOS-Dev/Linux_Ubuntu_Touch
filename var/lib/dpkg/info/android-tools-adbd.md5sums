@@ -1,0 +1,4 @@
+d9006de262c3a1d01dfe1fd18097d7f4  lib/udev/rules.d/98-android-tools-adbd.rules
+ed2f47dfed137846d03ab457cd6cefd6  usr/bin/adbd
+3c885e1f177db23c7413ca8a8b9e0aab  usr/share/doc/android-tools-adbd/changelog.gz
+141efd1050596168ca05ced04e4f498b  usr/share/doc/android-tools-adbd/copyright

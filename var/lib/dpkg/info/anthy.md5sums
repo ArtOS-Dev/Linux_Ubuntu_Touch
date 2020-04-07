@@ -1,0 +1,16 @@
+02b5decfb2e0c04257f924c0dc1944ba  usr/bin/anthy-agent
+8f37e836f9291c010ac6f524c318300f  usr/bin/anthy-dic-tool
+0915572c6fedbf7dd1426c2271f56336  usr/bin/anthy-morphological-analyzer
+7a0808cd20a5546c670f095eaa4aeeb5  usr/bin/mkdepgraph
+5989cf038f4ac596555f646dcc04b690  usr/bin/mkfiledic
+eadca11882e317e7c1e012bceb720c97  usr/bin/mkworddic
+2dd6143a05f854ecb0cf8359c3bb5681  usr/sbin/update-anthy-dics
+7171ebaa720efe63fa90d004e96433d2  usr/share/doc/anthy/AUTHORS
+b22bab02b7fe2f1e5d7909732238af2d  usr/share/doc/anthy/DIARY.gz
+46c4ab05c7af1d493d3edb05b05dde4c  usr/share/doc/anthy/GUIDE
+a421c5bf7b3be38f9d50f03204cabb2e  usr/share/doc/anthy/GUIDE.english
+1bcf80ff71c786d59ee8d5d02e30b21f  usr/share/doc/anthy/NEWS.gz
+a82442460bf5697c8d0e3e55b2ac90e4  usr/share/doc/anthy/README
+fcc49e66b9310c58439bd64fbd136548  usr/share/doc/anthy/README.Debian
+fd8090fbf063770edbe85ca3461d74ef  usr/share/doc/anthy/copyright
+1209aaa90a59b3749bc57fe8da844abd  usr/share/doc/anthy/dic-tool-usage.txt

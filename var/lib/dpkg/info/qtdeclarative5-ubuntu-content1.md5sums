@@ -1,0 +1,12 @@
+0f84d76a7ceae9dabf068a7445b7ec94  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/ContentPageHeader.qml
+3d10c8b7958ff101032eaed3c1bf58f6  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/ContentPeerPicker10.qml
+4eaa3cf57bf0687975a41183928ecc14  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/ContentPeerPicker11.qml
+0cf2b735d23a71d01a4dc5dc6c1cede1  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/ContentPeerPicker13.qml
+0d31cd7bb1827ac7b3e793584ad2c785  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/ContentTransferHint.qml
+9bc00727a46539c67b3430477e631341  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/ResponsiveGridView.qml
+87461c1a0c2c3e4f47f6a22ef0a65dcf  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/libubuntu-content-hub-plugin.so
+a969caaac8cb5cf78902f640e4f21823  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/plugins.qmltypes
+24afd39a71a252669881936edb91ce39  usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Content/qmldir
+1a7c0644315e552c56b4107a3306dca5  usr/share/doc/qtdeclarative5-ubuntu-content1/changelog.gz
+205211022c6ca557dbf54645dd383e57  usr/share/doc/qtdeclarative5-ubuntu-content1/copyright
+dc6869fc8e46c63d622e80ed6e7bfebf  usr/share/lintian/overrides/qtdeclarative5-ubuntu-content1

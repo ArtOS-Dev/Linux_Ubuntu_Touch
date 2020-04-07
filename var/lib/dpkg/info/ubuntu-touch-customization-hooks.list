@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/upstart
+/usr/share/upstart/sessions
+/usr/share/upstart/sessions/custom-env.conf
+/usr/share/doc
+/usr/share/doc/ubuntu-touch-customization-hooks
+/usr/share/doc/ubuntu-touch-customization-hooks/copyright
+/usr/share/doc/ubuntu-touch-customization-hooks/changelog.Debian.gz
+/etc
+/etc/fonts
+/etc/fonts/local.conf
+/etc/init
+/etc/init/custom-apparmor-cache.conf

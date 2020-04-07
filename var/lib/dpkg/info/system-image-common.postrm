@@ -1,0 +1,20 @@
+#!/bin/sh
+
+set -e
+
+# On purge, remove the log file and directory, as well as the lib directory
+# and configuration file.
+
+case "$1" in
+    purge)
+        rm -rf /var/log/system-image
+        rm -rf /var/lib/system-image
+        rm -rf /etc/system-image
+        ;;
+    *)
+        ;;
+esac
+
+
+
+exit 0

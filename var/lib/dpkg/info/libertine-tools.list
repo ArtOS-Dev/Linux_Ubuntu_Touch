@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/bin
+/usr/bin/libertine-shell
+/usr/bin/libertine-container-manager
+/usr/share
+/usr/share/bash-completion
+/usr/share/bash-completion/completions
+/usr/share/bash-completion/completions/libertine-shell
+/usr/share/bash-completion/completions/libertine-container-manager
+/usr/share/man/man1/libertine-container-manager.1.gz
+/usr/share/man/man1/libertine-shell.1.gz
+/usr/share/doc
+/usr/share/doc/libertine-tools
+/usr/share/doc/libertine-tools/changelog.gz
+/usr/share/doc/libertine-tools/copyright

@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/sync-monitor
+/usr/lib/arm-linux-gnueabihf/sync-monitor/sync-monitor-helper
+/usr/share
+/usr/share/url-dispatcher
+/usr/share/url-dispatcher/urls
+/usr/share/url-dispatcher/urls/syncmonitorhelper.url-dispatcher
+/usr/share/applications
+/usr/share/applications/syncmonitorhelper.desktop
+/usr/share/doc
+/usr/share/doc/sync-monitor-helper
+/usr/share/doc/sync-monitor-helper/changelog.gz
+/usr/share/doc/sync-monitor-helper/copyright

@@ -1,0 +1,5 @@
+1278ac3f5ddd993177aa9bc8bdc875c1  usr/lib/arm-linux-gnueabihf/sync-monitor/sync-monitor-helper
+9aac78362862a01c7ff35760eb767d46  usr/share/applications/syncmonitorhelper.desktop
+55d70f9a424afce62ac847a592091cd1  usr/share/doc/sync-monitor-helper/changelog.gz
+f408251b8fbef886fee62f8bef8cff30  usr/share/doc/sync-monitor-helper/copyright
+16263685e809806b0ecfe4509baae542  usr/share/url-dispatcher/urls/syncmonitorhelper.url-dispatcher

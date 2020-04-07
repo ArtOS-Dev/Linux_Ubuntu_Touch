@@ -1,0 +1,7 @@
+b492d817e2e3844f8055ceff04328d94  usr/bin/ubuntu-download-manager
+e61370b0980707dd96b1393d48007636  usr/lib/arm-linux-gnueabihf/ubuntu-download-manager/udm-extractor
+a4fe833bb43eda497875fc62e9144004  usr/lib/systemd/user/ubuntu-download-manager-systemd.service
+8a409aafd91e1d4d4938e0e4bad674ed  usr/share/dbus-1/services/ubuntu-download-manager.service
+fb422c8f128cfb8548e486b5a4649d51  usr/share/dbus-1/system-services/com.canonical.applications.Downloader.service
+dda3423d71c4aff31900ff06f29e30f2  usr/share/doc/ubuntu-download-manager/changelog.gz
+7305ee9425475cfb9293d0015639703b  usr/share/doc/ubuntu-download-manager/copyright

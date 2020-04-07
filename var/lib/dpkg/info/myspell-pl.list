@@ -1,0 +1,17 @@
+/.
+/var
+/var/lib
+/var/lib/dictionaries-common
+/var/lib/dictionaries-common/hunspell
+/var/lib/dictionaries-common/hunspell/myspell-pl
+/usr
+/usr/share
+/usr/share/hunspell
+/usr/share/hunspell/pl.dic
+/usr/share/hunspell/pl.aff
+/usr/share/doc
+/usr/share/doc/myspell-pl
+/usr/share/doc/myspell-pl/copyright
+/usr/share/doc/myspell-pl/changelog.Debian.gz
+/usr/share/hunspell/pl_PL.aff
+/usr/share/hunspell/pl_PL.dic

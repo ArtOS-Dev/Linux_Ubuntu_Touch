@@ -1,0 +1,6 @@
+97c3459867c2e2f6f45488ba1febb578  usr/lib/arm-linux-gnueabihf/packagekit-plugins/libpk_plugin_click.so
+820a505bbae8529c053a5a1b5ef50835  usr/share/doc/packagekit-plugin-click/README
+9297cdc7747f81d029b17b3a4ed43638  usr/share/doc/packagekit-plugin-click/changelog.gz
+aa01f853c5d8d20529f62c8825b11295  usr/share/doc/packagekit-plugin-click/copyright
+c9b48a67be02b53736af79d7184a2f72  usr/share/polkit-1/actions/com.ubuntu.click.policy
+04dda8da7222e39ebc2dae426c128a5f  var/lib/polkit-1/localauthority/10-vendor.d/com.ubuntu.click.pkla

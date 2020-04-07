@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/perl5
+/usr/lib/arm-linux-gnueabihf/perl5/5.22
+/usr/lib/arm-linux-gnueabihf/perl5/5.22/LibAppArmor.pm
+/usr/lib/arm-linux-gnueabihf/perl5/5.22/auto
+/usr/lib/arm-linux-gnueabihf/perl5/5.22/auto/LibAppArmor
+/usr/lib/arm-linux-gnueabihf/perl5/5.22/auto/LibAppArmor/LibAppArmor.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libapparmor-perl
+/usr/share/doc/libapparmor-perl/copyright
+/usr/share/doc/libapparmor-perl/changelog.Debian.gz

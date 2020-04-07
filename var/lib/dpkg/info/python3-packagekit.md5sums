@@ -1,0 +1,9 @@
+bc2b38ecf321e83b44828c9822b3187f  usr/lib/python3/dist-packages/packagekit/__init__.py
+bcba139972c57db56914983a08770cd2  usr/lib/python3/dist-packages/packagekit/backend.py
+caaa7452e51298699d1a06fb08663d63  usr/lib/python3/dist-packages/packagekit/enums.py
+8b38935f485d5319ad343010dca03ada  usr/lib/python3/dist-packages/packagekit/filter.py
+7b2bcc6b6a1e250fb99efcf44e4cfa82  usr/lib/python3/dist-packages/packagekit/misc.py
+a6820bdba8d1e07f1918a9d8eb2f254f  usr/lib/python3/dist-packages/packagekit/package.py
+4c89f518d476f8f5d85a88d68c25b338  usr/lib/python3/dist-packages/packagekit/progress.py
+a2e41613649cdc9851e5f64b78655d1d  usr/share/doc/python3-packagekit/changelog.Debian.gz
+91a529d16ef2d7c97c97bdc4447c7ecf  usr/share/doc/python3-packagekit/copyright

@@ -1,0 +1,8 @@
+fda1d2ccbd497716abe44c86894e51e5  usr/bin/pk-debuginfo-install
+fda316e778bcb73b783fd05a37b1f685  usr/bin/pkcon
+a9ee28936ae31bca7ede3792bfda58c5  usr/bin/pkmon
+2410856b77dfe684578863145db51730  usr/share/bash-completion/completions/pkcon
+91a529d16ef2d7c97c97bdc4447c7ecf  usr/share/doc/packagekit-tools/copyright
+7cf74b2f8ed06205f27cae184cfca222  usr/share/man/man1/pk-debuginfo-install.1.gz
+603ffb8e786941d4bd38fffc6bf03a52  usr/share/man/man1/pkcon.1.gz
+9c068ca4e8dca58ef2c1e703ba4b3015  usr/share/man/man1/pkmon.1.gz

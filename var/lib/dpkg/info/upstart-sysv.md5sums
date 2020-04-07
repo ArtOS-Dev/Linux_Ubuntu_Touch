@@ -1,0 +1,11 @@
+81e72d0cdc0427c32f83d47ff09609e5  sbin/reboot
+e0c47cf07fd51a659373522f0ba0e4a4  sbin/runlevel
+25e2e1b2aec1fe47e19b7f597b57b219  sbin/shutdown
+28226c88650e5b208aa64d0db1647d9b  usr/share/doc/upstart-sysv/changelog.gz
+adbaa90589a46a146ecff2c3c24e2e42  usr/share/doc/upstart-sysv/copyright
+31904c4ab93a24052b376b1bc3e67562  usr/share/man/man5/inittab.5.gz
+c1c3c30686809733d20728f24f46e309  usr/share/man/man7/runlevel.7.gz
+3bbf45cdbde5f5f963161272213c9526  usr/share/man/man8/reboot.8.gz
+0244d5aec686062fb30d31fd3cd27617  usr/share/man/man8/runlevel.8.gz
+6c601ca77c0d967fd8cf555ae79d0e09  usr/share/man/man8/shutdown.8.gz
+a5b92cdc5855c0614d4edf8af14ba8af  usr/share/man/man8/telinit.8.gz

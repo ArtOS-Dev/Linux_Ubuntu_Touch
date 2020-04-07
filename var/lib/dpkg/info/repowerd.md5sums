@@ -1,0 +1,5 @@
+6a662f81f8e0d842b9742c5b0b9716e9  lib/systemd/system/repowerd.service
+fee2e983d61c66df0e534053fd89bddb  usr/sbin/repowerd
+d13c7bfa49678b9f659212d2c51740e5  usr/sbin/repowerd-cli
+78750703852542a175b3c9388d33405e  usr/share/doc/repowerd/changelog.gz
+86b2ba30e44bd96d7873c893a754059a  usr/share/doc/repowerd/copyright

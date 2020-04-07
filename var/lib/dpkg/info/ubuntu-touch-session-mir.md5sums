@@ -1,0 +1,6 @@
+785e6d6d14df879f1ca1b6724a082310  usr/bin/ubuntu-touch-session
+352201861e7cf9ca23a33f6077b37eae  usr/share/doc/ubuntu-touch-session-mir/changelog.gz
+a9d6579a8ca16b0f8d4a5c1b23fa48cc  usr/share/doc/ubuntu-touch-session-mir/copyright
+5d6f50aa2b788a43f50b2e66367f5d40  usr/share/lightdm/lightdm.conf.d/52-ubuntu-touch.conf
+ab0c17e8006e1c5ad92d8959a716b72e  usr/share/lightdm/sessions/ubuntu-touch.desktop
+5359d87a8ffd3a0d84da8170e85d0bab  usr/share/ubuntu-touch-session/usc-wrapper

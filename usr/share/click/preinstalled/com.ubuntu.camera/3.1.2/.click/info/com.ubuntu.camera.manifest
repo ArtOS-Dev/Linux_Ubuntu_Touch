@@ -1,0 +1,27 @@
+{
+    "architecture": "armhf",
+    "description": "An application to take pictures and videos with the device cameras",
+    "framework": "ubuntu-sdk-16.04.2",
+    "hooks": {
+        "camera": {
+            "apparmor": "camera.apparmor",
+            "content-hub": "camera-contenthub.json",
+            "desktop": "camera-app.desktop"
+        }
+    },
+    "icon": "share/icons/camera-app.png",
+    "installed-size": "1960",
+    "maintainer": "UBports <dev@ubports.com>",
+    "name": "com.ubuntu.camera",
+    "title": "Camera",
+    "version": "3.1.2",
+    "x-test": {
+        "autopilot": {
+            "autopilot_module": "camera_app",
+            "depends": [
+                "python3-wand",
+                "python3-mediainfodll"
+            ]
+        }
+    }
+}

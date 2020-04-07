@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/qt5
+/usr/lib/arm-linux-gnueabihf/qt5/plugins
+/usr/lib/arm-linux-gnueabihf/qt5/plugins/mediaservice
+/usr/lib/arm-linux-gnueabihf/qt5/plugins/mediaservice/libaalcamera.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/cameraplugin-aal
+/usr/share/doc/cameraplugin-aal/changelog.gz
+/usr/share/doc/cameraplugin-aal/copyright

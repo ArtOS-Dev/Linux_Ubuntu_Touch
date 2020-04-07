@@ -1,0 +1,16 @@
+{
+    "architecture": "all",
+    "description": "Welcome to UBports",
+    "framework": "ubuntu-sdk-15.04.6",
+    "hooks": {
+        "ubports": {
+            "apparmor": "com.ubuntu.ubports.apparmor",
+            "desktop": "com.ubuntu.ubports.desktop"
+        }
+    },
+    "installed-size": "460",
+    "maintainer": "UBports <dev@ubports.com>",
+    "name": "com.ubuntu.ubports",
+    "title": "UBports",
+    "version": "1.9.1"
+}

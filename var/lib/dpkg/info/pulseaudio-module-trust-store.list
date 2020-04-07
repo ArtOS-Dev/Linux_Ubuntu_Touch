@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/pulse-8.0
+/usr/lib/pulse-8.0/modules
+/usr/lib/pulse-8.0/modules/libtruststore-util.so
+/usr/lib/pulse-8.0/modules/module-trust-store.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/pulseaudio-module-trust-store
+/usr/share/doc/pulseaudio-module-trust-store/NEWS.gz
+/usr/share/doc/pulseaudio-module-trust-store/changelog.Debian.gz
+/usr/share/doc/pulseaudio-module-trust-store/README
+/usr/share/doc/pulseaudio-module-trust-store/copyright

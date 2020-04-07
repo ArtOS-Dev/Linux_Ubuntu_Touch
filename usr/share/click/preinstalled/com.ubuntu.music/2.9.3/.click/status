@@ -1,0 +1,9 @@
+Package: com.ubuntu.music
+Status: install ok installed
+Installed-Size: 1385
+Maintainer: UBports <dev@ubports.com>
+Architecture: all
+Version: 2.9.3
+Description: Music
+Click-Version: 0.4
+

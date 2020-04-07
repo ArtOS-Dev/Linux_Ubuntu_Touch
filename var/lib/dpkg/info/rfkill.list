@@ -1,0 +1,15 @@
+/.
+/etc
+/etc/init
+/etc/init/rfkill-restore.conf
+/etc/init/rfkill-store.conf
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/rfkill
+/usr/share/doc/rfkill/copyright
+/usr/share/doc/rfkill/changelog.Debian.gz
+/usr/share/doc/rfkill/README
+/usr/share/man/man8/rfkill.8.gz
+/usr/sbin
+/usr/sbin/rfkill

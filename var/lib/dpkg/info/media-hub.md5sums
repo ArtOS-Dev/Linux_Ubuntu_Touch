@@ -1,0 +1,5 @@
+b45f8d9f7e5f0122db5bb6a5b5ec1311  usr/bin/media-hub-server
+eeb4033588efa328aeeb811c93e11079  usr/share/doc/media-hub/changelog.gz
+d0bd933f6b9b8e10588d9aadade9f3b6  usr/share/doc/media-hub/copyright
+1f1014e7355b5bb257ab5db5917e200b  usr/share/lintian/overrides/media-hub
+e71badb4df433b734e08111e6c3a9513  usr/share/upstart/sessions/media-hub.conf

@@ -1,0 +1,48 @@
+This package was debianized by Roland Rosenfeld <roland@debian.org> on
+Sat, 31 Jul 1999 16:31:45 +0200.
+
+It was downloaded from
+http://j3e.de/ispell/igerman98/dict/igerman98-20100727.tar.bz2
+
+Upstream Author: Björn Jacke <bjoern@j3e.de>
+
+Copyright:
+
+igerman98 - dictionaries for German language
+Copyright (C) 1999-2010 Björn Jacke <bjoern@j3e.de>.
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License version 2 or 3 as
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software Foundation,
+    Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.
+
+You can find the GPL under /usr/share/common-licenses/GPL-2 and
+/usr/share/common-licenses/GPL-3.
+
+
+The hunspell dictionary releases are dual-licensed, the alternative
+license is the OASIS distribution license agreement, which can be
+found here:
+
+OASIS distribution license agreement 0.1 from 2005-11-10
+
+Without any modifications this dictionary may be distributed with programs that
+support the OASIS Open Document Format for Office Applications and whose
+PRIMARY format for saving documents is the Open Document Format.
+
+This requires that all licenses and copyright files are also
+distributed together with the package the dictionary is shipped with.
+
+Any modifications of the dictionary files are not allowed for this
+agreement, modifications require the use of the GNU GENERAL PUBLIC LICENSE.
+
+If you have questions or don't get along with this, send me your
+comments/questions/ideas to Bjoern Jacke <bjoern@j3e.de>

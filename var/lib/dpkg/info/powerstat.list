@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/bin
+/usr/bin/powerstat
+/usr/share
+/usr/share/man/man8/powerstat.8.gz
+/usr/share/doc
+/usr/share/doc/powerstat
+/usr/share/doc/powerstat/copyright
+/usr/share/doc/powerstat/changelog.Debian.gz

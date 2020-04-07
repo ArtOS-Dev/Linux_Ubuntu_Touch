@@ -1,0 +1,18 @@
+{
+    "policy_groups": [
+        "picture_files",
+        "video_files",
+        "camera",
+        "audio",
+        "video",
+        "usermetrics",
+        "content_exchange",
+        "content_exchange_source",
+        "location"
+    ],
+    "policy_version": 16.04,
+    "read_path": [
+        "@{PROC}/*/mounts",
+        "/dev/disk/by-label/"
+    ]
+}

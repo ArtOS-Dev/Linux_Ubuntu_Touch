@@ -1,0 +1,83 @@
+#!/usr/bin/python3
+# ------------------------------------------------------------------
+#
+#    Copyright (C) 2013 Canonical Ltd.
+#
+#    This program is free software; you can redistribute it and/or
+#    modify it under the terms of version 2 of the GNU General Public
+#    License published by the Free Software Foundation.
+#
+# ------------------------------------------------------------------
+
+
+# tranforms a click manifest json file into a manifest consumable by the
+# aa-easyprof tool
+#
+# transformations to make:
+# click toplevel
+#
+# name + desktop_file + version -> profile name
+# ubuntu-13.10-framework -> policy_vendor = ubuntu
+
+from apparmor import click
+from apparmor.common import AppArmorException
+import json
+import optparse
+import os
+import sys
+
+
+def main():
+    def error(out, exit_code=1, do_exit=True):
+        '''Print error message and exit'''
+        try:
+            sys.stderr.write("ERROR: %s\n" % (str(out)))
+        except IOError:
+            pass
+
+        if do_exit:
+            sys.exit(exit_code)
+
+    def usage():
+        '''Return usage information'''
+        return 'USAGE: %s [options] <path to click manifest>' % \
+               os.path.basename(sys.argv[0])
+
+    parser = optparse.OptionParser()
+    parser.add_option("-o", "--output",
+                      dest="output",
+                      help="output easyprof manifest to FILE",
+                      metavar="FILE")
+    (opt, args) = parser.parse_args()
+
+    if len(args) == 1:
+        infile = args[0]
+    else:
+        error(usage())
+
+    try:
+        clickjson = click.ClickManifest(infile)
+    except IOError as e:
+        error("unable to read manifest '%s': %s" % (infile, e))
+    except ValueError as e:
+        error("manifest '%s' json error: %s" % (infile, e))
+
+    try:
+        m = click.transform(clickjson)
+    except AppArmorException as e:
+        error("failed to convert manifest '%s':\n  %s" % (infile, e))
+
+    # output json consistently for external testing
+
+    try:
+        if opt.output:
+            outfile = open(opt.output, "w")
+        else:
+            outfile = sys.stdout
+        json.dump(m, outfile, indent=2, separators=(',', ': '), sort_keys=True)
+    except IOError as e:
+        error("unable to write out manifest: %s" % (e))
+
+
+if __name__ == "__main__":
+    main()

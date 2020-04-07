@@ -1,0 +1,6 @@
+ba21bdf70b834ca40d8bd4bdf0337695  usr/bin/account-polld
+4379f59bae3b334a47892f83d69473e0  usr/lib/account-polld/click-hook
+769ab1f315f773b879875791139cd132  usr/share/click/hooks/account-polld.hook
+c213cd2cd80b299069eedd995c6f7a1c  usr/share/doc/account-polld/changelog.gz
+a187ecc403a731cb93e987434af50998  usr/share/doc/account-polld/copyright
+0fbef34a4797cbb1429b7244cf5dd2d7  usr/share/upstart/sessions/account-polld.conf

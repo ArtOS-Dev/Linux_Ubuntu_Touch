@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/health-check
+/usr/share/doc/health-check/copyright
+/usr/share/doc/health-check/changelog.Debian.gz
+/usr/share/man/man8/health-check.8.gz
+/usr/bin
+/usr/bin/health-check

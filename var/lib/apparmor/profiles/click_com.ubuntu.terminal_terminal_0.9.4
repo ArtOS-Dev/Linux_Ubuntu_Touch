@@ -1,0 +1,32 @@
+# vim:syntax=apparmor
+
+#include <tunables/global>
+
+# Define vars with unconfined since autopilot rules may reference them
+# Specified profile variables
+@{APP_APPNAME}="terminal"
+@{APP_ID_DBUS}="com_2eubuntu_2eterminal_5fterminal_5f0_2e9_2e4"
+@{APP_PKGNAME_DBUS}="com_2eubuntu_2eterminal"
+@{APP_PKGNAME}="com.ubuntu.terminal"
+@{APP_VERSION}="0.9.4"
+@{CLICK_DIR}="{/custom/click,/opt/click.ubuntu.com,/usr/share/click/preinstalled}"
+
+# TODO: when v3 userspace lands, use:
+# profile "com.ubuntu.terminal_terminal_0.9.4" (unconfined) {}
+
+# v2 compatible wildly permissive profile
+profile "com.ubuntu.terminal_terminal_0.9.4" (attach_disconnected) {
+  capability,
+  network,
+  / rwkl,
+  /** rwlkm,
+  /** pix,
+
+  mount,
+  remount,
+  umount,
+  dbus,
+  signal,
+  ptrace,
+  unix,
+}

@@ -1,0 +1,16 @@
+8ff02648f5253300edf09ac92f456a0e  usr/bin/env.fakechroot
+7b54c5e288c1880ef93a2dc7e8e31c81  usr/bin/fakechroot
+664a3473b81ef1f1676e7352fe11b0a1  usr/bin/ldd.fakechroot
+3da4bcbb36781f2bd9d9bd14b4ac7c40  usr/sbin/chroot.fakechroot
+61ad890ddc0879b1533d664234c4e5e7  usr/share/doc/fakechroot/NEWS.md.gz
+509051fdeed3b7cadd7f92227df6985f  usr/share/doc/fakechroot/README.md
+584ce5b73ae4d093ddef3ec9dd2887f1  usr/share/doc/fakechroot/THANKS
+bae56472bf57757f7151bc9d83674fbb  usr/share/doc/fakechroot/copyright
+a0231b5fbe50c5a9ed97e3f28eaf5d2b  usr/share/doc/fakechroot/examples/archlinux.sh
+8fbce26c51f8124e34bda578c6ec6600  usr/share/doc/fakechroot/examples/debootstrap.sh
+9c86295c5bd420e530b34459342acf7f  usr/share/doc/fakechroot/examples/relocatesymlinks.sh
+9eb76f2607667c9ef676ea18c48dc0b0  usr/share/doc/fakechroot/examples/restoremode.sh
+1fe3780546ae6d8ae4ac34fc8d878911  usr/share/doc/fakechroot/examples/savemode.sh
+be5d01a278416800aeb9b11398d07763  usr/share/doc/fakechroot/examples/testtree.sh
+3020f8b2f14ab6a1d4395ee987b73ed2  usr/share/lintian/overrides/fakechroot
+cc511936a6a6c2a028994a249a2fa0eb  usr/share/man/man1/fakechroot.1.gz

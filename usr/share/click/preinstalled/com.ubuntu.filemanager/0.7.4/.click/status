@@ -1,0 +1,9 @@
+Package: com.ubuntu.filemanager
+Status: install ok installed
+Installed-Size: 2578
+Maintainer: UBports <dev@ubports.com>
+Architecture: armhf
+Version: 0.7.4
+Description: File Manager
+Click-Version: 0.4
+

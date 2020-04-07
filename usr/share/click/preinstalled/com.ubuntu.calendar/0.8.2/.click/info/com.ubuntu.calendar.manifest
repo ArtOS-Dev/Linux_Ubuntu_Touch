@@ -1,0 +1,33 @@
+{
+    "architecture": "armhf",
+    "description": "A calendar for Ubuntu which syncs with online accounts",
+    "framework": "ubuntu-sdk-16.04",
+    "hooks": {
+        "calendar": {
+            "account-application": "com.ubuntu.calendar_calendar.application",
+            "apparmor": "com.ubuntu.calendar.apparmor",
+            "desktop": "com.ubuntu.calendar_calendar.desktop",
+            "urls": "com.ubuntu.calendar_calendar.url-dispatcher"
+        },
+        "calendar-helper": {
+            "apparmor": "calendar-helper-apparmor.json",
+            "push-helper": "push-helper.json"
+        }
+    },
+    "icon": "",
+    "installed-size": "1564",
+    "maintainer": "UBports <dev@ubports.com>",
+    "name": "com.ubuntu.calendar",
+    "title": "Calendar",
+    "version": "0.8.2",
+    "x-test": {
+        "autopilot": {
+            "autopilot_module": "",
+            "depends": [
+                "python3-dateutil",
+                "address-book-service-dummy",
+                "address-book-service-testability"
+            ]
+        }
+    }
+}

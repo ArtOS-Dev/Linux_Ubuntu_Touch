@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/cpustat
+/usr/share/doc/cpustat/changelog.Debian.gz
+/usr/share/doc/cpustat/copyright
+/usr/share/man/man8/cpustat.8.gz
+/usr/sbin
+/usr/sbin/cpustat

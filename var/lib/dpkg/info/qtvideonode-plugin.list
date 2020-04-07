@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/qt5
+/usr/lib/arm-linux-gnueabihf/qt5/plugins
+/usr/lib/arm-linux-gnueabihf/qt5/plugins/video
+/usr/lib/arm-linux-gnueabihf/qt5/plugins/video/videonode
+/usr/lib/arm-linux-gnueabihf/qt5/plugins/video/videonode/libshadervideonode.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/qtvideonode-plugin
+/usr/share/doc/qtvideonode-plugin/changelog.gz
+/usr/share/doc/qtvideonode-plugin/copyright

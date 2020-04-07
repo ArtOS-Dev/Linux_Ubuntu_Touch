@@ -1,0 +1,20 @@
+[Unit]
+Description=LXC Container Initialization and Autoboot Code
+After=network.target lxc-net.service
+Wants=lxc-net.service
+Documentation=man:lxc-autostart man:lxc
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStartPre=/usr/lib/arm-linux-gnueabihf/lxc/lxc-apparmor-load
+ExecStart=/usr/lib/arm-linux-gnueabihf/lxc/lxc-containers start
+ExecStop=/usr/lib/arm-linux-gnueabihf/lxc/lxc-containers stop
+# Environment=BOOTUP=serial
+# Environment=CONSOLETYPE=serial
+Delegate=yes
+StandardOutput=syslog
+StandardError=syslog
+
+[Install]
+WantedBy=multi-user.target

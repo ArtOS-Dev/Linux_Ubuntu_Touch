@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="256" viewBox="0 0 256 256" width="256" version="1.1">
+ <g transform="translate(147.9 1.495)">
+  <g transform="matrix(0 -1 -1 0 373.5 516.5)">
+   <g transform="matrix(-.9996 0 0 1 575.9 -611)">
+    <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;font-variant-numeric:normal;shape-rendering:auto;solid-color:#000000;text-decoration-line:none;fill:#808080;font-variant-position:normal;mix-blend-mode:normal;font-feature-settings:normal;shape-padding:0;font-variant-alternates:normal;text-indent:0;font-variant-ligatures:none;dominant-baseline:auto;font-variant-caps:normal;image-rendering:auto;white-space:normal;text-decoration-style:solid;text-orientation:mixed;isolation:auto;text-transform:none" d="m128 56c-39.8 0-72 32.19-72 72 0 29 17.1 53.9 41.77 65.4-0.03-0.6-0.05-1.1-0.05-1.7 0-1 0.06-2.1 0.16-3.1-22.26-11.1-37.52-34-37.52-60.6 0-37.46 30.19-67.64 67.64-67.64 37.5 0 67.6 30.18 67.6 67.64 0 5-0.5 9.8-1.5 14.5 1.3 0.6 2.7 1.3 4 2 1.2-5.3 1.9-10.8 1.9-16.5 0-39.81-32.2-72-72-72z" transform="matrix(0 -1 1 0 57.97 1132)"/>
+    <path style="color:#000000;fill:#808080" d="m208.5 1081a92.57 92.53 0 0 0 6.394 -1.515 92.57 92.53 0 0 1 -6.394 1.515z"/>
+    <rect style="color:#000000;fill:#808080" height="26.67" width="4.002" y="892.4" x="184"/>
+    <rect style="color:#000000;fill:#808080" transform="matrix(.8661 -.4999 .5001 .8659 0 0)" height="26.67" width="4.001" y="850.9" x="-343.3"/>
+    <rect style="color:#000000;fill:#808080" transform="matrix(.5001 -.8659 .8661 .4999 0 0)" height="26.67" width="4" y="551.4" x="-778.9"/>
+    <rect style="color:#000000;fill:#808080" transform="matrix(-.5001 -.8659 .8661 -.4999 0 0)" height="26.67" width="4" y="-453.3" x="-964.9"/>
+    <rect style="color:#000000;fill:#808080" transform="matrix(-.8661 -.4999 .5001 -.8659 0 0)" height="26.67" width="4.001" y="-888.9" x="-665.4"/>
+    <rect style="color:#000000;fill:#808080" transform="scale(-1)" height="26.67" width="4.002" y="-1116" x="-188"/>
+    <rect style="color:#000000;fill:#808080" transform="matrix(-.8661 .4999 -.5001 -.8659 0 0)" height="26.67" width="4.001" y="-1075" x="339.3"/>
+    <rect style="color:#000000;fill:#808080" transform="matrix(-.5001 .8659 -.8661 -.4999 0 0)" height="26.67" width="4" y="-775.4" x="774.9"/>
+    <path style="color:#000000;fill:#808080" d="m73.62 1006-0.5324-4h27.51v4z"/>
+    <path style="color-rendering:auto;color:#000000;shape-rendering:auto;stroke:#808080;text-decoration-line:none;stroke-width:4.001;fill:none;text-indent:0;image-rendering:auto;text-transform:none" d="m197.2 954.3c0 16.67 10.29 30.83 24.98 37.59l0.719 0.3281 0.0573 0.7865c1.128 15.46 14.51 27.68 30.78 27.68 17 0 30.98-13.3 30.98-29.74v-70.78c0-12.4-10.54-22.42-23.31-22.42-9.68 0-17.81 5.807-21.32 14.04l-0.3335 0.7708-0.8389 0.037c-23.11 1.045-41.72 19.2-41.72 41.71z"/>
+   </g>
+  </g>
+ </g>
+</svg>

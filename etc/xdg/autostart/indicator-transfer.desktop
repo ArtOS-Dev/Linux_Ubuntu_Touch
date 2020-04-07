@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Indicator Transfer
+Exec=/usr/lib/arm-linux-gnueabihf/indicator-transfer/indicator-transfer-service
+OnlyShowIn=Unity;GNOME;
+NoDisplay=true
+StartupNotify=false
+Terminal=false
+AutostartCondition=GNOME3 unless-session gnome
+X-Ubuntu-Gettext-Domain=indicator-transfer

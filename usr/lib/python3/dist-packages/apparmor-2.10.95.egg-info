@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: apparmor
+Version: 2.10.95
+Summary: Python libraries for AppArmor utilities
+Home-page: https://launchpad.net/apparmor
+Author: AppArmor Developers
+Author-email: apparmor@lists.ubuntu.com
+License: GPL-2
+Description: Python libraries for AppArmor utilities
+Platform: UNKNOWN

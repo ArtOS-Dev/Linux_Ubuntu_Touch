@@ -1,0 +1,8 @@
+#! /bin/sh
+set -e
+
+dpkg-maintscript-helper rm_conffile /etc/init.d/click-apparmor 0.2.6 -- "$@"
+dpkg-maintscript-helper rm_conffile /etc/init/click-apparmor.conf 0.2.6 -- "$@"
+
+
+

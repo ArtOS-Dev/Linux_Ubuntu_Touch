@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Sync Monitor
+Comment=Ask for online account authentication if the token expires
+Exec=/usr/lib/arm-linux-gnueabihf/sync-monitor/sync-monitor-helper %u
+Terminal=false
+Type=Application
+Version=1.0
+Icon=account
+NoDisplay=true
+X-Ubuntu-Single-Instance=true
+X-Ubuntu-Splash-Show-Header=false
+X-Ubuntu-Gettext-Domain=sync-monitor

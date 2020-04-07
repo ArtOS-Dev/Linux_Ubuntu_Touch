@@ -1,0 +1,40 @@
+-*- coding: utf-8 -*-
+
+This package was debianized by Rafael Laboissiere <rafael@debian.org> on
+Fri, 29 Jun 2007 17:02:52 +0200.
+
+It was downloaded from http://www.broffice.org.br/verortografico
+
+Upstream Authors:
+   Raimundo Santos Moura <raimundo.smoura@gmail.com>
+   and others from the BrOffice.org team (see
+   http://www.openoffice.org.br/?q=creditos)
+
+pt_BR.aff, pt_BR.dic:
+
+   Copyright (C) 2006 - 2009 Raimundo Santos Moura <raimundomoura@openoffice.org>
+
+   This is the spelling dictionary for Portuguese for Myspell.
+   This program is free and can be redistributed and/or modified under the
+   terms of the GNU Lesser General Public License (LGPL) version 2.1.]
+
+debian/aspell-files/br-abnt2.kbd, debian/aspell-files/pt_BR.dat:
+
+   Copyright (C) 2006 - 2008 Raimundo Santos Moura <raimundomoura@openoffice.org>
+   Copyright (C) 2006 - 2008 Leonardo Ferreira Fontenelle
+
+   This library is free software; you can redistribute it and/or modify it
+   under the terms of the GNU Lesser General Public License as published by
+   the Free Software Foundation; either version 2.1 of the License, or (at
+   your option) any later version.
+
+The Debian packaging is:
+
+  © 2007, 2009 Rafael Laboissiere <rafael@debian.org>
+  © 2009 Agustin Martin Domingo <agmartin@debian.org>
+
+and is licensed under the GPL, version 3 or later. In Debian systems,
+see `/usr/share/common-licenses/GPL-3'. The full text of the LGPL
+license can be found in `/usr/share/common-licenses/LGPL-2.1'.
+
+

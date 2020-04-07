@@ -1,0 +1,17 @@
+/.
+/debian
+/debian/pulseaudio-modules-droid-glue-24
+/debian/pulseaudio-modules-droid-glue-24/usr
+/debian/pulseaudio-modules-droid-glue-24/usr/lib
+/debian/pulseaudio-modules-droid-glue-24/usr/lib/pulse-8.0
+/debian/pulseaudio-modules-droid-glue-24/usr/lib/pulse-8.0/modules
+/debian/pulseaudio-modules-droid-glue-24/usr/lib/pulse-8.0/modules/module-droid-glue-24.so
+/usr
+/usr/lib
+/usr/lib/pulse-8.0
+/usr/lib/pulse-8.0/modules
+/usr/lib/pulse-8.0/modules/module-droid-glue-24.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/pulseaudio-modules-droid-glue-24
+/usr/share/doc/pulseaudio-modules-droid-glue-24/changelog.gz

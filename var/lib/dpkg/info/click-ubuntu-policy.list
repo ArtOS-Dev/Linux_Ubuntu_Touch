@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/debsig
+/usr/share/debsig/keyrings
+/usr/share/debsig/keyrings/608FF2D200A0A71F
+/usr/share/debsig/keyrings/608FF2D200A0A71F/click-store.gpg
+/usr/share/doc
+/usr/share/doc/click-ubuntu-policy
+/usr/share/doc/click-ubuntu-policy/copyright
+/usr/share/doc/click-ubuntu-policy/changelog.gz
+/etc
+/etc/debsig
+/etc/debsig/policies
+/etc/debsig/policies/608FF2D200A0A71F
+/etc/debsig/policies/608FF2D200A0A71F/generic.pol

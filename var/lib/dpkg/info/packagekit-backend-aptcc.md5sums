@@ -1,0 +1,6 @@
+ee53a821c743d7095b78bc64b2ad9b20  usr/lib/arm-linux-gnueabihf/packagekit-backend/libpk_backend_aptcc.so
+1808d4d41266568a0c3809d54ad7662d  usr/share/PackageKit/helpers/aptcc/get-distro-upgrade.py
+e766154ea92a33ca266940efaabe5edb  usr/share/PackageKit/helpers/aptcc/pkconffile
+bb009e4ecd070957782ddd5741037946  usr/share/PackageKit/helpers/aptcc/pkconffile.nodiff
+2a2d903c5b6278be0183224008cde0a3  usr/share/doc/packagekit-backend-aptcc/changelog.Debian.gz
+91a529d16ef2d7c97c97bdc4447c7ecf  usr/share/doc/packagekit-backend-aptcc/copyright

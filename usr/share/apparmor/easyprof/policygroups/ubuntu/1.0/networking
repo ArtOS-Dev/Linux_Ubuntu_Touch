@@ -1,0 +1,105 @@
+# Description: Can access the network
+# Usage: common
+#include <abstractions/nameservice>
+
+# DownloadManager
+dbus (send)
+     bus=session
+     interface="org.freedesktop.DBus.Introspectable"
+     path=/
+     member=Introspect
+     peer=(label=unconfined),
+dbus (send)
+     bus=session
+     interface="org.freedesktop.DBus.Introspectable"
+     path=/com/canonical/applications/download/**
+     member=Introspect
+     peer=(label=unconfined),
+# Allow DownloadManager to send us signals, etc
+dbus (receive)
+     bus=session
+     interface=com.canonical.applications.Download{,er}Manager
+     peer=(label=unconfined),
+# Restrict apps to just their own downloads
+owner @{HOME}/.local/share/ubuntu-download-manager/@{APP_PKGNAME}/   rw,
+owner @{HOME}/.local/share/ubuntu-download-manager/@{APP_PKGNAME}/** rwk,
+dbus (receive, send)
+     bus=session
+     path=/com/canonical/applications/download/@{APP_ID_DBUS}/**
+     interface=com.canonical.applications.Download
+     peer=(label=unconfined),
+dbus (receive, send)
+     bus=session
+     path=/com/canonical/applications/download/@{APP_ID_DBUS}/**
+     interface=com.canonical.applications.GroupDownload
+     peer=(label=unconfined),
+# Be explicit about the allowed members we can send to
+dbus (send)
+     bus=session
+     path=/
+     interface=com.canonical.applications.DownloadManager
+     member=createDownload
+     peer=(label=unconfined),
+dbus (send)
+     bus=session
+     path=/
+     interface=com.canonical.applications.DownloadManager
+     member=createDownloadGroup
+     peer=(label=unconfined),
+dbus (send)
+     bus=session
+     path=/
+     interface=com.canonical.applications.DownloadManager
+     member=getAllDownloads
+     peer=(label=unconfined),
+dbus (send)
+     bus=session
+     path=/
+     interface=com.canonical.applications.DownloadManager
+     member=getAllDownloadsWithMetadata
+     peer=(label=unconfined),
+dbus (send)
+     bus=session
+     path=/
+     interface=com.canonical.applications.DownloadManager
+     member=defaultThrottle
+     peer=(label=unconfined),
+dbus (send)
+     bus=session
+     path=/
+     interface=com.canonical.applications.DownloadManager
+     member=isGSMDownloadAllowed
+     peer=(label=unconfined),
+# Explicitly deny DownloadManager APIs apps shouldn't have access to in order
+# to make sure they aren't accidentally added in the future (see LP: #1277578
+# for details)
+audit deny dbus (send)
+     bus=session
+     interface=com.canonical.applications.DownloadManager
+     member=allowGSMDownload,
+audit deny dbus (send)
+     bus=session
+     interface=com.canonical.applications.DownloadManager
+     member=createMmsDownload,
+audit deny dbus (send)
+     bus=session
+     interface=com.canonical.applications.DownloadManager
+     member=exit,
+audit deny dbus (send)
+     bus=session
+     interface=com.canonical.applications.DownloadManager
+     member=setDefaultThrottle,
+
+# We want to explicitly deny access to NetworkManager because its DBus API
+# gives away too much
+deny dbus (receive, send)
+     bus=system
+     path=/org/freedesktop/NetworkManager,
+deny dbus (receive, send)
+     bus=system
+     peer=(name=org.freedesktop.NetworkManager),
+
+# Do the same for ofono (LP: #1226844)
+deny dbus (receive, send)
+     bus=system
+     interface="org.ofono.Manager",

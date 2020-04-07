@@ -1,0 +1,4 @@
+aa01e53ee873e030200c99fb1ec8991a  usr/bin/usensord
+bd257a3e9fef6c6aa3f245b9c173f9f4  usr/share/doc/usensord/changelog.gz
+1db8b61fc40a3f9618acb79fcdda10fd  usr/share/doc/usensord/copyright
+3e76748a1ea41640ba6b3eb07507f435  usr/share/upstart/sessions/usensord.conf

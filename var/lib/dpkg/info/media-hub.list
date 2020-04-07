@@ -1,0 +1,16 @@
+/.
+/etc
+/etc/apparmor.d
+/etc/apparmor.d/usr.bin.media-hub-server
+/usr
+/usr/bin
+/usr/bin/media-hub-server
+/usr/share
+/usr/share/lintian/overrides/media-hub
+/usr/share/upstart
+/usr/share/upstart/sessions
+/usr/share/upstart/sessions/media-hub.conf
+/usr/share/doc
+/usr/share/doc/media-hub
+/usr/share/doc/media-hub/changelog.gz
+/usr/share/doc/media-hub/copyright

@@ -1,0 +1,11 @@
+3ad0e286b160f0cc2ed219411c4e43b8  lib/systemd/system/click-system-hooks.service
+94ad20e9ea05ecf5feab7d0d86b3adeb  usr/bin/click
+fbb704c4348d19f58fe237f365862c55  usr/lib/arm-linux-gnueabihf/click/libclickpreload.so
+a0a3d57cd5767a3e6860c65f90e72af0  usr/lib/systemd/user/click-user-hooks.service
+daea023a3c290dcc3c04745c097f9cb7  usr/share/click/hooks/click-desktop.hook
+9297cdc7747f81d029b17b3a4ed43638  usr/share/doc/click/changelog.gz
+aa01f853c5d8d20529f62c8825b11295  usr/share/doc/click/copyright
+a724771d00a17710585734033182d28b  usr/share/lintian/overrides/click
+f29597cd3222fd0f186867325dc6ea65  usr/share/man/man1/click.1.gz
+1edf5cde95efa4069ac3bfaffc6a38ea  usr/share/mime/packages/click.xml
+e8ed1e1432c3e1c25eef5266307b7b5a  usr/share/upstart/sessions/click-user-hooks.conf

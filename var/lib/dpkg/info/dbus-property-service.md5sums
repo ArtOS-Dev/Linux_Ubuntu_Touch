@@ -1,0 +1,7 @@
+7bb172d083c7cc85c4f5e5efdefd8631  usr/bin/android-gadget-service
+3b871b8d69eb1f02d86792d5f74cd147  usr/lib/dbus-property-service/propertyservice
+bea018d23da94a26b430fa3ebc466e3b  usr/share/autopilot-touch/apparmor/click.rules
+5675b452156379abea74ba64e11819d8  usr/share/dbus-1/interfaces/com.canonical.PropertyService.xml
+41ccdec9ae16ad8a4b0a7b01f130ae83  usr/share/dbus-1/system-services/com.canonical.PropertyService.service
+d982c63b46fa3a770147d1053ab187fa  usr/share/doc/dbus-property-service/changelog.gz
+979561dad82810acfebdb0a42451d636  usr/share/doc/dbus-property-service/copyright

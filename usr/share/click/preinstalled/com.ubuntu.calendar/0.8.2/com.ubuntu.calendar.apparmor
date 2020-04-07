@@ -1,0 +1,13 @@
+{
+    "policy_groups": [
+        "calendar",
+        "networking",
+        "contacts",
+        "accounts",
+        "push-notification-client"
+    ],
+    "read_path": [
+        "/etc/writable/timezone"
+    ],
+    "policy_version": 16.04
+}

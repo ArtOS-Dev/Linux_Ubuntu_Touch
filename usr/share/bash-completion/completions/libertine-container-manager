@@ -1,0 +1,87 @@
+# Copyright (C) 2016-2017 Canonical Ltd.
+# Authors: Larry Price <larry.price@canonical.com>
+#          Chris Townsend <christopher.townsend@canonical.com>
+
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; version 3 of the License.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+_libertine-container-manager()
+{
+    local cur cmd opts
+    COMPREPLY=()
+    cur="${COMP_WORDS[COMP_CWORD]}"
+    cmd="${COMP_WORDS[1]}"
+
+    if [[ ${cur} == -* ]]; then
+      case "${cmd}" in
+      "install-package" )
+        opts="--help --id --package --no-dialog"
+        ;;
+      "remove-package" )
+        opts="--help --id --package --no-dialog"
+        ;;
+      "create" )
+        opts="--help --id --type --distro --name --force --multiarch --password"
+        ;;
+      "destroy" )
+        opts="--help --id --force"
+        ;;
+      "search-cache" )
+        opts="--help --id --search-string"
+        ;;
+      "update" )
+        opts="--help --id"
+        ;;
+      "list-apps" )
+        opts="--help --id --json"
+        ;;
+      "list" )
+        opts="--help"
+        ;;
+      "configure" )
+        opts="--help --id --multiarch --archive --bind-mount --freeze"
+        ;;
+      "set-default" )
+        opts="--help --id --clear"
+        ;;
+      "restart" )
+        opts="--help --id"
+        ;;
+      * )
+        opts="--help --quiet --verbose"
+        ;;
+      esac
+    fi
+
+    if [[ ${cmd} == "configure" ]]; then
+      if [[ "${COMP_WORDS[COMP_CWORD-1]}" == "--multiarch" ]] || [ "${COMP_WORDS[COMP_CWORD-1]}" == "--freeze" ]; then
+        opts="enable disable"
+      elif [ "${COMP_WORDS[COMP_CWORD-1]}" == "--archive" ] || [ "${COMP_WORDS[COMP_CWORD-1]}" == "--bind-mount" ]; then
+        opts="add remove"
+      elif [[ " ${COMP_WORDS[@]} " =~ " --archive " ]]; then
+        opts="--archive-name --public-key-file --id"
+      elif [[ " ${COMP_WORDS[@]} " =~ " --bind-mount " ]]; then
+        opts="--id --mount-path"
+      fi
+    fi
+
+    if [[ -z ${opts} && "${COMP_CWORD}" == "1" ]]; then
+      opts="create destroy install-package remove-package search-cache update list list-apps configure set-default restart"
+    fi
+
+    if [[ -n "${opts}" ]]; then
+      COMPREPLY=( $(compgen -W "${opts}" -- ${cur}) )
+      return 0
+    fi
+}
+complete -F _libertine-container-manager libertine-container-manager

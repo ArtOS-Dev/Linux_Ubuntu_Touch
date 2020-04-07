@@ -1,0 +1,4144 @@
+Package: ubuntu-advantage-tools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-pt-br
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-el-gr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-telephony-phonenumber0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjson-glib-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-lithuanian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-pt-pt
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxdmcp6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-en-us
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dmz-cursor-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxc-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libc-ares2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-english
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnm-glib4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-ui-toolkit-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-gobject-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: usermetricsservice
+Architecture: armhf
+Auto-Installed: 1
+
+Package: alsa-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5keychain0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: network-manager-pptp
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfolks-eds25
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsoup-gnome2.4-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: bluez
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-plugins-ugly-amr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-ui-extras0.2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: signon-plugin-password
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-distro-info
+Architecture: armhf
+Auto-Installed: 1
+
+Package: evolution-data-server-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: iso-codes
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libindicator-transfer0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgdata-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcroco3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwebp5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pulseaudio-module-trust-store
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libusb-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqgsttools-p1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-romanian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liboxideqt-qmlplugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gnome-keyring
+Architecture: armhf
+Auto-Installed: 1
+
+Package: suru-icon-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libldb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhybris
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgeonames-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-privatewidgets
+Architecture: armhf
+Auto-Installed: 1
+
+Package: system-image-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5bluetooth5-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgupnp-igd-1.0-4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dosfstools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-zh-hans
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-zh-hant
+Architecture: armhf
+Auto-Installed: 1
+
+Package: timekeeper
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsnappy1v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-history0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-libapparmor
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblttng-ust0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhistoryservice0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdouble-conversion1v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpangoft2-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dbus-x11
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mediascanner2.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libaa1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libboost-program-options1.58.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: accountsservice-ubuntu-schemas
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qt5-image-formats-plugins
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgles2-mesa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libirs-export141
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpackagekit-glib2-16
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm-freedreno1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: glib-networking-services
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mountall
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libraw1394-11
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gnome-settings-daemon-schemas
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5svg5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: upstart-watchdog
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfontenc1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgoogle-glog0v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-icccm4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgstreamer0.10-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libplist3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcups2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdbus-1-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-biometryd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dialer-app
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liboxideqtquick0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-window2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-contacts0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer0.10-pulseaudio
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnih-dbus1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-test
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5test5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpkcs11-helper1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ttf-ancient-fonts-symbola
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unity8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mobile-broadband-provider-info
+Architecture: armhf
+Auto-Installed: 1
+
+Package: iptables
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-ar
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm-nouveau2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-bg
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-ca
+Architecture: armhf
+Auto-Installed: 1
+
+Package: system-image-cli
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-da
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libchewing3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-fr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libaccounts-qt5-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-russian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-hu
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-it
+Architecture: armhf
+Auto-Installed: 1
+
+Package: click-apparmor
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-ko
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhybris-common1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: urfkill
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpcsclite1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-syncmonitor0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-ro
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-ru
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-sl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-sr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-sv
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxklavier16
+Architecture: armhf
+Auto-Installed: 1
+
+Package: iw
+Architecture: armhf
+Auto-Installed: 1
+
+Package: session-migration
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtbluetooth
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-german
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgcr-base-3-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: forkstat
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-xfixes0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-slovenian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwacom-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnss3-nssdb
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcurl3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liboxideqtcore0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-localstorage-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libprotobuf-lite9v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-de-de
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpresage1v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libertine-tools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtelepathy-qt5-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fakechroot
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-gsettings1.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-croatian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-software-properties
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-morph-web
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: strace
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-push-client
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdv4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgirepository-1.0-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-swiss-french
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-sounds
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-qtmir-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libopencore-amrnb0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgdk-pixbuf2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfakeroot
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libproxy1v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: debsig-verify
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsignon-qt5-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblcms2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgoa-1.0-0b
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libp11-kit-gnome-keyring
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dconf-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libboost-filesystem1.58.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcairo-gobject2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-touch-customization-hooks
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mir-graphics-drivers-android-caf
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-polld
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgoa-1.0-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmaliit-plugins0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: initramfs-tools-ubuntu-touch
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcdparanoia0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-hybris
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnl-genl-3-200
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwbclient0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qt-labs-folderlistmodel
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5sensors5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-jwt
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmedia1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgweather-3-6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: repowerd-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpulsedsp
+Architecture: armhf
+Auto-Installed: 1
+
+Package: glib-networking
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk-3-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xdg-user-dirs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: thumbnailer-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblibertine1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtsysteminfo
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gir1.2-click-0.4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-plugin-flickr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnice10
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsyncevolution0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-app-launch
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-libertine-chroot
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-present0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk-3-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtubuntu-media
+Architecture: armhf
+Auto-Installed: 1
+
+Package: folks-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfcitx-gclient0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libshout3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openvpn
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libparted2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-italian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5location5-plugins
+Architecture: armhf
+Auto-Installed: 1
+
+Package: wireless-tools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: eventstat
+Architecture: armhf
+Auto-Installed: 1
+
+Package: signon-plugin-oauth2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pulseaudio
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-plugins-good
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcapnp-0.5.3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: system-image-dbus
+Architecture: armhf
+Auto-Installed: 1
+
+Package: telepathy-ofono
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-gnupg
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gsettings-ubuntu-schemas
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-azerbaijani
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dbus
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgstreamer-plugins-base0.10-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglapi-mesa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libofono-qt1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gnome-desktop3-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: policykit-desktop-privileges
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpixman-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasound2-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtubuntu-android
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-lxc
+Architecture: armhf
+Auto-Installed: 1
+
+Package: bridge-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxkbfile1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdbusmenu-glib4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpinyin7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: rtkit
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-download-manager0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: systemd-shim
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-serbian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsecret-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liborc-0.4-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librsvg2-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxrender1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libiphb0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libicu55
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgnome-keyring-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-bulgarian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libelf1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-urllib3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: binutils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-wqy-microhei
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5multimedia5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: signond
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-settings-components
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-nemo-qml-plugin-folderlistmodel
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-telephony0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-french
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwhoopsie0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libogg0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libconnectivity-qt1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-nice
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasprintf0v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-render-util0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5organizer5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: humanity-icon-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ofono
+Architecture: armhf
+Auto-Installed: 1
+
+Package: buteo-syncfw
+Architecture: armhf
+Auto-Installed: 1
+
+Package: click
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsignon-plugins-common1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-takao-pgothic
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtcontacts
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-catalan
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpoppler-qt5-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5contacts5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pulseaudio-modules-droid-24
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libminizip1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwrap0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: p11-kit
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libavahi-common-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lsof
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libboost-thread1.58.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pptp-linux
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pulseaudio-modules-droid-glue-24
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libudm-common1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtcontact5-galera
+Architecture: armhf
+Auto-Installed: 1
+
+Package: linux-sound-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dconf-gsettings-backend
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgupnp-1.0-4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gdebi-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libavahi-common3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-util1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhardware2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: biometryd-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-touch-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libiw30
+Architecture: armhf
+Auto-Installed: 1
+
+Package: telepathy-mission-control-5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libunity-protocol-private0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5dbus5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkf5kirigami2-5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5quicktemplates2-5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpython2.7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gir1.2-ubuntu-app-launch-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-localstorage
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtelepathy-qt5-farstream0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5feedback5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntu-app-launch3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dnsmasq-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-qtcontacts-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5sql5-sqlite
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgdata22
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mir-client-platform-android-caf5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: media-hub
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5versitorganizer5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-onlineaccounts
+Architecture: armhf
+Auto-Installed: 1
+
+Package: nano
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmedia-hub-common5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-tlwg-kinnari
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcursor1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-portuguese
+Architecture: armhf
+Auto-Installed: 1
+
+Package: syncevolution
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpython3.5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-xmllistmodel
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libboost-system1.58.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libertined
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python-apt-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gcr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfolks25
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-layouts
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssh-sftp-server
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libthai-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5widgets5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: syncevolution-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-sound
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cgroupfs-mount
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-transfer-download-manager
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-chinese-pinyin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-fluendo-mp3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-agent-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-keyboard
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpresage-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-idna
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdbus-cpp5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmirplatform16
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-composite0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-turkish
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcgmanager0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qttest
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmtdev1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-placesmodel0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-droid-fallback
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhybris-test
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-packagekit
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libopencore-amrwb0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm-etnaviv1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntu-upload-manager-common1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liburcu4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: sync-monitor-uoa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unity8-private
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libegl1-mesa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-plugins-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: zeitgeist-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-shm0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmirwayland0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libepoxy0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnm0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: evolution-data-server
+Architecture: armhf
+Auto-Installed: 1
+
+Package: address-book-updater
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-dialogs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-psutil
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ciborium
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libertine-xmir-tools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntu-download-manager-client1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-controls2-suru
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnet-cpp2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsecret-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-six
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gsettings-desktop-schemas
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntu-application-api3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmircookie2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: alsa-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-finnish
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqofono-qt5-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: x11-xkb-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxc1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-randr0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmediainfo0v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-render0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-touch-sounds
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-performancemetrics
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-controls2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmircore1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libchewing3-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-system-settings-libertine
+Architecture: armhf
+Auto-Installed: 1
+
+Package: upower
+Architecture: armhf
+Auto-Installed: 1
+
+Package: anthy-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qmlscene
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcontent-hub0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-plugin-facebook
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-plugins-bad-videoparsers
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-html5-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cpustat
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtubuntu-sensors
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libassuan0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: network-manager
+Architecture: armhf
+Auto-Installed: 1
+
+Package: packagekit-tools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwavpack1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-mediascanner0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-english-dvorak
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-mediascanner0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxc-android-config
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfarstream-0.2-5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgudev-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fontconfig-config
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-korean
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtqml-models2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: p11-kit-modules
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-emoji
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-application-api3-touch
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libx11-6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liboauth0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libopus0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-requests
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libunity-action-qt1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mir-platform-graphics-android15
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-lohit-deva
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-japanese
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libudm-priv-common1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: bluetooth-touch
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qt-labs-settings
+Architecture: armhf
+Auto-Installed: 1
+
+Package: glib-networking-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtelepathy-farstream3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ofono-scripts
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgstreamer-plugins-good1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libvpx3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgcr-ui-3-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: click-ubuntu-policy
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsoup2.4-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5quickcontrols2-5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhybris-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxc
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-window-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libandroid-properties1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtalloc2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5xml5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwebpdemux1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpam-gnome-keyring
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libonline-accounts-client1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5quicktest5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libltdl7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-pulseaudio
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgbm1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsmltk0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: accountsservice-ubuntu-touch-schemas
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxshmfence1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: evolution-data-server-utouch
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-session
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-tlwg-kinnari-ttf
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-archives0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python-talloc
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-touch-generic-initrd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libplymouth4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gir1.2-gee-0.8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-plugin-owncloud
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxkbcommon-x11-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5printsupport5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-norwegian-bokmal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5qml5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsm6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-web
+Architecture: armhf
+Auto-Installed: 1
+
+Package: content-hub
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgeocode-glib0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-xdg
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libical1a
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mir-platform-graphics-android-caf15
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-pycurl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qmltermwidget1.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: telepathy-ofono-ril-mc-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblxc1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-libertine
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-particles-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libndp0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnm-util2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libusbmuxd4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: apparmor-easyprof
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwayland-client0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsystemsettings1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5multimediawidgets5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-particles2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5concurrent5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-czech
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-touch-session-mir
+Architecture: armhf
+Auto-Installed: 1
+
+Package: samba-libs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gir1.2-signon-1.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ntpdate
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-sdk-libs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-display
+Architecture: armhf
+Auto-Installed: 1
+
+Package: sqlite3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libonline-accounts-daemon1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-nanum
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-buteo-syncfw0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qt-websockets
+Architecture: armhf
+Auto-Installed: 1
+
+Package: repowerd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm-amdgpu1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnet1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libinput-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: syncevolution-libs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtfeedback
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mir-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnfnetlink0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-polld-plugins-go
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqtubuntu-media-signals1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libexif12
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libebackend-1.2-10
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fontconfig
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtiff5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-location
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5gui5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-settings-components
+Architecture: armhf
+Auto-Installed: 1
+
+Package: udisks2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ppp
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5multimedia5-plugins
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libllvm6.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-danish
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxau6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: usensord
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxaw7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-transfer
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-ca
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-cs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-xmllistmodel-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgnome-desktop-3-12
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-es
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libapparmor-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-gd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgee-0.8-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-he
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-hr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatk1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-it
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqdjango-db0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: health-check
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-lt
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-lv
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcomposite1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-nb
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-nl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: adwaita-icon-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: packagekit-backend-aptcc
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-pl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-cryptography
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-pt
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk-3-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-sl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: myspell-uk
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtwebsockets
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpangocairo-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libebook-1.2-16
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpulse0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmirprotobuf3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-u1db1.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtmir-android
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gir1.2-glib-2.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-push-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqmenumodel0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5webchannel5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcaca0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libisccfg-export140
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-image0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-click-package
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libimobiledevice6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxtst6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhud2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatspi2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: smemstat
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-icelandic
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libonline-accounts-qt1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librsvg2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgcr-3-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: oxideqt-codecs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libunity-api1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxi6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: address-book-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: network-manager-openvpn
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5webengine-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libiec61883-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxt6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxv1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libvorbisenc2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-content1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-arabic
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtag1v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubports-qa-scripts
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdee-1.0-4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-cffi-backend
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmirclient9
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mtp-server
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libneon27-gnutls
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpulse-mainloop-glib0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5multimediaquick-p5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-plugin-vk
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxinerama1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-emojione
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cameraplugin-aal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer1.0-plugins-bad-faad
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fakeroot
+Architecture: armhf
+Auto-Installed: 1
+
+Package: maliit-framework
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libspeex1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libprocess-cpp3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnl-3-200
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwayland-egl1-mesa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-bluetooth
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-dejavu-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-spanish
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjack-jackd2-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-plugin-twitter
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-xinerama0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-keysyms1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglib2.0-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ufw
+Architecture: armhf
+Auto-Installed: 1
+
+Package: syncevolution-libs-gnome
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libu1db-qt5-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxmuu1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5script5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-bosnian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsynthesis0v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: tone-generator
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libunity9
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtrust-store2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: debootstrap
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnetfilter-conntrack3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mir-graphics-drivers-android
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-apparmor
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-blinker
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mediaplayer-app
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtpositioning
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmm-glib0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtwebengine
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjson-glib-1.0-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgck-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpam-systemd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxfont1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgstreamer-plugins-base1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxrandr2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-chinese-chewing
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntumetrics5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtheora0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: powerd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsndfile1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjpeg8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-latvian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libopenobex2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libusermetricsinput1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: parted
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-shape0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-pkg-resources
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-html5-ui-toolkit
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-onlineaccounts-client
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-unity-action-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-app-launch-tools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: syncevolution-dbus
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtsensors
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcolord2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: android-tools-adbd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: shared-mime-info
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgomp1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xmir
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-datetime
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdbus-glib-1-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-symbola
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5core5a
+Architecture: armhf
+Auto-Installed: 1
+
+Package: rfkill
+Architecture: armhf
+Auto-Installed: 1
+
+Package: wpasupplicant
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-unity-notifications-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgsettings-qt1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubports-wallpapers-2018-10
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cgroup-lite
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hicolor-icon-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-mobile-icons
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-layouts
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer0.10-plugins-good
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxfixes3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: buteo-sync-plugins-contacts-google
+Architecture: armhf
+Auto-Installed: 1
+
+Package: address-book-app
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libthai0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgssdp-1.0-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-backend-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwebpmux1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtinyxml2-2v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: emacsen-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfontconfig1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtinyxml2.6.2v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libleveldb1v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: sync-monitor-helper
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssh-server
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasyncns0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libx11-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgl1-mesa-dri
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libboost-log1.58.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwebrtc-audio-processing-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-greek
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ttf-ubuntu-font-family
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libupower-glib3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-online-accounts-client0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgdk-pixbuf2.0-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsmbclient
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unzip
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbiometryd1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: trust-store-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libspeexdsp1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-io-thp-pyotherside
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5bluetooth5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssh-client
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5versit5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-dutch
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpam-cgfs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-ast
+Architecture: armhf
+Auto-Installed: 1
+
+Package: syncevolution-provider-uoa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: messaging-app
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtdb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntu-download-manager-common1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtquick-templates2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-dbus
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasound2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libaccounts-glib0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtcharts
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libclick-0.4-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mir-platform-input-evdev7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasound2-plugins
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgraphite2-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgpm2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxxf86vm1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfftw3-double3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-hebrew
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblttng-ust-ctl2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: plymouth
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjpeg-turbo8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libvisual-0.4-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgnome-keyring0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmessaging-menu0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libevent-2.0-5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglib2.0-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: abootimg
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ltrace
+Architecture: armhf
+Auto-Installed: 1
+
+Package: bluez-obexd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-plugin-tools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhunspell-1.3-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libre2-1v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5positioning5-plugins
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxdamage1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5opengl5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtelepathy-glib0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librest-0.7-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dictionaries-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: policykit-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtmultimedia
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5xmlpatterns5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbuteosyncfw5-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntu-platform-hardware-api3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-hungarian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5quickparticles5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatk-bridge2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: signon-apparmor-extension
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgl1-mesa-glx
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntu-location-service3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libphonenumber7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unity8-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjbig0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcap-ng0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxml2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-gi
+Architecture: armhf
+Auto-Installed: 1
+
+Package: upstart
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gir1.2-accounts-1.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxmu6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: tcptraceroute
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libthumbnailer-qt1.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-usermetrics0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfcitx-utils0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: morph-browser
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libflac8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-thumbnailer0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5webenginecore5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libebook-contacts-1.2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qttranslations5-l10n
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-components
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpython2.7-minimal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fbset
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libibus-1.0-5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pulseaudio-module-bluetooth
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsignon-glib1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnss3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libedit2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-touch-session
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwacom2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-polish
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libedata-book-1.2-25
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libusermetricsoutput1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-transfer-buteo
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-download-manager
+Architecture: armhf
+Auto-Installed: 1
+
+Package: telepathy-gabble
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpcap0.8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfreetype6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libudisks2-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ca-certificates
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfakechroot
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-swedish
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dbus-property-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-oauthlib
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblightdm-qt5-3-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unity-asset-pool
+Architecture: armhf
+Auto-Installed: 1
+
+Package: rsync
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hybris-usb
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xauth
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libzeitgeist-2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: apparmor
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libunistring0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmtpserver1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-application-api3-test
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-accounts-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: packagekit-plugin-click
+Architecture: armhf
+Auto-Installed: 1
+
+Package: wget
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5webengine5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libedata-cal-1.2-28
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnss-extrausers
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntutoolkit5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gstreamer0.10-plugins-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: x11-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtorganizer5-eds
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unity8-schemas
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5charts5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: aethercast-tools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: morph-webapp-container
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm-radeon1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: telephony-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: signon-ui-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-addressbook0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxpm4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libunity-scopes-json-def-desktop
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ocl-icd-libopencl1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gir1.2-json-1.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-location-service-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libvorbis0a
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjsoncpp1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libv4l-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatk1.0-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: accountsservice
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5websockets5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libharfbuzz0b
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-plugin-nextcloud
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5network5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libboost-iostreams1.58.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libv4lconvert0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtvideonode-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-folderlistmodel-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtag1v5-vanilla
+Architecture: armhf
+Auto-Installed: 1
+
+Package: upstart-sysv
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpcrecpp0v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwds0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcamel-1.2-54
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbluetooth3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-onlineaccounts2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5systeminfo5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5positioning5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libice6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gettext-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-touch-settings
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hunspell-fr-classical
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gettext
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxmltok1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcairo2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libecal-1.2-19
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpython2.7-stdlib
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libexiv2-14
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-debian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: apparmor-easyprof-ubuntu
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libertine-qt-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-scottish-gaelic
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-lohit-guru
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libubuntugestures5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pinentry-gnome3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ofono
+Architecture: armhf
+Auto-Installed: 1
+
+Package: isc-dhcp-server
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libavc1394-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpoppler58
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgnomekbd-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libavahi-client3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmiral3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-glx0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libprotobuf9v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: account-plugin-google
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pulseaudio-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-bg
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-br
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-bs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-ca
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-cs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-cy
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-da
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-apparmor-click
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-de
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpango-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-el
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-en
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-es
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-eu
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-fi
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-fr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-gd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-gl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-he
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-ui-toolkit-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-hr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-hu
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxss1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-id
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-it
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-ja
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-ko
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5location5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-lt
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-lv
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-power
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-ms
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-nb
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-nl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: powerstat
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-oc
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-pa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-pl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-pt
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-liberation
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-ro
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-ru
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtevent0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-dri2-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-sc
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-sk
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-sl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-sr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-sv
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxkbcommon0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-tr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-ug
+Architecture: armhf
+Auto-Installed: 1
+
+Package: language-pack-touch-uk
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dconf-cli
+Architecture: armhf
+Auto-Installed: 1
+
+Package: proot
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgeonames0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxapian22v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmedia-hub-client5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsensors4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgstreamer-plugins-bad1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5quick5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtlocation
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-keyboard-ukrainian
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-system-settings
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-chardet
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgstreamer1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libyaml-cpp0.5v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: url-dispatcher
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libboost-regex1.58.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnotify4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsamplerate0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-mono
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libedataserver-1.2-21
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libzen0v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-dri3-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglib2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdconf1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: anthy
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qmenumodel-qml
+Architecture: armhf
+Auto-Installed: 1
+
+Package: aethercast
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmission-control-plugins0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtchooser
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lightdm
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-application-api3-examples
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libanthy0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsignon-extension1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgweather-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatasmart4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmms0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmircommon7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: afirmflasher
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnspr4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfaad2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-qtorganizer-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qt-labs-platform
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubports-wallpapers
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-poppler1.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwayland-server0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-xkb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: history-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmng2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cgmanager
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libqt5sql5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtgraphicaleffects
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblightdm-gobject-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libx11-xcb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unity-system-compositor
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-apt
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmirserver48
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-messages
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgdbussyncevo0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-sync1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libaccountsservice0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsbc1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-ubuntu-keyboard-extensions0.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libinput10
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-components-labs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mir-client-platform-android5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmediascanner-2.0-4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtqml-statemachine
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qtdeclarative5-qtquick2-plugin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liburl-dispatcher1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unity-webapps-qml
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxslt1.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: nuntium
+Architecture: armhf
+Auto-Installed: 1
+
+Package: sync-monitor
+Architecture: armhf
+Auto-Installed: 1
+
+Package: bash-completion
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfftw3-single3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-qtorganizer
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxext6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdatrie1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python3-pyasn1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-org-kde-kirigami2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pulseaudio-module-droid
+Architecture: armhf
+Auto-Installed: 1
+
+Package: indicator-network
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblzo2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ubuntu-upload-manager
+Architecture: armhf
+Auto-Installed: 1
+
+Package: qml-module-ubuntu-connectivity
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgflags2v5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwayland-cursor0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: software-properties-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libevdev2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglibutil
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwspcodec
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgrilio
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmce-glib
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgbinder
+Architecture: armhf
+Auto-Installed: 1
+

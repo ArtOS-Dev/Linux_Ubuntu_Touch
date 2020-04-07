@@ -1,0 +1,150 @@
+#! /usr/bin/python3
+
+import sys
+import subprocess
+
+import dbus
+import dbus.bus
+import dbus.service
+import dbus.mainloop.glib
+from dbus.exceptions import DBusException
+
+from gi.repository import GObject
+
+valid = ['mtp', 'adb', 'rndis', 'ptp', 'ssh', 'autopilot', 'writable', 'edge']
+property = "persist.sys.usb.config"
+
+
+class PropHelper():
+    def Get():
+        cmd = "getprop"
+        pipe = subprocess.check_output([cmd, property])
+        prop = str(pipe, 'ascii').rstrip()
+        return prop
+
+    def GetBoolean(property):
+        retval = 0
+        cmd = "getprop"
+        pipe = subprocess.check_output([cmd, property])
+        if str(pipe, 'ascii').rstrip() == 'true':
+            retval = 1
+        return retval
+
+    def Set(name, val):
+        cmd = "setprop"
+        if name == 'ssh':
+            setval = 'true'
+            property = 'persist.service.ssh'
+            if not val:
+                setval = 'false'
+            pipe = subprocess.check_output([cmd, property, setval])
+        elif name == 'autopilot':
+            cmd = 'aa-clickhook -f'
+            command = "%s" % cmd
+            if val:
+                rfile = '/usr/share/autopilot-touch/' \
+                        'apparmor/click.rules'
+                myval = ' --include=%s' % rfile
+                command = cmd + myval
+            pipe = subprocess.Popen(command, shell=True)
+            return 1
+        elif name == 'edge':
+            setval = 'true'
+            if not val:
+                setval = 'false'
+            cmd = 'dbus-send --system --print-reply ' \
+                  '--dest=org.freedesktop.Accounts ' \
+                  '/org/freedesktop/Accounts/User32011 ' \
+                  'org.freedesktop.DBus.Properties.Set ' \
+                  'string:com.canonical.unity.AccountsService ' \
+                  'string:demo-edges  variant:boolean:%s' % setval
+            pipe = subprocess.Popen(cmd, shell=True)
+
+            if val:
+                # We use gdbus rather than dbus-send, because dbus-send can't
+                # represent a variant holding an array.
+                # We set an array with one empty string rather than an empty
+                # array because gdbus can't represent an empty array.
+                cmd = 'gdbus call --system ' \
+                      '--dest org.freedesktop.Accounts '\
+                      '--object-path /org/freedesktop/Accounts/User32011 ' \
+                      '--method org.freedesktop.DBus.Properties.Set ' \
+                      'com.canonical.unity.AccountsService ' \
+                      'DemoEdgesCompleted \'<[""]>\''
+                pipe = subprocess.Popen(cmd, shell=True)
+
+            return 1
+        elif name == 'writable':
+            command = 'rm -f /userdata/.writable_image'
+            if val:
+                command = 'touch /userdata/.writable_image'
+            pipe = subprocess.Popen(command, shell=True)
+            subprocess.Popen('/sbin/reboot', shell=True)
+            return 1
+        else:
+            property = "persist.sys.usb.config"
+            list = PropHelper.Get().split(',')
+            if 'none' in list:
+                list.remove('none')
+            if not val and (name in list):
+                list.remove(name)
+            elif val and not (name in list):
+                if name == 'adb':
+                    list.append('adb')
+                else:
+                    if 'adb' in list:
+                        list = [name, 'adb']
+                    else:
+                        list = [name]
+            if not list:
+                list = "none"
+            else:
+                list = ','.join(list)
+            setval = list
+            pipe = subprocess.check_output([cmd, property, setval])
+        return 1
+
+
+class PropertyService (dbus.service.Object):
+    def __init__(self, bus, path, name):
+            dbus.service.Object.__init__(self, bus, path, name)
+
+    @dbus.service.method("com.canonical.PropertyService",
+                         in_signature='s', out_signature='b')
+    def GetProperty(self, propname):
+        name = propname.lower()
+        rval = 0
+        if name in valid:
+            if name == 'ssh':
+                rval = PropHelper.GetBoolean('persist.service.ssh')
+            else:
+                prop = PropHelper.Get()
+                if name in prop:
+                    rval = 1
+            return rval
+        err = "Key %s is unknown (valid: %s)" % (name, valid)
+        raise dbus.DBusException(err)
+
+    @dbus.service.method("com.canonical.PropertyService",
+                         in_signature='sb', out_signature='b')
+    def SetProperty(self, propname, bool):
+        name = propname.lower()
+        if name in valid:
+            prop = PropHelper.Set(name, bool)
+            return prop
+        err = "Key %s is unknown (valid: %s)" % (name, valid)
+        raise dbus.DBusException(err)
+
+
+if __name__ == '__main__':
+    dbus.mainloop.glib.DBusGMainLoop(set_as_default=True)
+    bus = dbus.SystemBus()
+    name = bus.request_name("com.canonical.PropertyService",
+                            dbus.bus.NAME_FLAG_DO_NOT_QUEUE)
+    obj = PropertyService(bus, '/com/canonical/PropertyService',
+                          "com.canonical.PropertyService")
+
+    GObject.timeout_add(5000, sys.exit)
+
+    mainloop = GObject.MainLoop()
+    mainloop.run()

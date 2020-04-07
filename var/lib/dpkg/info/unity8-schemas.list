@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/unity8-schemas
+/usr/share/doc/unity8-schemas/changelog.gz
+/usr/share/doc/unity8-schemas/copyright
+/usr/share/glib-2.0
+/usr/share/glib-2.0/schemas
+/usr/share/glib-2.0/schemas/com.canonical.Unity.gschema.xml
+/usr/share/glib-2.0/schemas/com.canonical.Unity8.gschema.xml

@@ -1,0 +1,3 @@
+Pattern: /var/lib/apparmor/clicks/${id}.json
+Exec: /usr/bin/aa-clickhook
+User: root

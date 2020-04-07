@@ -1,0 +1,11 @@
+[Unit]
+Description=Indicator Power
+PartOf=graphical-session.target
+PartOf=indicators.target
+
+[Service]
+ExecStart=/usr/lib/arm-linux-gnueabihf/indicator-power/indicator-power-service
+Restart=on-failure
+
+[Install]
+WantedBy=indicators.target

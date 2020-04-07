@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/qt5
+/usr/lib/arm-linux-gnueabihf/qt5/qml
+/usr/lib/arm-linux-gnueabihf/qt5/qml/QMenuModel
+/usr/lib/arm-linux-gnueabihf/qt5/qml/QMenuModel/qmldir
+/usr/lib/arm-linux-gnueabihf/qt5/qml/QMenuModel/libqmenumodel-qml.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/qmenumodel-qml
+/usr/share/doc/qmenumodel-qml/changelog.gz
+/usr/share/doc/qmenumodel-qml/copyright

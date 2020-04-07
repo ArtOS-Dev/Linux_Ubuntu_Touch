@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/upstart
+/usr/share/upstart/sessions
+/usr/share/upstart/sessions/session-watchdog.conf
+/usr/share/doc
+/usr/share/doc/upstart-watchdog
+/usr/share/doc/upstart-watchdog/changelog.gz
+/usr/share/doc/upstart-watchdog/copyright
+/etc
+/etc/init
+/etc/init/system-watchdog.conf

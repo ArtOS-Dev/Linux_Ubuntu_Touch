@@ -1,0 +1,8 @@
+[Unit]
+Description=Indicator Location Backend
+PartOf=graphical-session.target
+After=indicators-pre.target
+
+[Service]
+ExecStart=/usr/lib/arm-linux-gnueabihf/indicator-location/indicator-location-service
+Restart=on-failure

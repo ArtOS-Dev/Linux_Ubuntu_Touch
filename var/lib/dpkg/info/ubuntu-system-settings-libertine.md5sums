@@ -1,0 +1,6 @@
+0bd51b0185558b28beed82909d3d765b  usr/lib/arm-linux-gnueabihf/ubuntu-system-settings/liblibertine-plugin.so
+48f4c34c8676520e781d5303d3d08aca  usr/share/doc/ubuntu-system-settings-libertine/changelog.gz
+363c1ce6b129e0e537d2c4b1fd5bdb4e  usr/share/doc/ubuntu-system-settings-libertine/copyright
+062a6680a80158d11c7acf6f57e56d46  usr/share/libertine/qml/plugin/MainSettingsPage.qml
+a4e0ab45836c41c56de173711d1d374c  usr/share/ubuntu/settings/system/icons/libertine-plugin.png
+f1528c8277ddc02d0eb56de14fb8b2eb  usr/share/ubuntu/settings/system/libertine.settings

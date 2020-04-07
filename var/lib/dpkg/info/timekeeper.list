@@ -1,0 +1,12 @@
+/.
+/etc
+/etc/init
+/etc/init/timekeeper.conf
+/usr
+/usr/bin
+/usr/bin/timekeeper
+/usr/share
+/usr/share/doc
+/usr/share/doc/timekeeper
+/usr/share/doc/timekeeper/changelog.gz
+/usr/share/doc/timekeeper/copyright

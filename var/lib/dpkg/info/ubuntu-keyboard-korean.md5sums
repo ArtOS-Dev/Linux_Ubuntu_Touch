@@ -1,0 +1,13 @@
+ae7fcc26ec5465164a7c3d4b645f411b  usr/share/doc/ubuntu-keyboard-korean/changelog.gz
+3f9b7512cd28d7413f3ad2f8295920d5  usr/share/doc/ubuntu-keyboard-korean/copyright
+0f9930fcd00bfd569f1d53a9ebfb9abd  usr/share/maliit/plugins/com/ubuntu/lib/ko/Keyboard_ko.qml
+eb2b7426a109ef084be22ba5bc2982fa  usr/share/maliit/plugins/com/ubuntu/lib/ko/Keyboard_ko_email.qml
+52d874bb99efc240b46e311a5f86e712  usr/share/maliit/plugins/com/ubuntu/lib/ko/Keyboard_ko_url.qml
+3b4bcf48b979dd881097a379ae03cf62  usr/share/maliit/plugins/com/ubuntu/lib/ko/Keyboard_ko_url_search.qml
+86cbbea77a494f122d3d1b054760c54f  usr/share/maliit/plugins/com/ubuntu/lib/ko/database_ko.db
+e456dbcd2d9bdde895cedbf42aec9fb9  usr/share/maliit/plugins/com/ubuntu/lib/ko/keys/HBackspaceKey.qml
+11117084aa0159647a04f2fdd0a12755  usr/share/maliit/plugins/com/ubuntu/lib/ko/keys/HCharKey.qml
+0bd9009c065d281bf09b4c6a8ce13c94  usr/share/maliit/plugins/com/ubuntu/lib/ko/keys/key_constants.js
+96b340fcebeaea6d64c17c602c03b600  usr/share/maliit/plugins/com/ubuntu/lib/ko/keys/languages.js
+da1442a6e8c9b30d06ba956510d3b1ae  usr/share/maliit/plugins/com/ubuntu/lib/ko/keys/parser.js
+1ca6ae5d26cea68bf7566d29f6efe7c3  usr/share/maliit/plugins/com/ubuntu/lib/ko/libkoplugin.so

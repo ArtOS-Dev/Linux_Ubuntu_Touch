@@ -1,0 +1,12 @@
+c821e6cad976adc40856f740e2d4555b  usr/bin/nuntium
+d0ae33059c7d8ae7ab1d656d9a39e564  usr/share/doc/nuntium/README.md
+9bff0cb9df2e1f49b0fb12e8dfc378da  usr/share/doc/nuntium/changelog.gz
+c340e39fad14c3e6224df129da74d888  usr/share/doc/nuntium/copyright
+8544f6be084a87a3653d667b7c451ddc  usr/share/doc/nuntium/docs/architecture.md
+fcc3cddd04238311c623fcbb74106370  usr/share/doc/nuntium/docs/assets/generate_msc.sh
+d9d1b3bdef16763169f404019a4b5332  usr/share/doc/nuntium/docs/assets/receiving_success_deferral_disabled.msc
+588d16c53977a8df4f10ec111f872af2  usr/share/doc/nuntium/docs/assets/receiving_success_deferral_disabled.png
+b472db9c094239ce9b81a87e2149d03a  usr/share/doc/nuntium/docs/assets/send_success_delivery_disabled.msc
+7460dfda020036d300e95f1ac0eabed9  usr/share/doc/nuntium/docs/assets/send_success_delivery_disabled.png
+84bd140a91e841d5a371278796eed75c  usr/share/doc/nuntium/docs/testing.md
+d06416c88287e4a675d05da2c59417bd  usr/share/upstart/sessions/nuntium.conf

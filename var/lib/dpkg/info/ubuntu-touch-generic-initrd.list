@@ -1,0 +1,15 @@
+/.
+/var
+/var/lib
+/var/lib/initramfs-tools
+/var/lib/initramfs-tools/touch
+/usr
+/usr/lib
+/usr/lib/ubuntu-touch-generic-initrd
+/usr/lib/ubuntu-touch-generic-initrd/initrd.img-touch-0.94vivid5ubports1+0~20181212230101.7~1.gbp60fd9d
+/usr/share
+/usr/share/doc
+/usr/share/doc/ubuntu-touch-generic-initrd
+/usr/share/doc/ubuntu-touch-generic-initrd/changelog.gz
+/usr/share/doc/ubuntu-touch-generic-initrd/copyright
+/usr/lib/ubuntu-touch-generic-initrd/initrd.img-touch

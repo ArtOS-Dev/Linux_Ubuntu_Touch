@@ -1,0 +1,14 @@
+{
+    "policy_groups": [
+        "networking",
+        "accounts",
+        "content_exchange",
+        "audio",
+        "webview",
+        "push-notification-client",
+        "calendar",
+        "connectivity",
+        "content_exchange_source"
+    ],
+    "policy_version": 16.04
+}

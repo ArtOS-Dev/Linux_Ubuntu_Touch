@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/qt5
+/usr/lib/arm-linux-gnueabihf/qt5/qml
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/OnlineAccounts
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/OnlineAccounts/Client
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/OnlineAccounts/Client/qmldir
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/OnlineAccounts/Client/libOnlineAccountsClient.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/qml-module-ubuntu-onlineaccounts-client
+/usr/share/doc/qml-module-ubuntu-onlineaccounts-client/changelog.gz
+/usr/share/doc/qml-module-ubuntu-onlineaccounts-client/copyright

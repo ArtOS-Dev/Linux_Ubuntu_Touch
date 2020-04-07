@@ -1,0 +1,8 @@
+02b699c82679ec9ecd70767ddc832e0e  usr/bin/test_android_gps_api
+aa05594efdf0537d48409801b4ef9434  usr/bin/test_android_sensors_api
+c340efad5ea6cfee01fa2541abae63fe  usr/bin/test_booster_api
+805e277a88c708850618af3e0dfc5fee  usr/bin/test_hardware_alarms_api
+a788b2a09b236a376ce3d6d20739a131  usr/bin/test_ubuntu_app_api_location_service
+9ee28e477fa1d328525c4cc7d4d50766  usr/bin/test_ubuntu_haptic_device
+2ffdef7c946f8d7f9fd95f3baca14d1d  usr/share/doc/ubuntu-application-api3-examples/changelog.gz
+03e55f0771ea1599b4bdc96830712c74  usr/share/doc/ubuntu-application-api3-examples/copyright

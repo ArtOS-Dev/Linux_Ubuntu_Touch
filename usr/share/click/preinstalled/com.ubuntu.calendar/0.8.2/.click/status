@@ -1,0 +1,9 @@
+Package: com.ubuntu.calendar
+Status: install ok installed
+Installed-Size: 1564
+Maintainer: UBports <dev@ubports.com>
+Architecture: armhf
+Version: 0.8.2
+Description: Calendar
+Click-Version: 0.4
+

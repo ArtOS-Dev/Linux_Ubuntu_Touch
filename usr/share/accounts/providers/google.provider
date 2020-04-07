@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provider id="google">
+  <name>Google</name>
+  <description>Includes Gmail, Google Docs, Google+, YouTube and Picasa</description>
+  <icon>google</icon>
+  <translations>account-plugins</translations>
+  <domains>.*google\.com</domains>
+
+  <template>
+    <group name="auth">
+      <setting name="method">oauth2</setting>
+      <setting name="mechanism">web_server</setting>
+      <group name="oauth2">
+        <group name="web_server">
+          <setting name="Host">accounts.google.com</setting>
+          
+          <setting name="AuthPath">o/oauth2/auth?access_type=offline</setting>
+          <setting name="TokenPath">o/oauth2/token</setting>
+          <setting name="RedirectUri">https://ubports.com/oauth/callback</setting>
+          <setting name="ResponseType">code</setting>
+          <setting type="as" name="Scope">['email','profile','https://www.google.com/m8/feeds/','https://www.googleapis.com/auth/calendar','https://www.googleapis.com/auth/carddav']</setting>
+          <setting name="ClientId">1032863574955-rmcjs0d9ulj5h5mhj0hrt1t3jf74at00.apps.googleusercontent.com</setting>
+          <setting name="ClientSecret">qFyrW7sAct8q2PCp5mHBPtPg</setting>
+          <setting type="as" name="AllowedSchemes">['https','http']</setting>
+          <setting type="b" name="ForceClientAuthViaRequestBody">true</setting>
+        </group>
+      </group>
+    </group>
+  </template>
+</provider>

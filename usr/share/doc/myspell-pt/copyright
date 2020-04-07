@@ -1,0 +1,9 @@
+This package was debianized by Rafael Laboissiere <rafael@debian.org> on
+Thu, 22 Jun 2006 11:43:49 +0200.
+
+Copyright (C) 2006-2008  Rafael Laboissiere
+
+This is an empty package put in the public domain.  The sole purpose
+of the myspell-pt package is to depend on both myspell-pt-pt and
+myspell-pt-br, such that users interested in the myspell dictionaries
+pt_PT and pt_BR can install both at once.

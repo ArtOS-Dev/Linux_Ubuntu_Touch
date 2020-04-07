@@ -1,0 +1,16 @@
+/.
+/etc
+/etc/init
+/etc/init/bluebinder.conf
+/usr
+/usr/bin
+/usr/bin/droid
+/usr/bin/droid/bluebinder_wait.sh
+/usr/bin/droid/bluebinder_post.sh
+/usr/share
+/usr/share/doc
+/usr/share/doc/bluebinder
+/usr/share/doc/bluebinder/changelog.gz
+/usr/share/doc/bluebinder/copyright
+/usr/sbin
+/usr/sbin/bluebinder

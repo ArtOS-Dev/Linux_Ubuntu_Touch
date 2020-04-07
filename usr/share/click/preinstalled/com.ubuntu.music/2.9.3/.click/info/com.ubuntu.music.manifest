@@ -1,0 +1,26 @@
+{
+    "architecture": "all",
+    "description": "A music application for ubuntu",
+    "framework": "ubuntu-sdk-16.04.3-qml",
+    "hooks": {
+        "music": {
+            "apparmor": "apparmor.json",
+            "content-hub": "music-app-content.json",
+            "desktop": "com.ubuntu.music_music.desktop",
+            "urls": "com.ubuntu.music_music.url-dispatcher"
+        }
+    },
+    "icon": "app/graphics/music-app.svg",
+    "installed-size": "1385",
+    "maintainer": "UBports <dev@ubports.com>",
+    "name": "com.ubuntu.music",
+    "title": "Music",
+    "version": "2.9.3",
+    "x-source": {
+        "vcs-bzr": "lp:music-app",
+        "vcs-bzr-revno": "latest"
+    },
+    "x-test": {
+        "autopilot": "music_app"
+    }
+}

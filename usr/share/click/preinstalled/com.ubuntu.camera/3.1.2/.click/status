@@ -1,0 +1,9 @@
+Package: com.ubuntu.camera
+Status: install ok installed
+Installed-Size: 1960
+Maintainer: UBports <dev@ubports.com>
+Architecture: armhf
+Version: 3.1.2
+Description: Camera
+Click-Version: 0.4
+

@@ -1,0 +1,5 @@
+[D-BUS Service]
+Name=com.canonical.PropertyService
+Exec=/usr/lib/dbus-property-service/propertyservice
+User=root
+StandardOutput=syslog

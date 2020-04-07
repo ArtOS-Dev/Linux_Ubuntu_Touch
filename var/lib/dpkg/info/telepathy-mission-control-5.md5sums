@@ -1,0 +1,16 @@
+feced881bcb54c016ed17b32990cd7c2  usr/bin/mc-tool
+9bfd05e66d1e3e67aa1f0c8614f9a546  usr/bin/mc-wait-for-name
+9d7619796776b943b8bf176ba02267f3  usr/lib/telepathy/mission-control-5
+341c1e5e43111f92132c06708e79a3e8  usr/share/apport/package-hooks/source_telepathy-mission-control-5.py
+f98c7b7b53c99b1e5d96e40d917323ea  usr/share/dbus-1/services/org.freedesktop.Telepathy.AccountManager.service
+2f757ad90324a309ad951891808d5e7b  usr/share/dbus-1/services/org.freedesktop.Telepathy.MissionControl5.service
+d3276086ce74bfdb746ab1ad0a2e8ffb  usr/share/doc/telepathy-mission-control-5/AUTHORS
+cb9348de8fb0527b4d015a27c90f764e  usr/share/doc/telepathy-mission-control-5/NEWS.Debian.gz
+4be02143eac6127c4b98565c6c0051b0  usr/share/doc/telepathy-mission-control-5/NEWS.gz
+8d5c8ec39fef4064a32678e5a5061b9b  usr/share/doc/telepathy-mission-control-5/README.gz
+7d3898a6ea382eec9fec457e9c2c9dcf  usr/share/doc/telepathy-mission-control-5/changelog.Debian.gz
+38e2c2c9c571830f3177064fd95ae407  usr/share/doc/telepathy-mission-control-5/copyright
+6d6331fb1bd334c7b514f8aafbd5c11e  usr/share/glib-2.0/schemas/im.telepathy.MissionControl.FromEmpathy.gschema.xml
+6bfd8db0f3681b08a137365c818ab840  usr/share/man/man1/mc-tool.1.gz
+bdfff996a1509d99f2f1090ac30f59c2  usr/share/man/man1/mc-wait-for-name.1.gz
+d23771fe66577dbdb29240f1ad1bb250  usr/share/man/man8/mission-control-5.8.gz

@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ubuntu-touch-settings
+/usr/share/doc/ubuntu-touch-settings/changelog.gz
+/usr/share/doc/ubuntu-touch-settings/copyright
+/usr/share/glib-2.0
+/usr/share/glib-2.0/schemas
+/usr/share/glib-2.0/schemas/10_ubuntu-touch-settings.gschema.override

@@ -1,0 +1,5 @@
+/etc/aethercast/dhcpd.conf
+/etc/apparmor.d/dhcpd.d/usr.sbin.aethercast
+/etc/dbus-1/system.d/aethercast-dbus.conf
+/etc/dhcp/dhclient-enter-hooks.d/aethercast
+/etc/init/aethercast.conf

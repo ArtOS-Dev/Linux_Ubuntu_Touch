@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libgflags.so.2.1.2
+/usr/lib/arm-linux-gnueabihf/libgflags_nothreads.so.2.1.2
+/usr/share
+/usr/share/doc
+/usr/share/doc/libgflags2v5
+/usr/share/doc/libgflags2v5/changelog.Debian.gz
+/usr/share/doc/libgflags2v5/copyright
+/usr/share/lintian/overrides/libgflags2v5
+/usr/lib/arm-linux-gnueabihf/libgflags.so.2
+/usr/lib/arm-linux-gnueabihf/libgflags_nothreads.so.2

@@ -1,0 +1,32 @@
+# vim:syntax=apparmor
+
+#include <tunables/global>
+
+# Define vars with unconfined since autopilot rules may reference them
+# Specified profile variables
+@{APP_APPNAME}="openstore"
+@{APP_ID_DBUS}="openstore_2eopenstore_2dteam_5fopenstore_5f2_2e87"
+@{APP_PKGNAME_DBUS}="openstore_2eopenstore_2dteam"
+@{APP_PKGNAME}="openstore.openstore-team"
+@{APP_VERSION}="2.87"
+@{CLICK_DIR}="{/custom/click,/opt/click.ubuntu.com,/usr/share/click/preinstalled}"
+
+# TODO: when v3 userspace lands, use:
+# profile "openstore.openstore-team_openstore_2.87" (unconfined) {}
+
+# v2 compatible wildly permissive profile
+profile "openstore.openstore-team_openstore_2.87" (attach_disconnected) {
+  capability,
+  network,
+  / rwkl,
+  /** rwlkm,
+  /** pix,
+
+  mount,
+  remount,
+  umount,
+  dbus,
+  signal,
+  ptrace,
+  unix,
+}

@@ -1,0 +1,6 @@
+libdroid-sink 24 pulseaudio-modules-droid-24
+libdroid-source 24 pulseaudio-modules-droid-24
+libdroid-util 24 pulseaudio-modules-droid-24
+module-droid-card 24 pulseaudio-modules-droid-24
+module-droid-sink 24 pulseaudio-modules-droid-24
+module-droid-source 24 pulseaudio-modules-droid-24

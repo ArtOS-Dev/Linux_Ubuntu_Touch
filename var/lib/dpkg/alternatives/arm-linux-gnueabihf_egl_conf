@@ -1,0 +1,8 @@
+manual
+/etc/ld.so.conf.d/arm-linux-gnueabihf_EGL.conf
+
+/usr/lib/arm-linux-gnueabihf/libhybris-egl/ld.so.conf
+400
+/usr/lib/arm-linux-gnueabihf/mesa-egl/ld.so.conf
+500
+

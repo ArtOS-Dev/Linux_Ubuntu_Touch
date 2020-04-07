@@ -1,0 +1,20 @@
+{
+    "architecture": "all",
+    "description": "Powerful and easy to use calculator",
+    "framework": "ubuntu-sdk-15.04.6",
+    "hooks": {
+        "calculator": {
+            "apparmor": "ubuntu-calculator-app.apparmor",
+            "desktop": "share/applications/ubuntu-calculator-app.desktop"
+        }
+    },
+    "icon": "",
+    "installed-size": "1583",
+    "maintainer": "UBports <dev@ubports.com>",
+    "name": "com.ubuntu.calculator",
+    "title": "Calculator",
+    "version": "3.2.6",
+    "x-test": {
+        "autopilot": "ubuntu_calculator_app"
+    }
+}

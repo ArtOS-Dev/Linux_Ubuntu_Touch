@@ -1,0 +1,7 @@
+704e9ea49dc7adec91b2af04c9c28985  usr/bin/getprop
+0cff5c9d63fa5081c206df9c29f32bdb  usr/bin/setprop
+458ead539951a8251fc36b3e35a99006  usr/share/doc/libhybris-utils/changelog.gz
+c97bbf167d4c29b308551a6270bd4212  usr/share/doc/libhybris-utils/copyright
+a01ffac8414afbc82dcc6e7c1b5a55af  usr/share/libhybris/gdb/load_sym_files.py
+f7f4ccae77d8d2ded13951861e82daa8  usr/share/man/man1/getprop.1.gz
+cd3d0c7c0c038a95e06b5022ea8fa492  usr/share/man/man1/setprop.1.gz

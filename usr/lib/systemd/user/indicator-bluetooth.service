@@ -1,0 +1,8 @@
+[Unit]
+Description=Indicator Bluetooth Backend
+PartOf=graphical-session.target
+After=indicators-pre.target
+
+[Service]
+ExecStart=/usr/lib/arm-linux-gnueabihf/indicator-bluetooth/indicator-bluetooth-service
+Restart=on-failure

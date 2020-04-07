@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/share
+/usr/share/PackageKit
+/usr/share/PackageKit/helpers
+/usr/share/PackageKit/helpers/aptcc
+/usr/share/PackageKit/helpers/aptcc/get-distro-upgrade.py
+/usr/share/PackageKit/helpers/aptcc/pkconffile
+/usr/share/PackageKit/helpers/aptcc/pkconffile.nodiff
+/usr/share/doc
+/usr/share/doc/packagekit-backend-aptcc
+/usr/share/doc/packagekit-backend-aptcc/copyright
+/usr/share/doc/packagekit-backend-aptcc/changelog.Debian.gz
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/packagekit-backend
+/usr/lib/arm-linux-gnueabihf/packagekit-backend/libpk_backend_aptcc.so

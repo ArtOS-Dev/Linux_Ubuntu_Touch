@@ -1,0 +1,9 @@
+Package: com.ubuntu.gallery
+Status: install ok installed
+Installed-Size: 5311
+Maintainer: UBports <dev@ubports.com>
+Architecture: armhf
+Version: 2.10.4
+Description: Gallery
+Click-Version: 0.4
+

@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/libertine
+/usr/lib/python3/dist-packages/libertine/ChrootContainer.py
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-libertine-chroot
+/usr/share/doc/python3-libertine-chroot/changelog.gz
+/usr/share/doc/python3-libertine-chroot/copyright

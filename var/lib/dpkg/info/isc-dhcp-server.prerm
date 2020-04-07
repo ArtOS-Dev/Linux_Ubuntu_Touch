@@ -1,0 +1,29 @@
+#!/bin/sh
+#
+#
+
+set -e
+
+init_script_error_handler()
+{
+	return 0
+}
+
+# Automatically added by dh_systemd_start
+if [ -d /run/systemd/system ]; then
+	deb-systemd-invoke stop isc-dhcp-server6.service >/dev/null
+fi
+# End automatically added section
+# Automatically added by dh_installinit
+if [ -x "/etc/init.d/isc-dhcp-server6" ] || [ -e "/etc/init/isc-dhcp-server6.conf" ]; then
+	invoke-rc.d isc-dhcp-server6 stop || exit $?
+fi
+# End automatically added section
+# Automatically added by dh_installinit
+if [ -x "/etc/init.d/isc-dhcp-server" ] || [ -e "/etc/init/isc-dhcp-server.conf" ]; then
+	invoke-rc.d isc-dhcp-server stop || exit $?
+fi
+# End automatically added section
+
+
+exit 0

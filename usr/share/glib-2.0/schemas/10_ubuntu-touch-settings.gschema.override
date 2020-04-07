@@ -1,0 +1,12 @@
+[com.canonical.Unity.Launcher]
+favorites=['application://dialer-app.desktop', 'application://messaging-app.desktop', 'application://address-book-app.desktop', 'application://ubuntu-system-settings.desktop', 'application://camera-app.desktop', 'application://gallery-app.desktop', 'application://webbrowser-app.desktop']
+
+[com.canonical.Unity.Dash]
+scopes=['music.scope', 'home.scope', 'applications.scope', 'video.scope']
+
+[com.canonical.Unity.Lenses]
+always-search=['applications.scope', 'music.scope', 'video.scope']
+home-lens-default-view=['applications.scope', 'music.scope', 'video.scope']
+
+[org.gnome.desktop.background]
+picture-uri='file:///usr/share/unity8/graphics/phone_background.jpg'

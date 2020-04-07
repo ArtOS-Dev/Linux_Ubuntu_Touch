@@ -1,0 +1,9 @@
+Package: com.ubuntu.weather
+Status: install ok installed
+Installed-Size: 1893
+Maintainer: UBports <dev@ubports.com>
+Architecture: all
+Version: 5.2.2
+Description: Weather
+Click-Version: 0.4
+

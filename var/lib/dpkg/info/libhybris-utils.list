@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/bin/setprop
+/usr/bin/getprop
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/setprop.1.gz
+/usr/share/man/man1/getprop.1.gz
+/usr/share/doc
+/usr/share/doc/libhybris-utils
+/usr/share/doc/libhybris-utils/changelog.gz
+/usr/share/doc/libhybris-utils/copyright
+/usr/share/libhybris
+/usr/share/libhybris/gdb
+/usr/share/libhybris/gdb/load_sym_files.py

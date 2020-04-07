@@ -1,0 +1,196 @@
+#!/usr/bin/python3
+# ------------------------------------------------------------------
+#
+#    Copyright (C) 2013 Canonical Ltd.
+#
+#    This program is free software; you can redistribute it and/or
+#    modify it under the terms of version 2 of the GNU General Public
+#    License published by the Free Software Foundation.
+#
+# ------------------------------------------------------------------
+
+# FIXME: apparmor package from apparmor-utils is not a namespace package
+import apparmor
+from apparmor import click
+from apparmor.common import AppArmorException
+import fcntl
+import optparse
+import os
+import sys
+
+# Where easyprof generated profiles are stored
+apparmor_profiles = '/var/lib/apparmor/profiles'
+# Where apparmor caches its profiles
+apparmor_cache = '/var/cache/apparmor'
+# Where the apparmor click hook registers its click entries to be stored
+apparmor_clicks = '/var/lib/apparmor/clicks'
+# Blocking lockfile
+clickhook_lockfile = '/run/aa-clickhook.lock'
+
+
+def generate_profiles(clicks, include=[]):
+    '''Generate profiles from click manifests'''
+    if len(include) > 0:
+        for f in include:
+            if not os.path.exists(f):
+                raise AppArmorException("Could not find '%s'" % f)
+            else:
+                warn("--include specified, including '%s' in all profiles" % f)
+    files = []
+    for missing in clicks:
+        try:
+            click_manifest = click.ClickManifest(os.path.join(apparmor_clicks,
+                                                              missing))
+        except click.AppArmorExceptionClickFrameworkNotFound:
+            error("Could not find framework for '%s'. Skipping" %
+                  missing, do_exit=False)
+            continue
+        except Exception:
+            error("Could not parse click manifest. Skipping '%s'" % missing,
+                  do_exit=False)
+            continue
+
+        try:
+            easyprof_manifest = apparmor.click.transform(click_manifest)
+        except click.AppArmorExceptionClickInvalidPolicyVersion:
+            error("Invalid policy version for '%s'. Skipping" %
+                  missing, do_exit=False)
+            continue
+        except Exception:
+            error("Could not transform '%s' to AppArmor easyprof. Skipping" %
+                  missing, do_exit=False)
+            continue
+
+        try:
+            # Generate the policy, but don't verify it. It will error on load
+            # (and apps will correctly still not load). This saves a bit of
+            # time, which is important when processing lots of files.
+            files.extend(click.to_profiles(easyprof_manifest,
+                                           apparmor_profiles,
+                                           include,
+                                           no_verify=True))
+        except Exception:
+            error("Could not generate AppArmor profile for '%s'. Skipping" %
+                  missing, do_exit=False)
+            continue
+    return files
+
+
+def error(out, exit_code=1, do_exit=True):
+    '''Print error message and exit'''
+    try:
+        sys.stderr.write("ERROR: %s\n" % (out))
+    except IOError:
+        pass
+
+    if do_exit:
+        sys.exit(exit_code)
+
+
+def warn(out):
+    '''Print warning message'''
+    try:
+        sys.stderr.write("WARN: %s\n" % (out))
+    except IOError:
+        pass
+
+
+def main():
+    parser = optparse.OptionParser()
+    parser.add_option("-f", "--force", "--force-regenerate",
+                      dest='force',
+                      help='force regeneration of all click profiles',
+                      action='store_true',
+                      default=False)
+    parser.add_option("-d", "--debug",
+                      dest='debug',
+                      help='emit debugging information',
+                      action='store_true',
+                      default=False)
+    parser.add_option("--include",
+                      dest='include',
+                      help='add \'#include "PATH"\' to generated profiles',
+                      action='append',
+                      metavar="PATH",
+                      default=[])
+    (opt, args) = parser.parse_args()
+
+    if not len(args) == 0:
+        sys.exit(1)
+
+    lock = open(clickhook_lockfile, 'w')
+    fcntl.lockf(lock, fcntl.LOCK_EX)
+
+    if not os.path.exists(apparmor_profiles):
+        # FIXME log this
+        os.makedirs(apparmor_profiles)
+
+    if not os.path.exists(apparmor_cache):
+        # FIXME log this
+        os.makedirs(apparmor_cache)
+
+    if opt.force:
+        missing_profiles = []
+        for p in os.listdir(apparmor_clicks):
+            if p.endswith(".override"):
+                continue
+            elif p.endswith(".additional"):
+                continue
+            missing_profiles.append(p)
+    else:
+        missing_profiles = click.get_missing_profiles(apparmor_clicks,
+                                                      apparmor_profiles)
+    missing_clicks = click.get_missing_clickhooks(apparmor_clicks,
+                                                  apparmor_profiles)
+
+    load_profiles = generate_profiles(missing_profiles, opt.include)
+
+    # Don't try to load/unload profiles if apparmor isn't available, but be
+    # sure to fail if there are problems when it is
+    is_available = False
+    try:
+        click.apparmor_available()
+        is_available = True
+    except AppArmorException:
+        warn("AppArmor not available when processing AppArmor hook")
+
+    if is_available:
+        # LP: #1383858 - expr tree simplification is too slow for click policy
+        # so disable it for now
+        click.load_profiles(load_profiles,
+                            args=['-r', '--write-cache',
+                                  '-O', 'no-expr-simplify',
+                                  '--cache-loc=%s' % apparmor_cache])
+
+        # missing_clicks has the profile filename so we need to find the
+        # profile name to unload from the kernel.
+        # TODO: when click/application lifecycle guarantees the app is not
+        #       running, then we can remove the profile. For now leave the
+        #       profile in place since the app may still be running
+        # removed_profiles = []
+        # for fn in missing_clicks:
+        #     p = click.AppName(profile_filename=fn).profile_name
+        #     removed_profiles.append(p)
+        # click.unload_profiles(removed_profiles)
+
+    for m in missing_clicks:
+        try:
+            os.remove(os.path.join(apparmor_profiles, m))
+        except Exception:
+            error("Error removing '%s'" % os.path.join(apparmor_profiles, m),
+                  do_exit=False)
+        try:
+            os.remove(os.path.join(apparmor_cache, m))
+        except Exception:
+            error("Error removing '%s'" % os.path.join(apparmor_cache, m),
+                  do_exit=False)
+
+    # Unlock and close the file, but don't remove it so we can properly
+    # handle 3 or more processes contending for the lock
+    fcntl.lockf(lock, fcntl.LOCK_UN)
+    lock.close()
+
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())

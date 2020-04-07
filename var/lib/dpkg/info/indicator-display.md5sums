@@ -1,0 +1,8 @@
+46a979316cda8c2923c5c36735edd802  usr/lib/arm-linux-gnueabihf/indicator-display/indicator-display-service
+ca17da6d57c7e75c441d9b17689bd836  usr/lib/systemd/user/indicator-display.service
+19f178396c7d46558d63b695f840b5c9  usr/share/doc/indicator-display/changelog.gz
+851c9c0ac7152e55619a98018a081d34  usr/share/doc/indicator-display/copyright
+5179433fe188f4320c5e41cf36af3a88  usr/share/unity/indicators/com.canonical.indicator.rotation_lock
+9f6e29c59a9669e17f07ef3f757148bf  usr/share/upstart/sessions/indicator-display.conf
+cf3f2a865fbea819dadd439586eaee31  usr/share/upstart/systemd-session/upstart/indicator-display.override
+99707a18f6aaba335a19b1fe59c1f3a9  usr/share/upstart/xdg/autostart/indicator-display.desktop

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="256" viewBox="0 0 256 256" width="256" version="1.1">
+ <g transform="translate(147.9 1.495)">
+  <g transform="matrix(0 -1 -1 0 373.5 516.5)">
+   <g transform="matrix(-.9996 0 0 1 575.9 -611)">
+    <g transform="matrix(-2.667 0 0 2.667 1226 -44.6)">
+     <rect style="color:#000000;fill:none" transform="scale(-1,1)" height="96" width="96.04" y="345.4" x="-438"/>
+     <rect style="color:#000000;fill:#808080" transform="matrix(0,-1,-1,0,0,0)" height="1.501" width="80" y="-364.7" x="-433.4"/>
+     <rect style="color:#000000;fill:#808080" transform="matrix(0,-1,-1,0,0,0)" height="1.501" width="80" y="-352.7" x="-433.4"/>
+     <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;font-variant-numeric:normal;text-orientation:mixed;shape-rendering:auto;solid-color:#000000;text-decoration-line:none;fill:#808080;font-variant-position:normal;mix-blend-mode:normal;font-feature-settings:normal;shape-padding:0;font-variant-alternates:normal;text-indent:0;dominant-baseline:auto;font-variant-caps:normal;image-rendering:auto;white-space:normal;text-decoration-style:solid;font-variant-ligatures:normal;isolation:auto;text-transform:none" d="m135.6 22.07c-28.3 0-52.44 17.5-63.92 42.4l-0.24 0.54-0.6 0.05c-26.5 1.93-47.4 24.83-47.4 52.54 0 6.5 1.12 12.7 3.17 18.4h4.31c-2.22-5.7-3.45-11.9-3.45-18.4 0-25.69 19.33-46.74 43.67-48.52l2.97-0.21 1.25-2.71c10.87-23.6 33.54-40.05 60.24-40.05 36.1 0 65.3 29.77 67 66.94l0.1 3.17 2.9 1.24c12.8 5.44 21.8 17.94 21.8 32.94 0 19.9-15.5 36.1-34.7 36.1h-57.1-51.6v0.1h-62.67v4h141.3 30.1c21.5 0 38.7-18.2 38.7-40.2 0-16.6-10-30.62-24.2-36.65l-0.6-0.25v-0.63c-1.8-38.72-32-69.93-69.6-70.66l-0.1-0.14h-1.3z" transform="matrix(0 -.375 -.3751 0 438 441.4)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

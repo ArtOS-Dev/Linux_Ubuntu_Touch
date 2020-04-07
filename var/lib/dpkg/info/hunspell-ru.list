@@ -1,0 +1,16 @@
+/.
+/var
+/var/lib
+/var/lib/dictionaries-common
+/var/lib/dictionaries-common/hunspell
+/var/lib/dictionaries-common/hunspell/hunspell-ru
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/hunspell-ru
+/usr/share/doc/hunspell-ru/README.Debian
+/usr/share/doc/hunspell-ru/changelog.Debian.gz
+/usr/share/doc/hunspell-ru/copyright
+/usr/share/hunspell
+/usr/share/hunspell/ru_RU.dic
+/usr/share/hunspell/ru_RU.aff

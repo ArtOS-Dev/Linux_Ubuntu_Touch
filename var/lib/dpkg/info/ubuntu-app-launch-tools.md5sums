@@ -1,0 +1,15 @@
+75c58677c7eaca5e43cecd89cc451ddf  usr/bin/ubuntu-app-info
+fa5959cbf226a6466d2234c385224bb4  usr/bin/ubuntu-app-launch
+e3a8ecd4f280575fcd030f61138a389b  usr/bin/ubuntu-app-launch-appids
+13739c021a80b78161c85ce61733b8d9  usr/bin/ubuntu-app-list
+fdf115d7e8df2b75a27a3f425d94c3db  usr/bin/ubuntu-app-list-pids
+c87c34f33d5bb0eb548666391c719f8f  usr/bin/ubuntu-app-pid
+1fc56f1a188ad6e8c6ccaa16940b0530  usr/bin/ubuntu-app-stop
+41968de49793a70861d6b5ffb0b9513b  usr/bin/ubuntu-app-triplet
+538d6c40e76fdd5807632ba69303f065  usr/bin/ubuntu-app-usage
+4e570195d9e337daa1579e83108fcc76  usr/bin/ubuntu-app-watch
+459b388d3ed6fe0c9963e81ec94b35a8  usr/bin/ubuntu-helper-list
+ca599ceac7c39005adcecdfad67e2ec4  usr/bin/ubuntu-helper-start
+f27dc6bef710e8cd96ae00cb573cc1b2  usr/bin/ubuntu-helper-stop
+e7b7a3b5c711f4db1cdfbc94b5f7a193  usr/share/doc/ubuntu-app-launch-tools/changelog.gz
+dba7d145c65c9f45cfc03bdda10aabb8  usr/share/doc/ubuntu-app-launch-tools/copyright

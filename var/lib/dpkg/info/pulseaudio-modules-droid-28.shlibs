@@ -1,0 +1,6 @@
+libdroid-sink 28 pulseaudio-modules-droid-28
+libdroid-source 28 pulseaudio-modules-droid-28
+libdroid-util 28 pulseaudio-modules-droid-28
+module-droid-card 28 pulseaudio-modules-droid-28
+module-droid-sink 28 pulseaudio-modules-droid-28
+module-droid-source 28 pulseaudio-modules-droid-28

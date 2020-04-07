@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Office;
+Exec=
+GenericName=sync-monitor
+Name=Calendar
+NoDisplay=true
+Terminal=false
+Type=Application
+Icon=calendar
+X-Ubuntu-Gettext-Domain=sync-monitor

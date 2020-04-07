@@ -1,0 +1,11 @@
+2ab627fb371adee9d6cd7f91e8e19074  usr/share/accounts/providers/generic-caldav.provider
+b3ae1605a946b3e200c18b44a4774b54  usr/share/accounts/qml-plugins/generic-caldav/Main.qml
+99e0eeddfdee9721502dd4c8c76972dd  usr/share/accounts/qml-plugins/generic-caldav/NewAccount.qml
+935f827d38cbf50d4b773d20b9c8cd82  usr/share/accounts/services/generic-caldav.service
+00160cb376333bdac7a656a4e01c7362  usr/share/accounts/services/google-caldav.service
+4dbedbbeff724ebbc0c5bd4d85e2c9b4  usr/share/accounts/services/nextcloud-caldav.service
+f51290161c3c8ba837f92583db3fefd3  usr/share/accounts/services/owncloud-caldav.service
+7bff7f81d867c7cfccc7a6c2776baa34  usr/share/applications/sync-monitor-calendar.desktop
+55d70f9a424afce62ac847a592091cd1  usr/share/doc/sync-monitor-uoa/changelog.gz
+f408251b8fbef886fee62f8bef8cff30  usr/share/doc/sync-monitor-uoa/copyright
+c448f938c971f0b5d604890a6e57fcc5  usr/share/icons/suru/apps/128/online-accounts-caldav.png

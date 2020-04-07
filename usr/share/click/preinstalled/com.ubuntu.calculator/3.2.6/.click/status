@@ -1,0 +1,9 @@
+Package: com.ubuntu.calculator
+Status: install ok installed
+Installed-Size: 1583
+Maintainer: UBports <dev@ubports.com>
+Architecture: all
+Version: 3.2.6
+Description: Calculator
+Click-Version: 0.4
+

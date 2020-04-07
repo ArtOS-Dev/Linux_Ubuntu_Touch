@@ -1,0 +1,10 @@
+4dab455de88b8d60419333ecd48204b4  usr/lib/arm-linux-gnueabihf/ubuntu-app-launch/push-helper/exec-tool
+e630db425ad98c151075e278398ccb9e  usr/lib/systemd/user/ubuntu-push-client.service
+7d1ef45fd855e1d25b8476f42bff5cb5  usr/lib/ubuntu-push-client/click-hook
+cdbce3febb9dcfd105efbf7d7053ccb7  usr/lib/ubuntu-push-client/click-hook-wrapper
+ab3cf553d2be14392a5a6cfb3f14f5d0  usr/lib/ubuntu-push-client/ubuntu-push-client
+c5c3bc8ec242abbb334496b16de63571  usr/share/click/hooks/push-helper.hook
+d6cef18e1b7871d5a7a662f36f8f38e4  usr/share/doc/ubuntu-push-client/README
+6d2d0d9fe50ba5214ec6b28d2ed1481d  usr/share/doc/ubuntu-push-client/changelog.gz
+161045982760a825256ece3a9ddd4174  usr/share/doc/ubuntu-push-client/copyright
+b1624b12aa71c22ea2d534fd29ed4938  usr/share/upstart/sessions/ubuntu-push-client.conf

@@ -1,0 +1,8 @@
+[
+	{
+		"protocol": "tel"
+	},
+	{
+		"protocol": "dialer"
+	}
+]

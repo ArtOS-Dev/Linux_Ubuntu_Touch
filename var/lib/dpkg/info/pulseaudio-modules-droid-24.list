@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/pulse-8.0
+/usr/lib/pulse-8.0/modules
+/usr/lib/pulse-8.0/modules/module-droid-sink-24.so
+/usr/lib/pulse-8.0/modules/libdroid-sink-24.so
+/usr/lib/pulse-8.0/modules/libdroid-source-24.so
+/usr/lib/pulse-8.0/modules/module-droid-source-24.so
+/usr/lib/pulse-8.0/modules/libdroid-util-24.so
+/usr/lib/pulse-8.0/modules/module-droid-card-24.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/pulseaudio-modules-droid-24
+/usr/share/doc/pulseaudio-modules-droid-24/changelog.gz

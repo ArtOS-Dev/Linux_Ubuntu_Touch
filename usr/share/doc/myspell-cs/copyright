@@ -1,0 +1,24 @@
+This package was debianized by Petr Spatka <spatka@debian.cz>
+Wed,  2 Dec 1998 21:25:24 +0100.
+
+It was downloaded from <ftp://ftp.vslib.cz/pub/unix/ispell/>
+
+Copyright:
+
+Czech affixes file for ispell
+Copyright (C) 1999 Petr Kolář <Petr.Kolar@vslib.cz>
+
+Contributors:
+  1996-1997  Tomáš Čermák <Cermak@fsv.cvut.cz> (original author)
+  1997       Petr Prenghy <Petr.Prenghy@cesnet.cz>
+  1997/02/02 Hanuš Adler <had@pdas.cz>
+  1998-1999  Petr Kolář <Petr.Kolar@vslib.cz>
+
+Current version ftp://ftp.tul.cz/pub/unix/ispell/
+
+This data file and the enclosed Czech dictionary files for
+ispell are free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version (see /usr/share/common-licenses/GPL).
+

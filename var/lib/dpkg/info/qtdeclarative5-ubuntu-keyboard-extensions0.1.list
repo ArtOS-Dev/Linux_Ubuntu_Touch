@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/qt5
+/usr/lib/arm-linux-gnueabihf/qt5/qml
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Keyboard
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Keyboard/qmldir
+/usr/lib/arm-linux-gnueabihf/qt5/qml/Ubuntu/Keyboard/libubuntu-keyboard-qml.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/qtdeclarative5-ubuntu-keyboard-extensions0.1
+/usr/share/doc/qtdeclarative5-ubuntu-keyboard-extensions0.1/changelog.gz
+/usr/share/doc/qtdeclarative5-ubuntu-keyboard-extensions0.1/copyright

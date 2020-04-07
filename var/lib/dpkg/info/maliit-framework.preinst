@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/xdg/maliit.org/server.conf 0.99.0+git20130615+97e8335-0ubuntu2 -- "$@"
+# End automatically added section

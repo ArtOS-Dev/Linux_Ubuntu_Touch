@@ -1,0 +1,16 @@
+2f12ce528d23ab31256bfb482d725ca1  lib/systemd/system/urfkill.service
+f686851472f73daf65ae3c8ab1c155e8  usr/lib/arm-linux-gnueabihf/urfkill/urfkilld
+9e90f8d521913f4ff18f22fa40099e67  usr/share/dbus-1/interfaces/org.freedesktop.URfkill.Device.xml
+3ab7ae683ace3a9a8e1eaab5d99cefd3  usr/share/dbus-1/interfaces/org.freedesktop.URfkill.Killswitch.xml
+69849732a5b2b5ebc5d1e4b53779daf1  usr/share/dbus-1/interfaces/org.freedesktop.URfkill.xml
+3abc292013a3e222bc45b7bd2cc14559  usr/share/doc/urfkill/NEWS.gz
+6c8c2a805deded7091f7467ea33ca433  usr/share/doc/urfkill/README
+f1cb601fcaa93836f256a0879fb85f3f  usr/share/doc/urfkill/changelog.gz
+7a1637ea1349bd274ce592d62f676bda  usr/share/doc/urfkill/copyright
+dd48f61af70f7c73ae7745c7dfdef640  usr/share/man/man7/urfkill.7.gz
+54ec5f68423069624062008606df71dd  usr/share/man/man8/urfkilld.8.gz
+78d55936ec40258d718eaf3d10755d8d  usr/share/polkit-1/actions/org.freedesktop.urfkill.policy
+973f195a631fdda9c0c807a2377fc4c2  usr/share/urfkill/scripts/block
+b5383e8f75f70c2c535d651c7af4b50a  usr/share/urfkill/scripts/enumerate
+2298e0386004a21740490406a4df2f13  usr/share/urfkill/scripts/flight-mode
+878a00e1e6130601bb994615bde7b7c0  usr/share/urfkill/scripts/monitor-urfkill

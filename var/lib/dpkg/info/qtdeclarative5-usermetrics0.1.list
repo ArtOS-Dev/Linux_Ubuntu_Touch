@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/qt5
+/usr/lib/arm-linux-gnueabihf/qt5/qml
+/usr/lib/arm-linux-gnueabihf/qt5/qml/UserMetrics
+/usr/lib/arm-linux-gnueabihf/qt5/qml/UserMetrics/qmldir
+/usr/lib/arm-linux-gnueabihf/qt5/qml/UserMetrics/libusermetrics-qml.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/qtdeclarative5-usermetrics0.1
+/usr/share/doc/qtdeclarative5-usermetrics0.1/changelog.gz
+/usr/share/doc/qtdeclarative5-usermetrics0.1/copyright

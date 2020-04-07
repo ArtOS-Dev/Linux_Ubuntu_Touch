@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libnss_extrausers.so.2
+/usr/share
+/usr/share/doc
+/usr/share/doc/libnss-extrausers
+/usr/share/doc/libnss-extrausers/README
+/usr/share/doc/libnss-extrausers/changelog.Debian.gz
+/usr/share/doc/libnss-extrausers/copyright
+/usr/share/doc/libnss-extrausers/NEWS.Debian.gz
+/var
+/var/lib
+/var/lib/extrausers

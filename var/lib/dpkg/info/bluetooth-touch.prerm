@@ -1,0 +1,12 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_systemd_start
+if [ -d /run/systemd/system ]; then
+	deb-systemd-invoke stop bluetooth-touch.service >/dev/null
+fi
+# End automatically added section
+# Automatically added by dh_installinit
+if [ -x "/etc/init.d/bluetooth-touch" ] || [ -e "/etc/init/bluetooth-touch.conf" ]; then
+	invoke-rc.d bluetooth-touch stop || exit $?
+fi
+# End automatically added section

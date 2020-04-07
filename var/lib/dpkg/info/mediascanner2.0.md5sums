@@ -1,0 +1,10 @@
+a07ce2330c698b0beb3a445d528289ba  usr/bin/mediascanner-service-2.0
+05300722845ca8c9c1e21015cc172ebe  usr/lib/arm-linux-gnueabihf/mediascanner-2.0/mediascanner-dbus-2.0
+a9fbe0f8589698f5da2819bc0f4a9915  usr/lib/arm-linux-gnueabihf/mediascanner-2.0/mediascanner-extractor
+8bfc0331e1555fbcd4ace65e5d779ab4  usr/lib/systemd/user/mediascanner-2.0.service
+09aa6c54713e7c545a55b7eefe4bfcf6  usr/share/dbus-1/services/com.canonical.MediaScanner2.Extractor.service
+8d73567eb3f53924211be3a6bf152ec2  usr/share/dbus-1/services/com.canonical.MediaScanner2.service
+6cfa95b99925d5898353dac0a53a7173  usr/share/doc/mediascanner2.0/changelog.gz
+69044d765a7b345a514b402e2827399b  usr/share/doc/mediascanner2.0/copyright
+85684a7ebca6063a230a5384c65a0106  usr/share/upstart/sessions/mediascanner-2.0.conf
+cf3f2a865fbea819dadd439586eaee31  usr/share/upstart/systemd-session/upstart/mediascanner-2.0.override

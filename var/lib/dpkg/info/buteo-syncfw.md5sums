@@ -1,0 +1,6 @@
+6bb9fb211bee61fe00c49e77cdd1fec1  usr/bin/msyncd
+7e8a26e5a2cab8109b5d18e17f8033a2  usr/lib/systemd/user/msyncd.service
+f116e19d19e31bd2f8465b5707b57c09  usr/share/doc/buteo-syncfw/changelog.gz
+4361feadfc021f00a6b6b7e13a27cdca  usr/share/doc/buteo-syncfw/copyright
+2f5ad2bd41d7441a2280e7000c69865d  usr/share/glib-2.0/schemas/com.meego.msyncd.gschema.xml
+e8d4cad0e31cbe8de4defd1bd37d96ba  usr/share/upstart/sessions/msyncd.conf

@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/bin
+/usr/bin/usensord
+/usr/share
+/usr/share/upstart
+/usr/share/upstart/sessions
+/usr/share/upstart/sessions/usensord.conf
+/usr/share/doc
+/usr/share/doc/usensord
+/usr/share/doc/usensord/changelog.gz
+/usr/share/doc/usensord/copyright

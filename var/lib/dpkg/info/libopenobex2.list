@@ -1,0 +1,17 @@
+/.
+/lib
+/lib/udev
+/lib/udev/rules.d
+/lib/udev/rules.d/60-openobex.rules
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libopenobex2
+/usr/share/doc/libopenobex2/changelog.Debian.gz
+/usr/share/doc/libopenobex2/copyright
+/usr/sbin
+/usr/sbin/obex-check-device
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libopenobex.so.1.7.1
+/usr/lib/arm-linux-gnueabihf/libopenobex.so.2

@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/bin
+/usr/bin/eventstat
+/usr/share
+/usr/share/man/man8/eventstat.8.gz
+/usr/share/doc
+/usr/share/doc/eventstat
+/usr/share/doc/eventstat/copyright
+/usr/share/doc/eventstat/changelog.Debian.gz

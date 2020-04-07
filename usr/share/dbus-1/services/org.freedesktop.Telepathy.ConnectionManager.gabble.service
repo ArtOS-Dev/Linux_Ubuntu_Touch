@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.freedesktop.Telepathy.ConnectionManager.gabble
+Exec=/usr/lib/telepathy/telepathy-gabble
+SystemdService=telepathy-gabble.service

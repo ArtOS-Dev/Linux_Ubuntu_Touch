@@ -1,0 +1,1719 @@
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20191106005334.23~1.gbpa07797
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20191106005334.23~1.gbpa07797_armhf.deb
+MD5sum: da2625fcaf4a0ea149ea59ffc1d3225f
+SHA1: 9406af39cef8adbe4f65f272791973d6cc1396bf
+SHA256: 963931595a66f73c5d6aee40860c93df8ac70ac1833153ea203a97e5b3c56c2a
+SHA512: cce23066f9944a759a5e229225e330c4c1855dcab46ac65f723c01d8b778b5c9ce95cb49713184cd586765cc7821f5054b1fb2ad5ec7b1293db843460c6c2a36
+Size: 8878
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20191113164642.24~1.gbpc85cda
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20191113164642.24~1.gbpc85cda_armhf.deb
+MD5sum: d2243a35b15e3ce7d9804670344e6acb
+SHA1: 0e24d90303d147452a07b9fba608f6384bee547c
+SHA256: 74a71af5209d234d0acfb00918d450d524362ae857f9819f6ce755f951b0f9fe
+SHA512: 1e376baeee3f2380ade4e3889b5ae834e84b0455614ffddee4b5d2daff067fd59116c4136885133a22413ffd8035d14a5e385bedc5e34fc99bcd5d318f982424
+Size: 8894
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20191208142446.25~1.gbpa1715b
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20191208142446.25~1.gbpa1715b_armhf.deb
+MD5sum: d4ec073947dbfc0f7efbc854fa6b3a2d
+SHA1: aa48d0d3ab0dfc7ed9d64aa1920a003f8b382f98
+SHA256: a09394d88ea0cbc73aca17de88c2199ef34f86b420c1ed1e015af3ef85c265fe
+SHA512: ae64d056a679c3fdbc4b8abaec08e9d67ef8cd277aa6e56c36600b619cc4201424eecfdde2c0d9c6a7577bcb7232ff8160b7a8fadc731cba78b3c6723ea0513a
+Size: 8932
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20191208153915.26~1.gbp360d81
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20191208153915.26~1.gbp360d81_armhf.deb
+MD5sum: 4254ba16dfa975cc94aa03f209394131
+SHA1: 6d03f2a80c88c0b0e42b89135895cd69142f2bdc
+SHA256: 058d7bf926157a8e12a6955a0e4921a8ce236fe3ef33d1478d04797ddc0d76b6
+SHA512: 3baef0054d97cc1ec4ca28ab710885ec6ac9cedd5858b18f47141ef0a298626f17b7bdba9b19ecd186d9b949d38a52e5b5feb56dc57f753dc131d6090a634aff
+Size: 8926
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20191212232923.27~1.gbp1d1543
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20191212232923.27~1.gbp1d1543_armhf.deb
+MD5sum: 015cc8580ec4554c50b266ded1c37cc2
+SHA1: 22d01536d0c46bffec9eee3633792ea0b132e033
+SHA256: 24d95b1a0eb5881b3ec5dd00e69ff65db521ee95cdee5e8c74bb5d2d1b567aa4
+SHA512: 0ef3063f001f72bfb1e6282e9d09e1280ce988f41e006eb0515bcf4fd5ed8fd50abd0333de405ba2c562252cbbf1326fd9a78eaf9cb9933d274c11ebc6dbad23
+Size: 8934
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20200208110144.28~1.gbpa2f559
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20200208110144.28~1.gbpa2f559_armhf.deb
+MD5sum: 8e416d0a817fe73a0178332cd853a690
+SHA1: 6a0349382a0a21ba2297da07df05f114bc030f84
+SHA256: 2fd631c424d770e2e8d03aafef6301131a4934a826dc99fa9b8780a65fa4392f
+SHA512: ec6153f69039bd2bf163508d0b7e8c418d7f5592d83c23c1fcc3f3787063da487ea392c5fac415826b1a3e45d420acf1b1ad1feae6c144087d372b26fada56e0
+Size: 8972
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20200303193159.2~1.gbp333359
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20200303193159.2~1.gbp333359_armhf.deb
+MD5sum: ab165193f2a986956cf42d7734220ccb
+SHA1: a870aaa190e8c972b42df30f5fd9d50b82ab79ee
+SHA256: 1e360607583a4479fcac2523ee5c780d61743a603adbce780d2811742e2498e6
+SHA512: 25c3f55e9c25bdf5c47356acc70db468bc378b675028fbd0470636e67f1cc07a0c78875ee974ac771e2d2d8c9a0798376ecb756b344160545435eaa38cba3dd3
+Size: 8972
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20200308234058.3~1.gbpd30458
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20200308234058.3~1.gbpd30458_armhf.deb
+MD5sum: e2c95316a786a3ff0cada32aee500e44
+SHA1: ec9ef7ed48face4da90565c6cbff89bee2682750
+SHA256: 59637c8b3ba1215c2766d59a75d68986c2f646da4aaa8a14fda4180aabc36ce9
+SHA512: 565e3d21458bd0df2b60a02aea04863e968c46fc614972c84ca83240810395c3cb5ca676939aac5733eee815e6fd764411ce932c391cffc8ea1293fd8a0a8d1b
+Size: 8986
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20200321013851.4~1.gbp291573
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20200321013851.4~1.gbp291573_armhf.deb
+MD5sum: 54c73cce30355abcfdf18041bccff13b
+SHA1: 76077af6e3411c52fdfe62f0ddd5165cc0f4ff3f
+SHA256: 6883069cb587fcc23cf626d31bf5a2ebf1ff312cc4bc265f7272bc1555b32f5a
+SHA512: 0781f82cd6b9e9bec9fe3ff8237403c5b095ffd31ad0152689664cb1b468f43c770632f1abd49c7e8bd825483687e4e3bec0c11ef2e663a63dcc6a89ab8bee30
+Size: 8994
+
+Package: deviceinfo-tools
+Source: deviceinfo
+Version: 0.1.0+0~20200404143936.5~1.gbp97036d
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libdeviceinfo0, libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/deviceinfo-tools_0.1.0+0~20200404143936.5~1.gbp97036d_armhf.deb
+MD5sum: 692b70be29138b427cd0e97d6bebb8b3
+SHA1: 695cb0b8023e422624fdbe562163f4d45115b265
+SHA256: 40614a71800cb1feefd13b7f21b3e28fa8351454b8da2bc6c2313c097add2af5
+SHA512: ffb7edb09e33916ddc827c769c7cce1329a393c6d334a65dd13154fe536cf0c016158408c0e74a90e8d07ebb8ac27a38301cdcb6ee99a5ec9b9429e163c39bf4
+Size: 9002
+
+Package: hfd-service-tools
+Source: hfd-service
+Version: 0.1.0+0~20200321020624.1~1.gbpbbaded
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 106
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.5), libhardware2, libstdc++6 (>= 5.2), libudev1 (>= 199), hfd-service
+Section: admin
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Tools to detect and configure devices
+ Tools to detect and configure devices
+Filename: pool/xenial_-_edge/main/h/hfd-service/hfd-service-tools_0.1.0+0~20200321020624.1~1.gbpbbaded_armhf.deb
+MD5sum: f1bc4f15037e104cc64f2ddff2b110b2
+SHA1: 89c1b8ea3a5c329d61a3749f837ee117fbb7f49b
+SHA256: 5f6ebb26d9c1247f6a24e2cfca687977b1ab5bd600f69d9e7bcc3581f9d99eef
+SHA512: 8e21a3e1b978084e81d4decb94bdfa59c295e5ce43857339c9c9773550143803ff6ec2a90a269fc018bb27bd5a192c444eb2aa603ad1bcc65e973eaaf7856145
+Size: 28994
+
+Package: hfd-service
+Version: 0.1.0+0~20200321020624.1~1.gbpbbaded
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 96
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.5), libhardware2, libqt5core5a (>= 5.4.0), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 5.2), libudev1 (>= 199)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/h/hfd-service/hfd-service_0.1.0+0~20200321020624.1~1.gbpbbaded_armhf.deb
+MD5sum: e16edd509f43a77fc7d7ea253a7ee588
+SHA1: 4a38b4878ce75954394df3d19c421b9d96e713cb
+SHA256: eac37bfe4ab0d8947ded8ee53c7ab6c3b63d033ad324835a8db5ba53fff146e9
+SHA512: 3722a9c93298027fae5d8d0fc5f56ec6cce8ab6e58e53e1a8afb64303cd6be97831538e1dc3f2716de88ea97b8c487c68b2b2efb04c6bd6ae76d96f0dc1749cf
+Size: 29086
+
+Package: libandroid-properties1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 48
+Depends: libc6 (>= 2.4), libhybris-common1
+Section: libs
+Priority: extra
+Description: Library to provide access to get, set and list Android properties
+ Contains a library that provides access to get, set and list Android
+ properties, which can be used by any Ubuntu app that needs to probe
+ for properties (gps, modem, device specifics).
+Filename: pool/xenial_-_edge/main/libh/libhybris/libandroid-properties1_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 1531e74adbb8faf60a3a06d1ba99586d
+SHA1: fd244736efb70eb2d35539b980ae922f5ac2d5c5
+SHA256: bd060a5bb2c5faae3dab80f97f06af87c78f9109515654dde5d92717fd8ff761
+SHA512: 27880eeccd6e82aa4bfd5153e86a685174175a9c12cbcb936f5c79ccd90786c999c27f39a89f639048d2aaafabee488f0842addaf0ccb6a074edd6690a681a2a
+Size: 18610
+
+Package: libandroid-properties1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 48
+Depends: libc6 (>= 2.4), libhybris-common1
+Section: libs
+Priority: extra
+Description: Library to provide access to get, set and list Android properties
+ Contains a library that provides access to get, set and list Android
+ properties, which can be used by any Ubuntu app that needs to probe
+ for properties (gps, modem, device specifics).
+Filename: pool/xenial_-_edge/main/libh/libhybris/libandroid-properties1_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 4c813e01954424c2c56f8b8526e5c748
+SHA1: 1130e43840fcab7975d1a8e3230d8371c3ace25f
+SHA256: f6c931e19987018b4a937012d9cb577b56789b5c65a990ddeeb9db634979c476
+SHA512: d5fa5323bea968cf8e4271ba8b93ca08188ea42d44f6d2c9a1f200f83b4605775c8523345a7dfa4f30e643b242e6643fb7abbe6580753c68f7dfd4aecafbf633
+Size: 18642
+
+Package: libandroid-properties1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 48
+Depends: libc6 (>= 2.4), libhybris-common1
+Section: libs
+Priority: extra
+Description: Library to provide access to get, set and list Android properties
+ Contains a library that provides access to get, set and list Android
+ properties, which can be used by any Ubuntu app that needs to probe
+ for properties (gps, modem, device specifics).
+Filename: pool/xenial_-_edge/main/libh/libhybris/libandroid-properties1_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: 5494173c8ff15c97d86a1934359ce16e
+SHA1: d3ce80ae2c6b639f8960d85d205d76ecaeef2190
+SHA256: 155bf249edcc28c7a04a6439711db66093794aac6f7a5d22fe6ab7f8c6cef237
+SHA512: 095780f98e862fa59aaa0905b35b409637a3d69c216fb2b28d175e916ef79d8e4796c229dcbe81d4bef70c58d64cd2b0a7e4d122257d4ca525a446b7fa964372
+Size: 18870
+
+Package: libandroid-properties-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 47
+Depends: libandroid-properties1 (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0)
+Section: libdevel
+Priority: extra
+Description: Development headers files for libandroid-properties
+ Contains the development files for use in applications that wants to get,
+ set or list the Android properties.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libandroid-properties-dev_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: a6a379128eb152d0bfae5b16945bf43c
+SHA1: 148a7ffffc9659439aa4a1affda09b9c5c2d9a12
+SHA256: 1f6a3873a6f6f04cbfbc66db7d8081b05ee562942cad56bcbdd206b8c9887481
+SHA512: e02cc4a24e7ba1060e5bcc2e955d90deb61c5ee4eb4c59061afeb3b6f442b30aea3bbda1c86c71e5ece02933a9d0b12f2abd6d27e9d3e3591126de5f3b127e4d
+Size: 17526
+
+Package: libandroid-properties-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 47
+Depends: libandroid-properties1 (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04)
+Section: libdevel
+Priority: extra
+Description: Development headers files for libandroid-properties
+ Contains the development files for use in applications that wants to get,
+ set or list the Android properties.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libandroid-properties-dev_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 1a9751c14868c73aafaacf84c9eed37b
+SHA1: 0168a02742b9696a3d1d60e8e466bd80724c255f
+SHA256: 87c37501f708a7c37706ca3d8fe1eccc53c3ecb663d46cc2345117dc8b0a01c7
+SHA512: 753d1091227b9a610d821935a60c1ebe0f0879e7ecb51696f20f90f333eb75151f77d35b53dfbae8b3a5854abe4fcf35356ac57e65d95c51cc85f5e0619e052d
+Size: 17542
+
+Package: libandroid-properties-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 47
+Depends: libandroid-properties1 (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772)
+Section: libdevel
+Priority: extra
+Description: Development headers files for libandroid-properties
+ Contains the development files for use in applications that wants to get,
+ set or list the Android properties.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libandroid-properties-dev_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: f3240754dc023f7b8ce8c9eb2cac9828
+SHA1: 721732d7d48c30de3a354c9cbffc753b55974739
+SHA256: 690925423fc428f8695f8a565d424d68917d280d6dbb64e63cac725a3a18dee5
+SHA512: 33f8686eead3c83d7cfa0c1010ccb51364527409604f4094de827037fe448a11d75a95625f6cfa69f3d7cda504923c680c370ae292a75265401a1e8bb8154484
+Size: 17698
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20191106005334.23~1.gbpa07797
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 76
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20191106005334.23~1.gbpa07797_armhf.deb
+MD5sum: c159f97910dc638cca08fca7cf8f9bd0
+SHA1: 4689a67344b12fa402b9f2dfba9ab1d53a9c8871
+SHA256: 375c05b485368bc30110fdf46d06156d6aaf4ab2d92eaaf1e7ef173d8e93148b
+SHA512: fe082adbd36874a8680158c331f9acc19bf16928dd622cb0d0f31fc9ae8166d3fb8435ecccbf0e72dc615c9e60de1cfe4486202c85c5b6508f20f1ab796cece8
+Size: 24844
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20191113164642.24~1.gbpc85cda
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 75
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20191113164642.24~1.gbpc85cda_armhf.deb
+MD5sum: 79c80d2f7aa1c911c09ed2ae42a6d251
+SHA1: 88417dddc08dd2a2cc4d7213d578eee49fe6ff54
+SHA256: 1fa701ff8a9ba5bf665badb15c1b9832dfe54d968fa3ce4b5e70b127cd013643
+SHA512: d5d77db8a590d6c6b3ef0f051596c25ce1a275e595f900edfc96ab1ed0b229399fb22ef79e83edb1b57657183f7faabd7a592307e18893b493d06f4777b2906d
+Size: 24818
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20191208142446.25~1.gbpa1715b
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 75
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20191208142446.25~1.gbpa1715b_armhf.deb
+MD5sum: b690a36cedc662d2ccd847cca5c49e6c
+SHA1: c2c913bef4937b197e1357d0cae30e443f955041
+SHA256: 6c8589c28a6554edfe1cd3b1da0e98cc76fe078628041ca34e8be4024294ecb4
+SHA512: 02d5ff9713790e8bde583498d6edd0818bc9d966d26c2da8eab3ce93d07b6005a5d60289d735b5988458c424cc0a74108e97309def0f3e5ab7053b6f9739a6ae
+Size: 24864
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20191208153915.26~1.gbp360d81
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 75
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20191208153915.26~1.gbp360d81_armhf.deb
+MD5sum: d3df5eefbc0f8f97da0f345c1790354e
+SHA1: 3194b633c82b6605bb3a94996bbdbf2a0ba4d6c7
+SHA256: e98ccf1668f586089b1e0782f578531f6d08db6139487bccd1e9586f0d6aea95
+SHA512: f95068264a2727e341dc9116fe40528c111c16c55384c7ad499f0270bfe6afd7b2bc3cb0057d19831d1002b3678a5ae6033ca0f648885e2a46ef18901363ee7b
+Size: 24874
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20191212232923.27~1.gbp1d1543
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 75
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20191212232923.27~1.gbp1d1543_armhf.deb
+MD5sum: a5aa13a480344747f4ed4b1d9806e6a0
+SHA1: b60158bede4a0e91b80f9a599a4357f4acc8e89b
+SHA256: 86232bf3c955669f806ff1e6f49433a493d11df3dde9322ba8eda6d58e44daf0
+SHA512: e20e3a57d8365312d4a9143ab9fac902c3fe341a9de393bfe2e5d3fc8a2ee049a1f49dd7683985d2e16e4b8bba7811b9761c410fc7d7afcd6e5c9a109ee30488
+Size: 24908
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20200208110144.28~1.gbpa2f559
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 75
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20200208110144.28~1.gbpa2f559_armhf.deb
+MD5sum: 1c879ba02b88e1dd8e3008d5bb7eed84
+SHA1: 7204aad39b45ad54f9bd3a5fd097f18be9b551b0
+SHA256: d21d44750d9ff02a14915e9dcb8adaba5045fdc5617dd1c7dc81187e7e63f6b5
+SHA512: 5fcc12e9531f4f0f8a90e031bbefe5357eb4c7b3d4e6a15baf0feeb2a3bd3426e7b6dbe75ba89094d9b9cecb02979c1b252aafc3dcc49788ac359fa7c8aa6d80
+Size: 24930
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20200303193159.2~1.gbp333359
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 75
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20200303193159.2~1.gbp333359_armhf.deb
+MD5sum: 4328be3128cf9a69daccea6da943b9e2
+SHA1: 98c89a362b7afc2e29ed412a8e793dce0677806f
+SHA256: 6263686560eea19a5f0bc56bfd1695d20f5bd0d761f34a9a29bdf5b66c917e1e
+SHA512: 7f57b37260666b2e42ca5e9540bcb33d6ee550095fe97a1338d5c4fc7d2a82e177fdb357ae3b8457d6d9239205e938078a581932ad1947c1f70b006a0135cd19
+Size: 24936
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20200308234058.3~1.gbpd30458
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 76
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20200308234058.3~1.gbpd30458_armhf.deb
+MD5sum: bef74772f3d6643e668fbe0fae0ff955
+SHA1: ffc660075d1d0bfcebdab55810d67921caf905fa
+SHA256: ae29d764de5ec6ef45c0422fc4bfc381108f916efec81d470a4242245d28ef7c
+SHA512: 5a7f3dcadc06eadb6e5b81142d3be0ba3385855bbab30be94dd05edc62585e92bc13e16ada35053e210564edfb5c6057865dc12ea7b012f51c29c9251b558933
+Size: 25130
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20200321013851.4~1.gbp291573
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 76
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20200321013851.4~1.gbp291573_armhf.deb
+MD5sum: ef54d73dd961b16ff9aa1b80ad9b87c1
+SHA1: 9fc542e05e383ed088dc42f4d321cdde0b03014c
+SHA256: 01e200bd77de07f6f853238d18d48dd72eed61f800833197438632c276672749
+SHA512: a55145a52569ad92fd483f0dd05c8bfccd1b9c2a5c64341a56026c20d0cf1788f126ba1d6eb8cf49ce0f9f8ab161e6d95534c28ca72e83e4e62c75824fc809c0
+Size: 25106
+
+Package: libdeviceinfo0
+Source: deviceinfo
+Version: 0.1.0+0~20200404143936.5~1.gbp97036d
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 76
+Depends: libandroid-properties1, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo0_0.1.0+0~20200404143936.5~1.gbp97036d_armhf.deb
+MD5sum: 8d7b57cbf2908a723b4e0f5bb8b9e159
+SHA1: 1f205884b8f442e250c2c8d526f0490be7486625
+SHA256: 582e784d851dacb4b601533e5ada6a3fc637b9b688b20e936d9346bdaea688e9
+SHA512: 0b99978e5b3b4ceaceeff26f60a80f13b30ef8b18eeef9f13f47b427a13b98a3fe9c12bdc3fd45c483c594a67076933cd4f3b59792b7c26ba431e048fcedd550
+Size: 25098
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20191106005334.23~1.gbpa07797
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20191106005334.23~1.gbpa07797)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20191106005334.23~1.gbpa07797_armhf.deb
+MD5sum: 35a36b8cfe3c5b5b37e81738cfea14d3
+SHA1: ad5a370b284fd9e124272a0243c801825b84c023
+SHA256: e507f5f7dfb972ef58df24d42e9ab9598d622f11533b1406d427218b01c7a88f
+SHA512: b5e2a1d0a5941ea635a4a18dde50b360a9a79a0ba14f401e80a927ccd85c997c361339a1ae457d3ccdc94142b6d76f551dd9c02e965f1582fdc8afdff3a0c242
+Size: 3286
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20191113164642.24~1.gbpc85cda
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20191113164642.24~1.gbpc85cda)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20191113164642.24~1.gbpc85cda_armhf.deb
+MD5sum: f12c298d3c1f04d3662b36bfa55fcfc5
+SHA1: 53936ad89ca3c03eeac86d3540104c7b9f5cc112
+SHA256: 781f20d338b910542ed6140b11f83639e297b1eae846b0ed22945ef9fd5a032e
+SHA512: c7b3aa6b72a8a2ca00e6f88208e8645fabe6812543d02c515f5e1bb2ff1ad1c6bb0f58cc922c4fa806cd1fb67c16605e39cd9bf772647d7b2460ad6f4a989387
+Size: 3298
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20191208142446.25~1.gbpa1715b
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20191208142446.25~1.gbpa1715b)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20191208142446.25~1.gbpa1715b_armhf.deb
+MD5sum: 23ca5b8ee878717c676b1e291ef11bbf
+SHA1: c9e15c5b6de0f253e8281a32d5b48536938c1ed2
+SHA256: f07e9f85f34d2b755d0767f41057c14270136845275033d130d8aad7690285b1
+SHA512: fe7cf4e7824c1bb363e833486d4f14c8a1961b56ffc3b77d70d08c0ebafb5c940ee7786de099580192ba0247fc1cdeafcbda50ff14a87d0efc03bb40805b7645
+Size: 3330
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20191208153915.26~1.gbp360d81
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20191208153915.26~1.gbp360d81)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20191208153915.26~1.gbp360d81_armhf.deb
+MD5sum: 4cc58d77f4e957113bac2664e6a1c407
+SHA1: 71d31e3b6a69903d323c3e87e8c2aaf13a6d786b
+SHA256: a127cd906a35ddfbe1d1c61c9c975087944818b690de80a21104d968833ad98c
+SHA512: 86a476ce4a7e86e6994b4a1f2be3eb015e026d4026aaaaf172a17e7c31879d39f587c70a8672bb6c158d78c0c30362f1709342c9a55c7f856aedcba12818d900
+Size: 3326
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20191212232923.27~1.gbp1d1543
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20191212232923.27~1.gbp1d1543)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20191212232923.27~1.gbp1d1543_armhf.deb
+MD5sum: 00259db0117dbe423fc8b6960315edfb
+SHA1: 724758ecda64daae45e6d7c9d2661a08b1eb55e7
+SHA256: b697d08a2ea1e2d04c7217d110e6350f3bac4140c166393b2e11dffa8789f9d9
+SHA512: 8a0605ed27e66742517eacc938c46291752558f44c6dcc73b6918a68bd1430089704a7a427a9b4fd98d63c449e67d5c77aa43bfdc809dd44927a60551f9c4281
+Size: 3344
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20200208110144.28~1.gbpa2f559
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20200208110144.28~1.gbpa2f559)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20200208110144.28~1.gbpa2f559_armhf.deb
+MD5sum: 3a8e029a192394825091d3dfc145fee0
+SHA1: ec5316c4c4f698a2a23460c0c544937940fe1921
+SHA256: 6fdb66eb51dd34d53723a29c611c35ff3a931421ce345fcb5b9df877f9f6b3ab
+SHA512: 607dc8780676825d3f8a3d966d1f2602fcbdcadaac0475d60fcfb77798967e0495cdc62fa2e1f998ebd70f11650955b3b19aaeb7a935492819a31b6637fb5a63
+Size: 3376
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20200303193159.2~1.gbp333359
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20200303193159.2~1.gbp333359)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20200303193159.2~1.gbp333359_armhf.deb
+MD5sum: 16818f751a83abb0a117d77202a901ef
+SHA1: 9b917d92395830ae455f8a16a456820c25c3a0e3
+SHA256: 7395537130d1446d1766aae6fdd34da62389c42531e13640d0f4bdc4c75d149c
+SHA512: 2d7f87e8b4bddd8f600fd5032f18a0f731ae2f2fcb71a0ffa75c87aa76cf24cb87c9c7b3f2e4488835358beb3440ecbe1dd2b9303a55e2301ba15d6551b7a4b4
+Size: 3370
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20200308234058.3~1.gbpd30458
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20200308234058.3~1.gbpd30458)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20200308234058.3~1.gbpd30458_armhf.deb
+MD5sum: 775e1170ca259a1d3c1f1a85f5dfc215
+SHA1: 61a2b122ed4c0d9fab9f769aed9048bb9c190d1f
+SHA256: 2a19351cf9a19c138a03625e86763368d4358f7c90af4b8fca602c3e9459c343
+SHA512: c3bd10bdfbe446fedebd613ec614ea7c52977817b3928645ba317247ec1ba47fe2f24dac52a082546a38b7b0106e0453e8d229f47eff23a27698ae3603757865
+Size: 3384
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20200321013851.4~1.gbp291573
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20200321013851.4~1.gbp291573)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20200321013851.4~1.gbp291573_armhf.deb
+MD5sum: 11fefa2791a8684a56dc0c0352b37462
+SHA1: 11b0f4c081dff099ff4113398ba7be3e028405ed
+SHA256: 7c57cdecf51f0764e70e5a52399bf0db298efb6c33188d8be4585558baf30037
+SHA512: 5424db5de7af8fd48148b45a7d3d05b5b2dffbe1df9dbb68ef6378dd48d6849ed10d56eec83a405a32bd54a2341e4546d2fd4a3aa2d385dbe043e3d841c35a97
+Size: 3388
+
+Package: libdeviceinfo-dev
+Source: deviceinfo
+Version: 0.1.0+0~20200404143936.5~1.gbp97036d
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 19
+Depends: libdeviceinfo0 (= 0.1.0+0~20200404143936.5~1.gbp97036d)
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Development headers to detect and configure devices
+ Development headers for libdeviceinfo, to detect and configure devices
+Filename: pool/xenial_-_edge/main/d/deviceinfo/libdeviceinfo-dev_0.1.0+0~20200404143936.5~1.gbp97036d_armhf.deb
+MD5sum: 65a9f846365b5e93dd00b30673d7362e
+SHA1: e81a352ea2c42bff6b3f3686f0c5fabe898b88ec
+SHA256: 27470b0c95f9ac6c0fb7667204a8293079ed7043a0f4eab4e8a700921c23dfd2
+SHA512: 2879c809a41c648367e38d23ff234163f5b9cfb2bfcbd57fbb001439578b4ace1e326405b1ad963a630241648cebc65639eb612a0bc2593823aec0e2d9b144f0
+Size: 3404
+
+Package: libhardware2
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 48
+Depends: libc6 (>= 2.4), libhybris-common1
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libs
+Priority: extra
+Description: Library to provide access to the Android libhardware HAL
+ Contains a library that provides access to the Android libhardware HAL,
+ which can be used to access a wide range of other HALs, such as audio,
+ power, gralloc, etc.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhardware2_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 53995db41c5a3dd3f7ff818a7848a2c1
+SHA1: 9a74c4cfd1a5c6bacd02cfe3f2f712bc1597457a
+SHA256: 2e587c60084d83796e82a2bb3c892b1653a43bdc44e8978729fe1e54186f7f15
+SHA512: ea8d16636d04c55c6532a27eeb0173e2997c6def6a87ecf6e90dd2062c44bcdd7f23c5f73cd1d131407ea6a5641e8f0e757a6b944d61437dd446e1d7e69c0bde
+Size: 18478
+
+Package: libhardware2
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 48
+Depends: libc6 (>= 2.4), libhybris-common1
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libs
+Priority: extra
+Description: Library to provide access to the Android libhardware HAL
+ Contains a library that provides access to the Android libhardware HAL,
+ which can be used to access a wide range of other HALs, such as audio,
+ power, gralloc, etc.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhardware2_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 3f3d782a287d06a35e52df4ac2c01eb9
+SHA1: dcbf9cc7d9cfd2f61619b6bd1eb95c946466597d
+SHA256: e45792b9a70be12a44ef5e74d37526253a1a566e4f61712b664f33b2ac717e1a
+SHA512: 5f8d2b7aa3f53cf7dc77fe90e4fd6c8128e0c564c5562c07362354eaea3cc72ba77b5abbda95921b8404959010dbfb891a585382525b5e0eb810c4330e462903
+Size: 18512
+
+Package: libhardware2
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 48
+Depends: libc6 (>= 2.4), libhybris-common1
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libs
+Priority: extra
+Description: Library to provide access to the Android libhardware HAL
+ Contains a library that provides access to the Android libhardware HAL,
+ which can be used to access a wide range of other HALs, such as audio,
+ power, gralloc, etc.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhardware2_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: e545073f736d7577799be995a3d94456
+SHA1: 9be11c88c8d2682ceb5bca03c3f01b378793be8f
+SHA256: 8bb66670536c1447791aa98b55f2fdf47d6b5cfb76a012747b63b0256228c9f7
+SHA512: 5c5bdbc70010d476f8f2cd050c12ccaef713fafaeb2e26500ef878f56b8f904df811bef2fe905188ae0ed1f2ff77cd1481abc0c251ae3670f61c2dc4e276d7f6
+Size: 18654
+
+Package: libhardware-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 42
+Depends: libhardware2 (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), android-headers-27
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libdevel
+Priority: extra
+Description: Development files for libhardware
+ Contains the development files for the Android libhardware HAL, which can
+ be used to access a wide range of other HALs, such as audio, power,
+ gralloc, etc.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhardware-dev_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: d0ad8f6a5b2ad47c1aa36f0b7b99ff5c
+SHA1: 1becf1eabb598b5cfb5c58c985e9fb31589e2cfe
+SHA256: 9b053ac440d656e1944cd9898fce17f5e789f3cebc7d0010b9a5f972473067b5
+SHA512: ceeb8ec5430a9cd9a5bcab0b33f135ab11c36eb021b310567fa471e6dc9eadd3701109f4bb153a5525ed1701da588b5e8c26940836851c71b3999b14c0094ade
+Size: 17026
+
+Package: libhardware-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 42
+Depends: libhardware2 (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), android-headers-27
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libdevel
+Priority: extra
+Description: Development files for libhardware
+ Contains the development files for the Android libhardware HAL, which can
+ be used to access a wide range of other HALs, such as audio, power,
+ gralloc, etc.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhardware-dev_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 04fbd85a501c508de49f0a4e93931248
+SHA1: 401774a77f78e14a3840ef31aa7cad363ed3349a
+SHA256: 008178d4874377c0ba5bf48162777615a5074ca36133a308e9fcaeed51eb7f57
+SHA512: 8c1cb3c2656a6b3b9e61e92734949cf0a8bc715688943b5ea8c7cad74f8c0c1663bb2f058f7e406060252da97d53a5f0fcf6f5451e4a27c035931e34f093631e
+Size: 17056
+
+Package: libhardware-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 42
+Depends: libhardware2 (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), android-headers-27
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libdevel
+Priority: extra
+Description: Development files for libhardware
+ Contains the development files for the Android libhardware HAL, which can
+ be used to access a wide range of other HALs, such as audio, power,
+ gralloc, etc.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhardware-dev_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: f81dc0289a54e08a5673a1c24a4ed8be
+SHA1: e908a4d6d597fe7865da214ae6dbf8ced13e377f
+SHA256: dc0401a68032174f0bdaf3ca8b95e3cd18fea0e181148103630ea4abceb9646b
+SHA512: 99c5b0d651f91d84afdebe2d220a3488dc1012b7354a4f9e3d605449eb4738b53d0295df140284ad2929a0865afeccfbb3f3a8d5b19fc74342318abcf0949dcc
+Size: 17208
+
+Package: libhybris-common1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 559
+Depends: libc6 (>> 2.23), libc6 (<< 2.24), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libs
+Priority: extra
+Description: Common library that contains the Android linker and custom hooks
+ Contains a common library that contains the Android linker, used to
+ dynamically load and use symbols from Android based libraries.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-common1_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 2ac97b77b07982ec2ca996ceb28ac628
+SHA1: 2ea92d67e92c34a22e3104661e56e1fad9345fc8
+SHA256: c6712bdb07ff55a6b14970a317bb7ec52096e042390f3faed1de91e2e7ff2f0c
+SHA512: 3b122653c49086bfd21409b433edd4bdb7b66c3f82939164f4e5d04a9af393f798dc3ae3a5988662be163254c9a50e78118e0ab2edf5e43fb01e672a86cbe9dd
+Size: 181994
+
+Package: libhybris-common1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 559
+Depends: libc6 (>> 2.23), libc6 (<< 2.24), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libs
+Priority: extra
+Description: Common library that contains the Android linker and custom hooks
+ Contains a common library that contains the Android linker, used to
+ dynamically load and use symbols from Android based libraries.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-common1_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 18afcc922ff47e14f300cc45379e5cff
+SHA1: d0bb268b1785a3b2251a1ad27be87cb260545a48
+SHA256: 67fc7961f677f94e0a70aaaa81a444fe46fefad03beeb828418d5c379d6d22f4
+SHA512: 6b67b30d9cafa1cbe31adb5b08f03470fdf3c28904d6b4a410ae63191ccff8fc52372747224f90327d338e63ed00d22415efd0233248e3b8f16d033b3ec1968a
+Size: 182284
+
+Package: libhybris-common1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 559
+Depends: libc6 (>> 2.23), libc6 (<< 2.24), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libs
+Priority: extra
+Description: Common library that contains the Android linker and custom hooks
+ Contains a common library that contains the Android linker, used to
+ dynamically load and use symbols from Android based libraries.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-common1_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: 622e2ffde4389c931add6ef1dd70d635
+SHA1: eb4f4511e31694070e8bb5509f3daa9d334bc8b5
+SHA256: 4b8e45cf8f91df2011fdf910bacc520ddab5166b03448470ab0d863d4ff2bca9
+SHA512: 6deb06d6d141b4b8483eb7970a74316d97d8592012e46d5653ef37d714250d7edacb4110fd360db6bc3d5d424f27e2c80af5c84591ac6abb799b076bbe1a91f5
+Size: 182516
+
+Package: libhybris-common-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 40
+Depends: libhybris-common1 (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0)
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libdevel
+Priority: extra
+Description: Development files for libhybris-common
+ Contains the development files for the common library that contains the
+ Android linker, used to dynamically load and use symbols from Android
+ based libraries.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-common-dev_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 69238fe84d83dea31412ccd04c05815a
+SHA1: 535749339f06feb7d3d1cc89fcde762d1c9dc4ec
+SHA256: 461d1213b079ff4b9f5a5a3e868593f33043d60450de5a3a17cc966e22e90b38
+SHA512: e24e1cd94ab83fffd974ea84bf4a7e700455648e4bea78f9237f082e6f8a3f023f60745d2ffa8b643f7b9ac91dbb4f1edeedfa5d099f8af152e45fa96b12e3f4
+Size: 16796
+
+Package: libhybris-common-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 40
+Depends: libhybris-common1 (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04)
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libdevel
+Priority: extra
+Description: Development files for libhybris-common
+ Contains the development files for the common library that contains the
+ Android linker, used to dynamically load and use symbols from Android
+ based libraries.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-common-dev_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 2fe05d88cd2ff12801d94e604601718d
+SHA1: 407cdc84336169c0342c1e957d195a67826c4244
+SHA256: 40f223e92956955afcf7a29fc10b96a9af84d920f6ef3b67ed47abf617fb9b1e
+SHA512: 7b4ab893de493d440385368d8bde0440dcc14a753828a462465eb7ca54c20515803aa1a4000e9d775d15755382b52ae64c2490f261ea3c551d71727ef5b42dec
+Size: 16820
+
+Package: libhybris-common-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 40
+Depends: libhybris-common1 (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772)
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu13)
+Section: libdevel
+Priority: extra
+Description: Development files for libhybris-common
+ Contains the development files for the common library that contains the
+ Android linker, used to dynamically load and use symbols from Android
+ based libraries.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-common-dev_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: 6417628a68634f503af5c3ccc96b114c
+SHA1: a8740b6a5d9a0bfe4ee2ed752cf08d2a3d681453
+SHA256: 321b45fb74aa5d8bd4d9b7cb658af251abb63251f13a594badf91fb548b9c318
+SHA512: 5fc472fd0bdbb247aa1b96aee45d2a9fe57c7b475852ddbd5b20c1465011a818c60563e2a273b0139a5083e2a99725efe3323c5eb7797ba5b4b30ece682ec368
+Size: 16966
+
+Package: libhybris-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 206
+Depends: libhybris (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), android-headers-27, libandroid-properties-dev (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), libhardware-dev (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), libmedia-dev (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), libhybris-common-dev (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), libgles2-mesa-dev
+Section: libdevel
+Priority: extra
+Description: Development headers and libraries for libhybris
+ Contains the header files for use in developing applications that use
+ the libhybris library.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-dev_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 62ff87c873fe91157504ec7a353c1f1a
+SHA1: b557f21731750815a18dd0ad6c5d1785630bf73d
+SHA256: dda697d9e9689be9b44408826e3911aa0dab6b9b47047d51b537ed54b12f52e5
+SHA512: 1efa8a2d0db58d801905c6268d73cbc5763fb8e0bb90322c112cfd0d130522d6d9ce4c0626c0e52d1ae5f48d0cd281dc31420f0cef2c13eb23a2d65ac6f8c1db
+Size: 37228
+
+Package: libhybris-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 206
+Depends: libhybris (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), android-headers-27, libandroid-properties-dev (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), libhardware-dev (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), libmedia-dev (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), libhybris-common-dev (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), libgles2-mesa-dev
+Section: libdevel
+Priority: extra
+Description: Development headers and libraries for libhybris
+ Contains the header files for use in developing applications that use
+ the libhybris library.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-dev_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 95a0c6923ce56b2b4b8168fb1da6b33c
+SHA1: 9864c29ecdc03b8c901513761b4eff5e1f8e2a6e
+SHA256: 717f45209294f0a75c39c4d4f2228ca73381c575054012456469b48f4d0fc448
+SHA512: bc80d21fac071777d636e540c0f59b962c876b93c873f72de546e4856a9cd4122f54666c2e270c2c45a90ee34664222a2ebf702a34d235c19ea38f1cdf74146d
+Size: 37260
+
+Package: libhybris-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 206
+Depends: libhybris (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), android-headers-27, libandroid-properties-dev (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), libhardware-dev (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), libmedia-dev (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), libhybris-common-dev (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), libgles2-mesa-dev
+Section: libdevel
+Priority: extra
+Description: Development headers and libraries for libhybris
+ Contains the header files for use in developing applications that use
+ the libhybris library.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-dev_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: 32954f875a29891dbcfd1c20d9dda352
+SHA1: ae523095600c6767944ef59f591205d0a1995e34
+SHA256: 103b0da2a83e01a87bb8f6cbb63fc03fedf88b6249422fd57bdd4874cc46ccae
+SHA512: b82cde309aa6374d01480bc550adfcb44360cf0716d8d0906438026a12c4ca9271e9ab01553977905dd8eace532d58a686c6343cb1362e6b823b47ed34ec0a5c
+Size: 37416
+
+Package: libhybris-test
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 222
+Depends: libhybris (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), libc6 (>= 2.4), libegl1-mesa (>= 7.8.1) | libegl1-x11, libgcc1 (>= 1:3.5), libgles2-mesa (>= 7.8.1) | libgles2, libhardware2, libmedia1, libstdc++6 (>= 4.3.0), libwayland-client0 (>= 1.9.91), libwayland-egl1-mesa (>= 10.0.2) | libwayland-egl1, ocl-icd-libopencl1 | libopencl1
+Section: devel
+Priority: extra
+Description: Allows to run bionic-based HW adaptations in glibc systems - tests
+ Contains the test applications used to validate libhybris (needs Android
+ libraries or container).
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-test_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 57c88569a01e49d3094d058a91ac4a76
+SHA1: b7116bf0e6714b8df3001cc32326f30fd159310d
+SHA256: 46c435b94903851fb915885e7f8337fe93efa7ae114c519b22ac1f253b30af9b
+SHA512: d31728bbd63319639816a4f45846d0d85a635c48dfa995f0ad37b811dab7bd3c708b9820cea26753fb68a266c46f4b2f39a76c03bb835bffb3050f3188c61868
+Size: 52580
+
+Package: libhybris-test
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 222
+Depends: libhybris (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), libc6 (>= 2.4), libegl1-mesa (>= 7.8.1) | libegl1-x11, libgcc1 (>= 1:3.5), libgles2-mesa (>= 7.8.1) | libgles2, libhardware2, libmedia1, libstdc++6 (>= 4.3.0), libwayland-client0 (>= 1.9.91), libwayland-egl1-mesa (>= 10.0.2) | libwayland-egl1, ocl-icd-libopencl1 | libopencl1
+Section: devel
+Priority: extra
+Description: Allows to run bionic-based HW adaptations in glibc systems - tests
+ Contains the test applications used to validate libhybris (needs Android
+ libraries or container).
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-test_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 08165a010755f96a7f91f4366020c7f1
+SHA1: e83a1cb61bea0539cf07e02ffae16ea2f8586dd6
+SHA256: b7368c73bda616a098d54b50eb958d25c050e8ee35ed0733717d88ffff145819
+SHA512: 257f4e2f6d983c492738d3a0bc36879e98fb8bbec37698af7596dfb1387f583f693ccd326194a34c531234b5cc4df6a446d7a90864410f01884a27b0b30b9928
+Size: 52610
+
+Package: libhybris-test
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 222
+Depends: libhybris (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), libc6 (>= 2.4), libegl1-mesa (>= 7.8.1) | libegl1-x11, libgcc1 (>= 1:3.5), libgles2-mesa (>= 7.8.1) | libgles2, libhardware2, libmedia1, libstdc++6 (>= 4.3.0), libwayland-client0 (>= 1.9.91), libwayland-egl1-mesa (>= 10.0.2) | libwayland-egl1, ocl-icd-libopencl1 | libopencl1
+Section: devel
+Priority: extra
+Description: Allows to run bionic-based HW adaptations in glibc systems - tests
+ Contains the test applications used to validate libhybris (needs Android
+ libraries or container).
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-test_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: 786daa90106bd96fc4b5d2bf8b5e1a94
+SHA1: 9b270b2a86066f53ee1d4fd844d5801266a97581
+SHA256: 9a9413f55b4ca36439f00708e749650ca7d9566c7fd46f81c3a5beb8c4384776
+SHA512: 3df16b7d2280d2d781713b830daff2afd6685b1e59731594a12eafdc8a6fbca64ce6f5c5f607ec3fc6ecc361df4e9d31bababbeec13cbcc1fc458e4900aed4f4
+Size: 52796
+
+Package: libhybris-utils
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 60
+Depends: libhybris (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), libandroid-properties1, libc6 (>= 2.4)
+Section: utils
+Priority: extra
+Description: Utilities to help working with the Android HW abstraction layer
+ Contains utilities used to help working with Android HW abstraction layer.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-utils_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 8285b930d71b331b34ed701684576fc7
+SHA1: 2c8a3947fa5c2269557eb397c5152106af5258ca
+SHA256: a510977daea8e4bf8d30123aaa522c1ae662afe9cb3e7d546efce766015bc8fb
+SHA512: bcff81b293258ca6a0250c72df74de59ab0f29e3d0fb5e671bff951290d6997afd05eb401dd9af995cd8da3a4a8fdb5e46ad6a9f553b66e11c2cf5d252e36567
+Size: 21330
+
+Package: libhybris-utils
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 60
+Depends: libhybris (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), libandroid-properties1, libc6 (>= 2.4)
+Section: utils
+Priority: extra
+Description: Utilities to help working with the Android HW abstraction layer
+ Contains utilities used to help working with Android HW abstraction layer.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-utils_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 78396381ea1568bf19617ca8084c5b54
+SHA1: 9c8f3f1bedd39e6d45914ba441b1c9c195c6ccd2
+SHA256: c5565a8b71fa734a8b57e23a2b00c8446d443feff6096b26a551aa865e8cea41
+SHA512: 938a17b3674ea80cc5e58a65309ed5a673d9ef0f600a2d3e35b2313a3ad85e68047979d07e960d085b94a72e9b8db53873d9e32297c05c10e580f6a14753464e
+Size: 21366
+
+Package: libhybris-utils
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 60
+Depends: libhybris (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), libandroid-properties1, libc6 (>= 2.4)
+Section: utils
+Priority: extra
+Description: Utilities to help working with the Android HW abstraction layer
+ Contains utilities used to help working with Android HW abstraction layer.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris-utils_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: 5a92c3e8c40cdbed0eb9b262fffe46c5
+SHA1: 5d04e35efd1d99e399f04582342fe59ade7edc3d
+SHA256: 645dd0022da9acb5d228499f9c3348d1019195d831c1ec7e1e8ed3394a674530
+SHA512: 94190d2a86159425a9fe40c8af9b0a4e4ee43130b28a0d94775881bb27951b4f9335e6403a2b8b9ac1b849618ea25c0ca0178c64dd5678121e727164c2eb62da
+Size: 21532
+
+Package: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 334
+Depends: libandroid-properties1 (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), libhardware2, libmedia1, libc6 (>= 2.16), libgcc1 (>= 1:3.5), libhybris-common1, libstdc++6 (>= 4.6), libwayland-client0 (>= 1.9.91), libwayland-server0 (>= 1.2.0)
+Section: libs
+Priority: extra
+Description: Allows to run bionic-based HW adaptations in glibc systems - libs
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 11e058a7be746bba7b36adeb103b9636
+SHA1: c343306f381ac37def0dcf06753488638c2b4dec
+SHA256: 0f0aae3ecbeb60ae4fd2dab121b1b41c4e8cc7c6a90fb5203a871d73fa3ded6a
+SHA512: 4aacf21a6a0e31a083e956bb3e780fea574464f5be115e01867bacad6e8a7ead679290a428ab5a4d079c71551552422e783ebaf76aaf1046526fe57c464a4162
+Size: 77246
+
+Package: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 334
+Depends: libandroid-properties1 (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), libhardware2, libmedia1, libc6 (>= 2.16), libgcc1 (>= 1:3.5), libhybris-common1, libstdc++6 (>= 4.6), libwayland-client0 (>= 1.9.91), libwayland-server0 (>= 1.2.0)
+Section: libs
+Priority: extra
+Description: Allows to run bionic-based HW adaptations in glibc systems - libs
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: ef0a166602181674779a28eda94e5b99
+SHA1: 0a80955feed2a6ffc313af38aa6a38da34cbfc3d
+SHA256: 320958b368feb74382c0e26a20f2499cf0e067de8e64d481e6cea1af3202f41f
+SHA512: e979d2987e4af6e6b253f55a6c484725090ae8029c17bc306bc6db50188b0c8794e43d543030054d4d2c3e00620173bb5e27d4fc897784802460063a28e170ef
+Size: 77300
+
+Package: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 334
+Depends: libandroid-properties1 (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), libhardware2, libmedia1, libc6 (>= 2.16), libgcc1 (>= 1:3.5), libhybris-common1, libstdc++6 (>= 4.6), libwayland-client0 (>= 1.9.91), libwayland-server0 (>= 1.2.0)
+Section: libs
+Priority: extra
+Description: Allows to run bionic-based HW adaptations in glibc systems - libs
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libhybris_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: 2b9f7b483424198fa7d12d4871e204da
+SHA1: 0dd174b6b6d27656334cd05e4df132d5200f3a04
+SHA256: 08421b765ae6d8e465f6b6e187ece01fec5418f72a1ad49fed4fe59c90286ed7
+SHA512: 9e57e83e00efff442b1bf9e1cd7ac796992f481ccea1b79da6279d7e7537c492e504fd484d2e0e41bcfc87e86c8d4ce46be2ebc0e63312c6ab7efa8ffd48b502
+Size: 77380
+
+Package: libmedia1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 80
+Depends: libc6 (>= 2.4), libhybris-common1
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Section: libs
+Priority: extra
+Description: Library to provide access to the Android Media HAL
+ Contains a library that provides access to the Android Media HAL,
+ which abstract the access to the Android libstagefright based
+ decoders.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libmedia1_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 1ac26087cd9f80613657b45ef7e90f7e
+SHA1: 8e04c26a3de8d8302681f9fc52f755ba88a62483
+SHA256: 6c87c01ecfdef03b0a26671ee8427c34bad0365623d684b2440ab2212458971c
+SHA512: 5d9549328b68b072b60c0baa95b77ec4fff4c724ad2dd43454b854b8b9390c5d80cebd60f44a8c4c3712f7c86d78582d62941f55b25bfb69afb390b57b537a5d
+Size: 25340
+
+Package: libmedia1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 80
+Depends: libc6 (>= 2.4), libhybris-common1
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Section: libs
+Priority: extra
+Description: Library to provide access to the Android Media HAL
+ Contains a library that provides access to the Android Media HAL,
+ which abstract the access to the Android libstagefright based
+ decoders.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libmedia1_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 51d6c1f5b6c004aa5200da05576a2764
+SHA1: 70e582be4fa72d5a7dd280fddc13a1f2acac9355
+SHA256: 4a28683e3c2eb993d4a7ceb25f14e59d0a38254b80ad549f2261ee01df96bcca
+SHA512: 194d597a8ec2c5282046b4ce7c1bb31477d473978e3907fba8bf08181c5c8e7658b2c85032c4a6ef5d040c8a31e4d4fe8425213d2d6f47ea916550c2caca1a91
+Size: 25364
+
+Package: libmedia1
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 80
+Depends: libc6 (>= 2.4), libhybris-common1
+Breaks: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Replaces: libhybris (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Section: libs
+Priority: extra
+Description: Library to provide access to the Android Media HAL
+ Contains a library that provides access to the Android Media HAL,
+ which abstract the access to the Android libstagefright based
+ decoders.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libmedia1_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: d5c9371147a12b02aec29f5de2126b69
+SHA1: a052860099c0ee21a5b1a5970c845cfb53aad178
+SHA256: e83bfb1828fa4d729b19cf79b6edb7a64a94295673f378b60a0f04aba311ec4d
+SHA512: 0be6605e8520680d2ae6fef19ac20b912929d74a0a059820c835e208a2e5bfac542430ca172a0b917fcd54584ef83bdedde075f907d5981ef300302f57ff5a47
+Size: 25518
+
+Package: libmedia-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 86
+Depends: libmedia1 (= 0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0), android-headers-27
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Section: libdevel
+Priority: extra
+Description: Development files for libmedia
+ Contains the development files for the Android Media HAL, which
+ abstract the access to the Android libstagefright based decoders.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libmedia-dev_0.1.3+ubports1+0~20191030235842.2~1.gbp4082f0_armhf.deb
+MD5sum: 518e15ea7dfcb16f4a7346d3e036c985
+SHA1: 022e4450abd7a6c178602161f604f1ea21212f73
+SHA256: 67f5972292f0ca03d0c361666ab2e22099878cbce2aa1fb8db9fb371faaafea6
+SHA512: 39c69e7088900bdd93995907183302edf97f365cc9d7cf6f97d9763cfd619f9fcb873f3f8d2b91c4b7f03f101b1260e0da47182e46a98ba66c1955632dae3d84
+Size: 22176
+
+Package: libmedia-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 86
+Depends: libmedia1 (= 0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04), android-headers-27
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Section: libdevel
+Priority: extra
+Description: Development files for libmedia
+ Contains the development files for the Android Media HAL, which
+ abstract the access to the Android libstagefright based decoders.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libmedia-dev_0.1.3+ubports1+0~20191105212655.3~1.gbpf7bf04_armhf.deb
+MD5sum: 8e282431cf6eb72640ba6db6e0b736cd
+SHA1: 5048ed17673cc36bae206d0bea0a5134f3be2654
+SHA256: b1338ca3f0083be4f88a932870dbc8e1f433683ec5ceeea7dff0de6f6c97b291
+SHA512: 11cbaf57d50845962f8265c0db68ae13b77973dd0b51031fd0c3ee1a15dc438e46c3ee3e64ed9a89709873381d3ccf5bcc04b14834278d0a812eab72d661c0a1
+Size: 22212
+
+Package: libmedia-dev
+Source: libhybris
+Version: 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 86
+Depends: libmedia1 (= 0.1.3+ubports1+0~20200119103533.4~1.gbpca3772), android-headers-27
+Breaks: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Replaces: libhybris-dev (<< 0.1.0+git20130606+c5d897a-0ubuntu24)
+Section: libdevel
+Priority: extra
+Description: Development files for libmedia
+ Contains the development files for the Android Media HAL, which
+ abstract the access to the Android libstagefright based decoders.
+ .
+ Hybris is a solution that allows the use of bionic-based HW adaptations in
+ glibc systems.
+Filename: pool/xenial_-_edge/main/libh/libhybris/libmedia-dev_0.1.3+ubports1+0~20200119103533.4~1.gbpca3772_armhf.deb
+MD5sum: 6fab72846e81e889b9152dcdb66e1658
+SHA1: 39504f5e3b1871f32caf40539cd1dcbdcf39af39
+SHA256: f5c4cd69a7d3dcca6651b1c569c60be505c35efd0f3139d9bed141024d4ca004
+SHA512: 30dab60036aff07cd373d3ea5b3e1dd3de2488f15b77d7dd56aeec68b4aba0e01afaae82125538e52e3dcaa2f49d22174a9b2ff6d5aa34dcbae050278eb40414
+Size: 22364
+
+Package: libmission-control-plugins0
+Source: telepathy-mission-control-5
+Version: 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 57
+Depends: libc6 (>= 2.4), libdbus-glib-1-2 (>= 0.78), libglib2.0-0 (>= 2.32), libtelepathy-glib0 (>= 0.20)
+Recommends: telepathy-mission-control-5 (= 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4)
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: http://telepathy.freedesktop.org/wiki/
+Description: management daemon for Telepathy (library for plugins)
+ Telepathy Mission Control 5 is an account manager and channel dispatcher for
+ the Telepathy framework. This package contains a library against which plugins
+ for Mission Control must be linked.
+Original-Maintainer: Debian Telepathy maintainers <pkg-telepathy-maintainers@lists.alioth.debian.org>
+Filename: pool/xenial_-_edge/main/t/telepathy-mission-control-5/libmission-control-plugins0_5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4_armhf.deb
+MD5sum: 609b85ec68dda09f2d59a0e18ab15489
+SHA1: 8a8701ad6d77933df9a416a04c977bed6020e79a
+SHA256: a65bcdb339cd6283465d003eff724cb66c5f6b3d30f007bd501fdd4d08ebb2ba
+SHA512: 57499de2a1066f0e67e8e149aea97778a83bc4d86fb80bd8aa2224826307520537e20b285b502f899c85000293beea4d5b7e4a444e3180be3f842fdce7ff059c
+Size: 20144
+
+Package: libmission-control-plugins-dev
+Source: telepathy-mission-control-5
+Version: 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 55
+Depends: libmission-control-plugins0 (= 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4), libtelepathy-glib-dev
+Suggests: libmission-control-plugins-doc
+Section: libdevel
+Priority: extra
+Multi-Arch: same
+Homepage: http://telepathy.freedesktop.org/wiki/
+Description: management daemon for Telepathy (headers for plugins)
+ Telepathy Mission Control 5 is an account manager and channel dispatcher for
+ the Telepathy framework. This package contains development headers to build
+ plugins for Mission Control.
+Original-Maintainer: Debian Telepathy maintainers <pkg-telepathy-maintainers@lists.alioth.debian.org>
+Filename: pool/xenial_-_edge/main/t/telepathy-mission-control-5/libmission-control-plugins-dev_5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4_armhf.deb
+MD5sum: 361b1dfe74e88bb3a855c84660fe76b3
+SHA1: 215b5d8c1cb31e201248de14ea24b1d46a85ca6b
+SHA256: ea04878ac0383bf12d8eec334e7f1c638bab5c9a5fc33a113c67480952d91d02
+SHA512: 802bf1b3914b6d78dd8d0f9559f5627c50e2f9feb1d666fd0b4f0f2b33373318968d4d8065cdc56a49378a48792869ae755b46d075632b4b440d2f8a107a8bb8
+Size: 6982
+
+Package: libmission-control-plugins-doc
+Source: telepathy-mission-control-5
+Version: 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 321
+Section: doc
+Priority: extra
+Homepage: http://telepathy.freedesktop.org/wiki/
+Description: management daemon for Telepathy (documentation for plugins)
+ Telepathy Mission Control 5 is an account manager and channel dispatcher for
+ the Telepathy framework. This package contains API documentation to build
+ plugins for Mission Control.
+Original-Maintainer: Debian Telepathy maintainers <pkg-telepathy-maintainers@lists.alioth.debian.org>
+Filename: pool/xenial_-_edge/main/t/telepathy-mission-control-5/libmission-control-plugins-doc_5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4_all.deb
+MD5sum: fa3019ccb7558c17f89aaa12357287ee
+SHA1: 2232a2c08a5258dba4161669b4e3774021cf5a01
+SHA256: 5cce7a48424f2993853dacbf118c13ea1813dcba77f9a0febf933d2c59762374
+SHA512: f40f0be64743e91bee519106cb05772de1b5b1aa8710444adc6bc8cf20dfb983f4e93c0807359b72d489627188426a937400a4929da7f6266df4cc065b248771
+Size: 34006
+
+Package: libqt5feedback5-hfd
+Source: hfd-service
+Version: 0.1.0+0~20200321020624.1~1.gbpbbaded
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 44
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.5), libqt5core5a (>= 5.5.0), libqt5dbus5 (>= 5.0.2), libqt5feedback5, libstdc++6 (>= 5), hfd-service
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/h/hfd-service/libqt5feedback5-hfd_0.1.0+0~20200321020624.1~1.gbpbbaded_armhf.deb
+MD5sum: bf5cd27c93681c248aa5a7a885e424cd
+SHA1: 4831c619aa49513e663d4423844846780b099f23
+SHA256: 205ef7dd239f3145b5e61681f2f0ce25342c026d38b17ae6d5c79ebb0e07cabf
+SHA512: 720c71a97086417b4e8deee3d4c7bb1b6624af6d77b32da0b7941fdaa61588f8396e83b0c674fbb87cb04c75095a5d405c0a8ec9bd3da137003599bccb4da37e
+Size: 13190
+
+Package: livecd-rootfs
+Version: 2.600.2+xenial19ubports5+0~20191102020601.10~1.gbp498386
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 204
+Depends: debootstrap, rsync, python-minimal | python, procps, squashfs-tools (>= 1:3.3-1), grep-dctrl, lsb-release, lzma, e2fsprogs, germinate (>= 1.25.1), apt-utils, gnupg, live-build (>= 3.0~a57-1ubuntu12~), android-tools-fsutils, python3-software-properties
+Suggests: partimage
+Breaks: ubuntu-defaults-builder (<< 0.32)
+Section: devel
+Priority: optional
+Description: construction script for the livecd rootfs
+ livecd-rootfs provides the script used to create the root filesystem
+ on the livecd.
+Filename: pool/xenial_-_edge/main/l/livecd-rootfs/livecd-rootfs_2.600.2+xenial19ubports5+0~20191102020601.10~1.gbp498386_armhf.deb
+MD5sum: be610e87d0a67c184c66e6c022a6d594
+SHA1: 56767e7a6a1fc74cdb39ba771a3057a9c558c55e
+SHA256: f385cab8ea22787a3d4b639c19b67b67b3bc8de7c55aed9b96190d9a8a77b28e
+SHA512: a2b60b522cc8e040afe329019e6e42509355657e853a5b154cd68b9894a9b877b3d2effa469e79d9c3e535c69b815a70b8ba9b329074009f1425c219afc1729c
+Size: 68570
+
+Package: qml-module-hfd
+Source: hfd-service
+Version: 0.1.0+0~20200321020624.1~1.gbpbbaded
+Architecture: armhf
+Maintainer: Marius Gripsgard <marius@ubports.com>
+Installed-Size: 45
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.5), libqt5core5a (>= 5.5.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0), libstdc++6 (>= 5), hfd-service
+Section: libs
+Priority: optional
+Homepage: https://github.com/ubports/deviceinfo
+Description: Library to detect and configure devices
+ Library to detect and configure devices
+Filename: pool/xenial_-_edge/main/h/hfd-service/qml-module-hfd_0.1.0+0~20200321020624.1~1.gbpbbaded_armhf.deb
+MD5sum: cd9c72553d180df6c56c81fbc3401069
+SHA1: d08236ca25602f3869fa520782b494f7fbd3665a
+SHA256: 04b5a9f43240b6a450f2b4f72c8dda721dc35be06b50b5d0d2cf5e53be086764
+SHA512: 5015ff2b0a3831adc0840fdb184dbfd9405d32f98ab3732b9878d08a68162e473446089d7754cb721846ca0e2368ec448dc2d25b7c57a4fe8e9c8b683107e808
+Size: 13482
+
+Package: telepathy-mission-control-5-dbg
+Source: telepathy-mission-control-5
+Version: 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 581
+Depends: telepathy-mission-control-5 (= 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4)
+Section: debug
+Priority: extra
+Homepage: http://telepathy.freedesktop.org/wiki/
+Description: management daemon for Telepathy (debug symbols)
+ Telepathy Mission Control 5 is an account manager and channel dispatcher for
+ the Telepathy framework. This package contains debug symbols which can be
+ used to debug Mission Control.
+Build-Ids: 5769974a7753657e1bb6f13b8a652fec3d70216f b47c3d25ed44f616d06c403c788ea1481c45c433 e7fe57c0f30a4901a6469c461ff967076fac393e
+Original-Maintainer: Debian Telepathy maintainers <pkg-telepathy-maintainers@lists.alioth.debian.org>
+Filename: pool/xenial_-_edge/main/t/telepathy-mission-control-5/telepathy-mission-control-5-dbg_5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4_armhf.deb
+MD5sum: 1a6f8f3807af00ad3613871dc3590a06
+SHA1: e1fabca1abd477d573491d1964cda4d5b0dbd418
+SHA256: 35ca5ccab81926e433705c4c2a596699dcd95bdddb7f702d3f4f8a999d829a3c
+SHA512: 031aa77eb6a9ece2a5afb5ed6615a17845784d49335a52b83cd971ac5210d6229c5097db4e32d0311e90fccd0cbaf0cce4987b0a450992340800bbed5b343c67
+Size: 453134
+
+Package: telepathy-mission-control-5
+Version: 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4
+Architecture: armhf
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 345
+Depends: libc6 (>= 2.4), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.92), libglib2.0-0 (>= 2.35.9), libmission-control-plugins0 (= 1:5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4), libnm-glib4 (>= 0.7.999), libtelepathy-glib0 (>= 0.20), dconf-gsettings-backend | gsettings-backend
+Suggests: telepathy-haze, apparmor
+Conflicts: telepathy-mission-control
+Section: net
+Priority: optional
+Homepage: http://telepathy.freedesktop.org/wiki/
+Description: management daemon for Telepathy real-time communication framework
+ Telepathy Mission Control 5 is an account manager and channel dispatcher for
+ the Telepathy framework, allowing user interfaces and other clients
+ to share connections to real-time communication services without conflicting.
+ It implements the AccountManager and ChannelDispatcher D-Bus APIs as described
+ by telepathy-spec.
+ .
+ The account manager part stores real time communication account details,
+ connects to the stored accounts on request, and sets the accounts' presence,
+ nickname and avatar according to requests from Telepathy user interfaces and
+ other components.
+ .
+ The channel dispatcher part responds to incoming communication channels
+ (message streams, voice/video calls, file transfers etc.) by dispatching
+ them to suitable user interfaces, and requests outgoing communication
+ channels according to requests from a Telepathy UI.
+ .
+ This is not a compatible replacement for Mission Control 4 (in the
+ telepathy-mission-control package), but they can be installed in parallel.
+Original-Maintainer: Debian Telepathy maintainers <pkg-telepathy-maintainers@lists.alioth.debian.org>
+Filename: pool/xenial_-_edge/main/t/telepathy-mission-control-5/telepathy-mission-control-5_5.16.3-2ubports1+0~20191102145637.2~1.gbpd890f4_armhf.deb
+MD5sum: 00a1d22a1eb3b8eddc9572dfb575f828
+SHA1: aa771ee96d95dff41661dbf8f2294cd33ec2011f
+SHA256: e8b5e6625817f9d700538054396e369f9dc7ae0d0726f669576e833a9017001e
+SHA512: 79e5c72807d05dbc84fdaa0200921280a5ba61a3316b89224bc9e5136e779dbb4844e6fdaaa0765c36bac10cfc6bcedd2ea839bb958378ca6613956175b4663d
+Size: 154376
+
+Package: ubuntu-touch-session-mir
+Source: ubuntu-touch-session
+Version: 0.111+0ubports0+0~20191104201250.6~1.gbpedf599
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 38
+Depends: ubuntu-touch-session (= 0.111+0ubports0+0~20191104201250.6~1.gbpedf599), unity-system-compositor (>= 0.0.3)
+Conflicts: ubuntu-touch-session-wayland
+Section: x11
+Priority: optional
+Description: Mir on Mir session using unity-system-compositor
+ Mir on Mir session using unity-system-compositor
+Filename: pool/xenial_-_edge/main/u/ubuntu-touch-session/ubuntu-touch-session-mir_0.111+0ubports0+0~20191104201250.6~1.gbpedf599_all.deb
+MD5sum: 6cfb1d8a0d1138e5d756da25aeb14e5e
+SHA1: 8c5ec557ba30c18fc29dd7d639a9478ec0cee3fe
+SHA256: bfb97330864bd03337847057edb7e8945322e7ee53071d9421994511b0309263
+SHA512: 196a6a6f6ab902b4444f1ed61d13affc9bb9872aa1f1bfc2b847d7721f7c3afbd906be059e2e08ed49d98ace836d11e49910c15c1b44eee0e693fabb410c63f2
+Size: 15688
+
+Package: ubuntu-touch-session-mir
+Source: ubuntu-touch-session
+Version: 0.111+0ubports0+0~20191104215149.7~1.gbp53283a
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 38
+Depends: ubuntu-touch-session (= 0.111+0ubports0+0~20191104215149.7~1.gbp53283a), unity-system-compositor (>= 0.0.3)
+Conflicts: ubuntu-touch-session-wayland
+Section: x11
+Priority: optional
+Description: Mir on Mir session using unity-system-compositor
+ Mir on Mir session using unity-system-compositor
+Filename: pool/xenial_-_edge/main/u/ubuntu-touch-session/ubuntu-touch-session-mir_0.111+0ubports0+0~20191104215149.7~1.gbp53283a_all.deb
+MD5sum: c567378e512c255218ed15a33d63e76d
+SHA1: 873efca127b905ff0b9792c5a1d0f4a4a6332d85
+SHA256: 189d2cbaee0491bddb502bc05e8918d688417b0a46c73de59ee7b52e72d4e67a
+SHA512: 8cf6d657845594aa3135ef5883febf578656e3273e1828ef3726226b459fb4f115c7dfb76ffd3a93c79e60aaa42451d345c7bb3fdd2dc60cf15faba1018fad1d
+Size: 15696
+
+Package: ubuntu-touch-session-wayland
+Source: ubuntu-touch-session
+Version: 0.111+0ubports0+0~20191104201250.6~1.gbpedf599
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 36
+Depends: ubuntu-touch-session (= 0.111+0ubports0+0~20191104201250.6~1.gbpedf599), qtwayland5
+Conflicts: ubuntu-touch-session-mir
+Section: x11
+Priority: optional
+Description: Wayland session without using mir on mir
+ Wayland session without using mir on mir
+Filename: pool/xenial_-_edge/main/u/ubuntu-touch-session/ubuntu-touch-session-wayland_0.111+0ubports0+0~20191104201250.6~1.gbpedf599_all.deb
+MD5sum: bbb82712f0c8adc9aee58dc70c54aeef
+SHA1: 1c4eaf2aaf6e4dc2ce35b02fea4c828b23d34e8f
+SHA256: 4d3c350c9faf57be9e66b397b80fff1c2ff9fa4e26c47a3ecaab95b3f42dc4aa
+SHA512: 15f60495eda78b42e0c4c06f355488ffd8ccb402b4ae99710a9cc8b4fde87498a23d9deefa1bccb2faeab6e2c139636abd44a4b47690c3890ce3db8e30ac9a24
+Size: 15430
+
+Package: ubuntu-touch-session-wayland
+Source: ubuntu-touch-session
+Version: 0.111+0ubports0+0~20191104215149.7~1.gbp53283a
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 36
+Depends: ubuntu-touch-session (= 0.111+0ubports0+0~20191104215149.7~1.gbp53283a), qtwayland5
+Conflicts: ubuntu-touch-session-mir
+Section: x11
+Priority: optional
+Description: Wayland session without using mir on mir
+ Wayland session without using mir on mir
+Filename: pool/xenial_-_edge/main/u/ubuntu-touch-session/ubuntu-touch-session-wayland_0.111+0ubports0+0~20191104215149.7~1.gbp53283a_all.deb
+MD5sum: 6dfbff722890d24af9ed75e4a62bbf0b
+SHA1: 161612cdd37d0eff6152349ba92dce38746cd39f
+SHA256: ec44a8ca89eca0aa669d607708e9a78ec22f2e35967a1136cccda846efe8bec7
+SHA512: 86c9d44586814104ee2d0771cccf7775eb412d43b44e162a0e5fd887f150d0c49233a9a14bff2522d634c4790299629b3c24924640d332ece0f274e96670c679
+Size: 15450
+
+Package: ubuntu-touch-session
+Version: 0.111+0ubports0+0~20191104201250.6~1.gbpedf599
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 116
+Depends: libpam-runtime (>= 1.0.1-6), libpam-modules (>= 1.1.8-3ubuntu2), lightdm (>= 1.9.5), upstart, unity8 (>= 7.89), ubuntu-app-launch (>= 0.1+13.10.20130923.4-0ubuntu1~), apparmor (>= 2.8.96~2541-0ubuntu1~), ubuntu-touch-session-mir (= 0.111+0ubports0+0~20191104201250.6~1.gbpedf599) | ubuntu-touch-session-wayland (= 0.111+0ubports0+0~20191104201250.6~1.gbpedf599)
+Breaks: unity8 (<< 7.85)
+Section: x11
+Priority: optional
+Description: Ubuntu Session Manager for Ubuntu Touch Devices
+ The ubuntu-touch-session tool aims to setup a very simple session
+ manager for the ubuntu-touch mobile shell.
+Filename: pool/xenial_-_edge/main/u/ubuntu-touch-session/ubuntu-touch-session_0.111+0ubports0+0~20191104201250.6~1.gbpedf599_all.deb
+MD5sum: 7d7f7af5d8ab6f08c0fc1b03ca98b5a1
+SHA1: 22d675a7bcb4cf6a028d71f8a34af325c60bdce2
+SHA256: db9ee4b681a5fbe7fef54b85e23e34a0a227c2927ffd84f573ad47634a40bdd4
+SHA512: 0397904bbed3313c42dc399ab722b33c7980eb8a02c5afbe4e16d80bc04bb0de88e9782149bb61292f4d53d2d16e027aa48bd859bec8390861e4bb4827f5ce03
+Size: 23680
+
+Package: ubuntu-touch-session
+Version: 0.111+0ubports0+0~20191104215149.7~1.gbp53283a
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 116
+Depends: libpam-runtime (>= 1.0.1-6), libpam-modules (>= 1.1.8-3ubuntu2), lightdm (>= 1.9.5), upstart, unity8 (>= 7.89), ubuntu-app-launch (>= 0.1+13.10.20130923.4-0ubuntu1~), apparmor (>= 2.8.96~2541-0ubuntu1~), ubuntu-touch-session-mir (= 0.111+0ubports0+0~20191104215149.7~1.gbp53283a) | ubuntu-touch-session-wayland (= 0.111+0ubports0+0~20191104215149.7~1.gbp53283a)
+Breaks: unity8 (<< 7.85)
+Section: x11
+Priority: optional
+Description: Ubuntu Session Manager for Ubuntu Touch Devices
+ The ubuntu-touch-session tool aims to setup a very simple session
+ manager for the ubuntu-touch mobile shell.
+Filename: pool/xenial_-_edge/main/u/ubuntu-touch-session/ubuntu-touch-session_0.111+0ubports0+0~20191104215149.7~1.gbp53283a_all.deb
+MD5sum: 56bf3287b7fb73ca8103b9d03929bd5a
+SHA1: 24b93d841b4e6a42fdec7cb3f01d52be07d9f2eb
+SHA256: 6cfd36ac9285a1470afc542e2d0c891836a6ad32a675dd58d451370d1f3b90f2
+SHA512: 06ba2c38604bd2ff7aab31485638cd0da4eed560a848fdea23871b4194cdd0c9b8871d73925bfdca8af406ad75c8f3fa33f932124f689511507e09ec05df2ca4
+Size: 23684
+

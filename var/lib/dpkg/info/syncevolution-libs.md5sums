@@ -1,0 +1,12 @@
+c7b9f3559d8096b40fbf95370d1e86bd  usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncactivesync.so
+dad56f395b5b1aa01c5d0ba796a47d9c  usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncdav.so
+a5d213ae695de0290f3bab3ad447eaa2  usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncfile.so
+ae175b9603e464dd5daf1af50b1c3138  usr/lib/arm-linux-gnueabihf/syncevolution/backends/synckcalextended.so
+9a5e5dce125f7dc5841a10ea00779a70  usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncmaemocal.so
+3564d854534328b7e7b8a5a702e25d0b  usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncqtcontacts.so
+22b527dc280ed09a1caa6b89f32a7f0d  usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncsqlite.so
+11a068948e7be4debbe194bf9a6c70e1  usr/lib/arm-linux-gnueabihf/syncevolution/backends/syncxmlrpc.so
+5ec8bc56cd532de83eae6a4f6ce68773  usr/lib/arm-linux-gnueabihf/syncevolution/syncevo-local-sync
+d900684e44e04369dfafe841ae25c303  usr/share/doc/syncevolution-libs/NEWS.Debian.gz
+872d9fcd8a29f3704ebd4f69691188b3  usr/share/doc/syncevolution-libs/changelog.Debian.gz
+f8b2f8ac02f88d0b5204e1680204ca3f  usr/share/doc/syncevolution-libs/copyright

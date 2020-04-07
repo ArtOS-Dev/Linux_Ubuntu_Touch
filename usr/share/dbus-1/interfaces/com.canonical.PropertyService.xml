@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<node name="/">
+	<interface name="com.canonical.PropertyService">
+		<method name="GetProperty">
+			<arg name="prop" type="s" direction="in"/>
+			<arg name="prop" type="b" direction="out"/>
+		</method>
+		<method name="SetProperty">
+			<arg name="prop" type="sb" direction="in"/>
+			<arg name="prop" type="b" direction="out"/>
+		</method>
+	</interface>
+</node>

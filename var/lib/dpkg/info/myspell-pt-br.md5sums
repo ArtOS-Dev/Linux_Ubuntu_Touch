@@ -1,0 +1,8 @@
+b4c1377a0d2edb45e260c341f755263a  usr/share/doc/myspell-pt-br/README.Debian
+a9058ac5ae76abe3bfeb4ead73149698  usr/share/doc/myspell-pt-br/README_en.TXT
+a11dfeb8a579e99a434731e10cc618fa  usr/share/doc/myspell-pt-br/README_pt_BR.TXT.gz
+c3e0124bdb6ce6f47e4739464c3ef5f2  usr/share/doc/myspell-pt-br/changelog.Debian.gz
+6ad87ce1866800db01c8651e049d5234  usr/share/doc/myspell-pt-br/copyright
+5e819c6e2c16d1fb349e9713124680df  usr/share/hunspell/pt_BR.aff
+72eed0e9e8c052f8be33c06cff815573  usr/share/hunspell/pt_BR.dic
+c5429c3c86eac4791986e0d65b664fdb  var/lib/dictionaries-common/hunspell/myspell-pt-br

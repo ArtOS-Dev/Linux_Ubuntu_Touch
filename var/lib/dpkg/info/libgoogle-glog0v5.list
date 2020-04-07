@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/lintian/overrides/libgoogle-glog0v5
+/usr/share/doc
+/usr/share/doc/libgoogle-glog0v5
+/usr/share/doc/libgoogle-glog0v5/copyright
+/usr/share/doc/libgoogle-glog0v5/changelog.Debian.gz
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libglog.so.0.0.0
+/usr/lib/arm-linux-gnueabihf/libglog.so.0

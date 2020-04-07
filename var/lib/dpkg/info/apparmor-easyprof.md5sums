@@ -1,0 +1,9 @@
+f741864ff83fc728fd20a75d0d49fb21  usr/bin/aa-easyprof
+69152adaa0b51975f029178ff9e8684c  usr/share/apparmor/easyprof/policygroups/opt-application
+7a120b7d79b7b6bb468573e3b394dc3d  usr/share/apparmor/easyprof/policygroups/user-application
+8d939aa92a9f19b772a705449cb9967b  usr/share/apparmor/easyprof/templates/default
+5e19afdb0219b00a8032984c4b8dc917  usr/share/apparmor/easyprof/templates/sandbox
+b61af3cf6f805f3ef9eb4b09b2ab3276  usr/share/apparmor/easyprof/templates/sandbox-x
+fa3f1858282867c5f090f827d22bc63c  usr/share/apparmor/easyprof/templates/user-application
+054bfa053b82896a5f4a0ea0224e6cbc  usr/share/doc/apparmor-easyprof/copyright
+b2706249c8732deb5c0d68aed5e28260  usr/share/man/man8/aa-easyprof.8.gz

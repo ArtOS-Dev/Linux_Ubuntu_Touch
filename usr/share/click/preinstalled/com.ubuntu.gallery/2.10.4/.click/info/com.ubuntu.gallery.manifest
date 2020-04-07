@@ -1,0 +1,22 @@
+{
+    "architecture": "armhf",
+    "description": "Gallery application for your photo collection",
+    "framework": "ubuntu-sdk-16.04",
+    "hooks": {
+        "gallery": {
+            "apparmor": "gallery.apparmor",
+            "content-hub": "gallery-content.json",
+            "desktop": "share/applications/gallery-app.desktop",
+            "urls": "share/url-dispatcher/urls/gallery-app.url-dispatcher"
+        }
+    },
+    "icon": "share/icons/gallery-app.svg",
+    "installed-size": "5311",
+    "maintainer": "UBports <dev@ubports.com>",
+    "name": "com.ubuntu.gallery",
+    "title": "Gallery",
+    "version": "2.10.4",
+    "x-test": {
+        "autopilot": "gallery_app"
+    }
+}

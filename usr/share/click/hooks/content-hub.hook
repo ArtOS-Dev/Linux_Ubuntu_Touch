@@ -1,0 +1,4 @@
+Pattern: ${home}/.local/share/content-hub/${id}
+Exec: /usr/lib/arm-linux-gnueabihf/content-hub/content-hub-peer-hook-wrapper
+User-Level: yes
+Hook-Name: content-hub

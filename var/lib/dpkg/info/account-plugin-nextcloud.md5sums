@@ -1,0 +1,6 @@
+9e27a85546b4a4f70c718170fa7250b4  usr/share/accounts/providers/nextcloud.provider
+b3ae1605a946b3e200c18b44a4774b54  usr/share/accounts/qml-plugins/nextcloud/Main.qml
+a8fe4cf57e90759c7cfe4016c9ebd3b2  usr/share/accounts/qml-plugins/nextcloud/NewAccount.qml
+c794d732a42070dfb672cc5ac7902b73  usr/share/doc/account-plugin-nextcloud/changelog.gz
+159e83d94912881f23010e94ce02fb6a  usr/share/doc/account-plugin-nextcloud/copyright
+5db5fa971004a816985d11d1d151ad03  usr/share/icons/hicolor/32x32/apps/nextcloud.png

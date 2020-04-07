@@ -1,0 +1,9 @@
+Package: com.ubuntu.terminal
+Status: install ok installed
+Installed-Size: 2191
+Maintainer: UBports <dev@ubports.com>
+Architecture: armhf
+Version: 0.9.4
+Description: Terminal
+Click-Version: 0.4
+

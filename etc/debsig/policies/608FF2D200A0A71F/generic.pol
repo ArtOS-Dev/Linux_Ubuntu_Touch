@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE Policy SYSTEM "http://www.debian.org/debsig/1.0/policy.dtd">
+<Policy xmlns="http://www.debian.org/debsig/1.0/">
+
+    <!-- This is mainly a sanity check, since our filename is that of the ID
+         anyway. -->
+    <Origin Name="click-store" id="608FF2D200A0A71F" Description="Ubuntu Click Store Pubkey"/>
+  
+    <!-- This is required to match in order for this policy to be used. -->
+    <Selection>
+      <Required Type="origin" File="click-store.gpg" id="608FF2D200A0A71F"/>
+    </Selection>
+  
+    <!-- Once we decide to use this policy, this must pass in order to verify
+         the package. -->
+    <Verification>
+      <Required Type="origin" File="click-store.gpg" id="608FF2D200A0A71F"/>
+    </Verification>
+
+</Policy>

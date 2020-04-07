@@ -1,0 +1,8 @@
+b3baa129a5b31ee022a3795d184b9cf7  usr/lib/arm-linux-gnueabihf/indicator-transfer/indicator-transfer-service
+c06df3ce8473ec7a1a036d9f7d6f7b86  usr/lib/systemd/user/indicator-transfer.service
+a27ef434c526ee9ffb3427eef16919c7  usr/share/doc/indicator-transfer/changelog.gz
+2cdda7cea4c0d1aebe38dbb14839cbb0  usr/share/doc/indicator-transfer/copyright
+c75495ee5223875d3877e72e7130fed5  usr/share/unity/indicators/com.canonical.indicator.transfer
+26f14e5726d99ffdc1d6b63d7cc72b18  usr/share/upstart/sessions/indicator-transfer.conf
+cf3f2a865fbea819dadd439586eaee31  usr/share/upstart/systemd-session/upstart/indicator-transfer.override
+c56818163f15aac48b8cca737d70e488  usr/share/upstart/xdg/autostart/indicator-transfer.desktop

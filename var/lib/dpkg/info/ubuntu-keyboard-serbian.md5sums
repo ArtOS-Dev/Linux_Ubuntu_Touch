@@ -1,0 +1,8 @@
+ae7fcc26ec5465164a7c3d4b645f411b  usr/share/doc/ubuntu-keyboard-serbian/changelog.gz
+3f9b7512cd28d7413f3ad2f8295920d5  usr/share/doc/ubuntu-keyboard-serbian/copyright
+9c4f9f0703c8ef197527efa39895dfb0  usr/share/maliit/plugins/com/ubuntu/lib/sr/Keyboard_sr.qml
+c786320abd525b1919ec1094a7129fc1  usr/share/maliit/plugins/com/ubuntu/lib/sr/Keyboard_sr_email.qml
+967acb873d0c39d56e9997024fb7bdc7  usr/share/maliit/plugins/com/ubuntu/lib/sr/Keyboard_sr_url.qml
+967acb873d0c39d56e9997024fb7bdc7  usr/share/maliit/plugins/com/ubuntu/lib/sr/Keyboard_sr_url_search.qml
+0109d0d6c20c579cbb8b0b7630dbef53  usr/share/maliit/plugins/com/ubuntu/lib/sr/database_sr.db
+78ee8de6d95cde4dc04a512ed0842fba  usr/share/maliit/plugins/com/ubuntu/lib/sr/libsrplugin.so

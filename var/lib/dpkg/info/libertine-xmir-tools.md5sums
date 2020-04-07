@@ -1,0 +1,12 @@
+bdbd26dcc566d8b64b5d319aa8f2c0bf  usr/bin/libertine-launch
+2f2d58d65052736f6d21b043b09126f2  usr/bin/libertine-xmir
+b431efad808d6685cce6ef674c37ec37  usr/bin/pasted
+ed7bb1cc6ae7c8d5f49fe99e569fad05  usr/lib/python3/dist-packages/libertine/launcher/__init__.py
+299bda9de87a1a62b9479e440b370354  usr/lib/python3/dist-packages/libertine/launcher/config.py
+679174d7499fe28d89aeaaa90a2c1c38  usr/lib/python3/dist-packages/libertine/launcher/session.py
+8d957c0be5976a6e8b31544864f95ae8  usr/lib/python3/dist-packages/libertine/launcher/task.py
+48f4c34c8676520e781d5303d3d08aca  usr/share/doc/libertine-xmir-tools/changelog.gz
+363c1ce6b129e0e537d2c4b1fd5bdb4e  usr/share/doc/libertine-xmir-tools/copyright
+e990c7f28bde3c633bb0a84a00e4588b  usr/share/man/man1/libertine-launch.1.gz
+70408504bd398efc800428c934b877d4  usr/share/man/man1/libertine-xmir.1.gz
+b003dc6bd69d09377e39c2ce0cad6355  usr/share/upstart/sessions/libertine-xmir.conf

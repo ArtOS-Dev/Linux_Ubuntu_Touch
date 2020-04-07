@@ -1,0 +1,16 @@
+TARGETS = rsyslog cgmanager killprocs dbus cgproxy cgroupfs-mount isc-dhcp-server single cron rsync ssh bluetooth lightdm openvpn plymouth rc.local ondemand
+INTERACTIVE = openvpn
+dbus: rsyslog
+cgproxy: cgmanager
+cgroupfs-mount: rsyslog
+isc-dhcp-server: rsyslog
+single: killprocs
+cron: rsyslog
+rsync: rsyslog
+ssh: rsyslog
+bluetooth: rsyslog dbus
+lightdm: dbus
+openvpn: rsyslog
+plymouth: rsyslog cgmanager openvpn bluetooth dbus lightdm cgproxy cgroupfs-mount isc-dhcp-server cron rsync ssh
+rc.local: rsyslog cgmanager openvpn bluetooth dbus lightdm cgproxy cgroupfs-mount isc-dhcp-server cron rsync ssh
+ondemand: rsyslog cgmanager openvpn bluetooth dbus lightdm cgproxy cgroupfs-mount isc-dhcp-server cron rsync ssh

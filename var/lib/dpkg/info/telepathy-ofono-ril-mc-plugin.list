@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/lib
+/usr/lib/mission-control-plugins.0
+/usr/lib/mission-control-plugins.0/mcp-account-manager-ofono.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/telepathy-ofono-ril-mc-plugin
+/usr/share/doc/telepathy-ofono-ril-mc-plugin/changelog.gz
+/usr/share/doc/telepathy-ofono-ril-mc-plugin/copyright

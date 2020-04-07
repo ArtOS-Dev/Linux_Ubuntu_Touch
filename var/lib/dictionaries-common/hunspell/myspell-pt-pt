@@ -1,0 +1,7 @@
+Language: português/europeu (Portuguese/European)
+Hash-Name: pt_PT
+Emacsen-Name: portugues
+Otherchars: [']
+Additionalchars: áéíóúàèìòùãõçâêôÁÉÍÓÚÀÈÌÒÙÃÕÇÂÊÔ
+Coding-System: iso-8859-1
+Hunspell-Locales: pt, pt_PT

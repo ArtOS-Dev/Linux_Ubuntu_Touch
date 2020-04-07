@@ -1,0 +1,92 @@
+#!/usr/bin/python3
+# ------------------------------------------------------------------
+#
+#    Copyright (C) 2014 Canonical Ltd.
+#
+#    This program is free software; you can redistribute it and/or
+#    modify it under the terms of version 2 of the GNU General Public
+#    License published by the Free Software Foundation.
+#
+# ------------------------------------------------------------------
+
+from apparmor import click
+from apparmor.common import AppArmorException
+import optparse
+import sys
+
+
+def error(out, exit_code=1, do_exit=True):
+    '''Print error message and exit'''
+    try:
+        sys.stderr.write("ERROR: %s\n" % (out))
+    except IOError:
+        pass
+
+    if do_exit:
+        sys.exit(exit_code)
+
+
+def warn(out):
+    '''Print warning message'''
+    try:
+        sys.stderr.write("WARN: %s\n" % (out))
+    except IOError:
+        pass
+
+
+def msg(out):
+    '''Print message'''
+    try:
+        sys.stdout.write("%s\n" % (out))
+    except IOError:
+        pass
+
+
+def main():
+    parser = optparse.OptionParser()
+    parser.add_option("-q", "--query",
+                      dest='query',
+                      help="Query for given framework. Specify 'help' " +
+                           "for more information",
+                      metavar="QUERY",
+                      default=None)
+    parser.add_option("--click-framework",
+                      dest='click_framework',
+                      help='Specify click framework to query',
+                      metavar="CLICKFRAMEWORK",
+                      default=None)
+
+    (opt, args) = parser.parse_args()
+
+    if not len(args) == 0:
+        sys.exit(1)
+
+    rc = 0
+    if opt.query == "help":
+        m = '''Valid query strings:
+  policy_version
+'''
+    elif opt.query is None or opt.click_framework is None:
+        error("Not enough arguments")
+    elif opt.query == "policy_version":
+        try:
+            v = click.get_policy_version_for_framework(
+                opt.click_framework)
+        except AppArmorException:
+            error("Could not determine policy version for '%s'" %
+                  opt.click_framework)
+        # Ubuntu 15.04 and early used a version that didn't correspond with
+        # the Ubuntu release, but 15.10 and higher use the Ubuntu release
+        # version.
+        if opt.click_framework.startswith("ubuntu") and v > 1.3:
+            m = "%.02f" % v
+        else:
+            m = "%s" % str(v)
+    else:
+        error("Invalid query '%s'" % opt.query)
+
+    msg(m)
+    return rc
+
+if __name__ == "__main__":
+    sys.exit(main())

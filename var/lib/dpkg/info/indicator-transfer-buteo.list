@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/indicator-transfer
+/usr/lib/arm-linux-gnueabihf/indicator-transfer/libbuteo-transfers.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/indicator-transfer-buteo
+/usr/share/doc/indicator-transfer-buteo/changelog.Debian.gz
+/usr/share/doc/indicator-transfer-buteo/copyright

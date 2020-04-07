@@ -1,0 +1,9 @@
+auto
+/usr/bin/tcptraceroute
+tcptraceroute.1.gz
+/usr/share/man/man1/tcptraceroute.1.gz
+
+/usr/bin/tcptraceroute.mt
+110
+/usr/share/man/man1/tcptraceroute.mt.1.gz
+

@@ -1,0 +1,6 @@
+367caff64f92ae8ffb99958a8513c9a3  usr/lib/pulse-8.0/modules/libtruststore-util.so
+5d252c03c5b76232b6a67e2efa6bf620  usr/lib/pulse-8.0/modules/module-trust-store.so
+50d9216de111235e4c9a2bb344b9c17e  usr/share/doc/pulseaudio-module-trust-store/NEWS.gz
+8b06b7c1e8bb60d6ce9d5e5a88335997  usr/share/doc/pulseaudio-module-trust-store/README
+cad40519f8e5ed42879a014151d8943c  usr/share/doc/pulseaudio-module-trust-store/changelog.Debian.gz
+1a70969fd317243739e917dee33e532a  usr/share/doc/pulseaudio-module-trust-store/copyright

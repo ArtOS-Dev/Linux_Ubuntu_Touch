@@ -1,0 +1,11 @@
+/.
+/lib
+/lib/arm-linux-gnueabihf
+/lib/arm-linux-gnueabihf/libisccfg-export.so.140.3.0
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libisccfg-export140
+/usr/share/doc/libisccfg-export140/copyright
+/lib/arm-linux-gnueabihf/libisccfg-export.so.140
+/usr/share/doc/libisccfg-export140/changelog.Debian.gz

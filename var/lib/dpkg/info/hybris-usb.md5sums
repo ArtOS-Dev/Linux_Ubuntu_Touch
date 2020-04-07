@@ -1,0 +1,5 @@
+7627df5b1dfb2626cf0daf59c12af728  lib/systemd/system/usb-tethering.service
+91488e96581dff4cc5d98b1f3ec2e55a  usr/bin/usb-tethering
+91422a3f2a69c9800d25cd65358fe5df  usr/lib/tmpfiles.d/hybris-usb.conf
+b661fe4f6a96fb6bb8c7dfdce599d3c6  usr/share/doc/hybris-usb/changelog.gz
+700718f22042ff8b19ea9add8a73bda0  usr/share/doc/hybris-usb/copyright

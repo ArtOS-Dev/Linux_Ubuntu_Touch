@@ -1,0 +1,5 @@
+98352606b6558b0ce3a6a3e5c9f77ab7  lib/udev/rules.d/60-openobex.rules
+8fd9f277983cb20814866a98e9447948  usr/lib/arm-linux-gnueabihf/libopenobex.so.1.7.1
+631c9a37d19ec8543d10149e9ad3c7dc  usr/sbin/obex-check-device
+6f2323bcf29d2f8a4bee89d4a461718b  usr/share/doc/libopenobex2/changelog.Debian.gz
+6bdaacce7dfa462834d0883a81adffb5  usr/share/doc/libopenobex2/copyright

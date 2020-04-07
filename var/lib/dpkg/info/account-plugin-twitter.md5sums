@@ -1,0 +1,5 @@
+3c9b6ea991395aed983b7faf482d9fa2  usr/share/accounts/providers/twitter.provider
+df5316fe9dbd58896735e99051f4963f  usr/share/accounts/qml-plugins/twitter/Main.qml
+d18f6fb99f7280e7315b869f402079bb  usr/share/accounts/services/twitter-microblog.service
+c794d732a42070dfb672cc5ac7902b73  usr/share/doc/account-plugin-twitter/changelog.gz
+159e83d94912881f23010e94ce02fb6a  usr/share/doc/account-plugin-twitter/copyright

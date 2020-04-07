@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/signon-apparmor-extension
+/usr/share/doc/signon-apparmor-extension/copyright
+/usr/share/doc/signon-apparmor-extension/changelog.Debian.gz
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/signon
+/usr/lib/arm-linux-gnueabihf/signon/extensions
+/usr/lib/arm-linux-gnueabihf/signon/extensions/libsignon-apparmor-ac.so

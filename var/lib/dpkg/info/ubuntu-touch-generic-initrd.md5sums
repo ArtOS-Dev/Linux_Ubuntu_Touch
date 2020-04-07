@@ -1,0 +1,4 @@
+3c15f1db9547336b22d02ab1b33be7c1  usr/lib/ubuntu-touch-generic-initrd/initrd.img-touch-0.94vivid5ubports1+0~20181212230101.7~1.gbp60fd9d
+1549e7139f642b60c81fe50738d3ce71  usr/share/doc/ubuntu-touch-generic-initrd/changelog.gz
+61ed2d860e0d88d1d68e4a3c2248be4e  usr/share/doc/ubuntu-touch-generic-initrd/copyright
+774eedac85f4eed258f10bcbcba8cb39  var/lib/initramfs-tools/touch

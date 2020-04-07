@@ -1,0 +1,9 @@
+Package: openstore.openstore-team
+Status: install ok installed
+Installed-Size: 818
+Maintainer: OpenStore Team <openstore-team@lists.launchpad.net>
+Architecture: armhf
+Version: 2.87
+Description: OpenStore
+Click-Version: 0.4
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service id="com.ubuntu.reminders_reminders">
+  <type>sharing</type>
+  <name>Evernote</name>
+  <icon>evernote</icon>
+  <provider>com.ubuntu.reminders_evernote-account-plugin</provider>
+  <translations>account-plugins</translations>
+</service>

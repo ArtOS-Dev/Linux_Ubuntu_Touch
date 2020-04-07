@@ -1,0 +1,7 @@
+84b2443e2e30267590a3df3f7c2a0179  lib/systemd/system/ofono.service
+4f80d60be1c2bda3d005928a60c46ee7  usr/sbin/ofonod
+eb3fc9f144753fbb6cb17c4bbc94e675  usr/share/doc/ofono/AUTHORS.gz
+9631a2b459f8978a003bea3aee866747  usr/share/doc/ofono/changelog.gz
+26459c8b89386cf25efd76d113e2aa2b  usr/share/doc/ofono/copyright
+801a70deff3eb4d24551e9093adf82ed  usr/share/lintian/overrides/ofono
+999e894de1a661036ef9156068316203  usr/share/man/man8/ofonod.8.gz
