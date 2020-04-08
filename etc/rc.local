@@ -13,3 +13,6 @@
 
 # Fix Wifi For Whyred
 LD_LIBRARY_PATH=/system/lib64:/vendor/lib64 /vendor/bin/cnss-daemon
+
+# Fix Errors System Read Only :
+mount -o remount,rw /
